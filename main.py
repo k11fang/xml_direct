@@ -1,0 +1,115 @@
+# This is a sample Python script.
+
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+videoforme_cities = [
+    'moskva',
+    'almaty',
+    'arhangelsk',
+    'astana',
+    'astrahan',
+    'barnaul',
+    'belgorod',
+    'bishkek',
+    'bryansk',
+    'vladivostok',
+    'volgograd',
+    'voronezh',
+    'ekaterinburg',
+    'ivanovo',
+    'izhevsk',
+    'irkutsk',
+    'kazan',
+    'kaliningrad',
+    'kemerovo',
+    'krasnodar',
+    'krasnoyarsk',
+    'lipetsk',
+    'mahachkala',
+    'minsk',
+    'nizniy-novgorod',
+    'novokuznetsk',
+    'novosibirsk',
+    'omsk',
+    'online',
+    'orenburg',
+    'penza',
+    'perm',
+    'rostov-na-donu',
+    'ryazan',
+    'samara',
+    'saratov',
+    'smolensk',
+    'surgut',
+    'tashkent',
+    'tver',
+    'tolyatti',
+    'tomsk',
+    'tula',
+    'tumen',
+    'ulyanovsk',
+    'ufa',
+    'khabarovsk',
+    'cheboksary',
+    'chelyabinsk',
+    'yaroslavl',
+    'online'
+]
+
+ecolespb_cities = [
+    'moscow',
+    'arhangelsk',
+    'balashikha',
+    'barnaul',
+    'vladivostok',
+    'volgograd',
+    'voronezh',
+    'ekb',
+    'ivanovo',
+    'izhevsk',
+    'irkutsk',
+    'kazan',
+    'kaliningrad',
+    'kemerovo',
+    'kirov',
+    'krasnodar',
+    'krasnoyarsk',
+    'lipetsk',
+    'nizniy-novgorod',
+    'novokuznetsk',
+    'novosibirsk',
+    'omsk',
+    'orenburg',
+    'penza',
+    'perm',
+    'rostov-na-donu',
+    'ryazan',
+    'samara',
+    'saratov',
+    'stavropol',
+    'surgut',
+    'tver',
+    'tolyatti',
+    'tomsk',
+    'tula',
+    'tumen',
+    'ulyanovsk',
+    'ufa',
+    'cheboksary',
+    'chelyabinsk',
+    'yaroslavl',
+    'almaty',
+    'astana',
+    'minsk'
+]
+
+def main():
+
+
+
+# Press the green button in the gutter to run the script.
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
