@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:10">
+<shop>
+<name>Эколь</name>
+<company>Академия Красоты Эколь</company>
+<url>https://ecolespb.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers><offer id="6b78656c-108c-a15d-92d0-61654a507f4e" available="true">
+<url>https://ecolespb.ru/style-school/kursy-ehffektivnogo-shopinga</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/12/b5e31f5ccc015c5655ada6475fa9f20d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы капсульного гардероба</name>
+<description>Научитесь собирать капсулы из базового гардероба на любой случай</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="873dc1a5-ab1c-3612-65e1-6149923b501d" available="true">
+<url>https://ecolespb.ru/style-school/visual-merchandising</url>
+<price>8000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/65bed54021d72384e3953905e0234c25.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визуального мерчендайзинга</name>
+<description>Научитесь оформлять витрины магазина, привлекать внимание к нужным товарам и увеличивать прибыль бизнеса</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="5b93f689-c0a3-0e4b-25c3-61654a34691d" available="true">
+<url>https://ecolespb.ru/style-school/aspiring-stylist</url>
+<price>10300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/12/440d382058e2f6a61f1ad9638b1fa7bc.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистов для начинающих</name>
+<description>Научитесь составлять эффектные образы и работать с персональным стилем</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="88acb902-79e5-ad67-ba89-6176609da5e7" available="true">
+<url>https://ecolespb.ru/style-school/trendwatching</url>
+<price>3990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/21d6cc8a1db72e1b3a5061377457c0bb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы трендвотчинга: анализ трендов</name>
+<description>Научитесь использовать методы прогнозирования модных тенденций и сможете собирать актуальные образы сезона</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="39817f96-2297-c3f0-b27e-61713a76c7d5" available="true">
+<url>https://ecolespb.ru/style-school/sewing-dress</url>
+<price>2300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/151c02f5a56fb1aa8ab3f54ad73b2fc4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>МК Дресс-код: стильный офис</name>
+<description>Собери индивидуальную капсулу в деловом стиле и оставайся собой даже при строгом дресс-коде</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4f9df095-b4cc-49d1-0955-61654b9f5fd9" available="true">
+<url>https://ecolespb.ru/style-school/kursy-stilistiki-na-praktike</url>
+<price>12000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/12/9d9e1f73bc22f66271ea6185eed03c14.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы fashion-консультирования</name>
+<description>Станьте профессионалом в модной индустрии и начните работать с fashion-съемками</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id=" 94a1081e-b3bd-40de-a4d1-61713ab9d4b" available="true">
+<url>https://ecolespb.ru/style-school/color-clothing-capsule</url>
+<price>1990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/fcb317daad7fa184f7a71557c72c5e22.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>МК Сочетание цветов: собираем капсулу</name>
+<description>Научись сочетать цвета и создавать неповторимые образы для собственной капсулы</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1daa04ad-6ffc-947e-3e72-6462749d6c6b" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/eyelash-extensions</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/c3d363533281346fda7c9e90a3c343e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мега-объемов в наращивании ресниц</name>
+<description>Станьте востребованным мастером, освойте техники мега-объемов и повысьте свой профессионализм</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6817261d-7f93-82b7-815f-6454ec57f41e" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/laminating_eyelashes</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/0ffbea5a27cf5b89c5b5ffbe70f7f822.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ламинирования, нанопластики и ботокса ресниц</name>
+<description>Научитесь выполнять популярную услугу ламинирования и ботокса ресниц и работать со сложными ресницами, расширите спектр услуг для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="dc351ccd-e402-471d-0a1d-627e0a5f16d7" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/course_correction_and_coloring_eyebrows</url>
+<price>4900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/f25b78609028e2fc22cd27d3445c9504.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы коррекции и окрашивания бровей</name>
+<description>Научитесь выполнять окрашивание бровей хной и краской, освойте коррекцию и архитектуру бровей и начните зарабатывать сразу после обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1f7571dd-b336-cf38-7bd6-627e0bad00d1" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/kursy-naraschivaniya-resnic-i-pokraski-brovei</url>
+<price>8900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/f8975f007986ad6708bc4a8f438050a5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания ресниц</name>
+<description>Научитесь выполнять востребованную услугу классического наращивания ресниц и найдите первых клиентов сразу после окончания обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b2cc0ad9-5639-90e5-5882-627e0a097433" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/laminirovanie-brovei</url>
+<price>4900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/36ab4fc8708ce44d8e7e4e26aa2a0613.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ламинирования и ботокса бровей</name>
+<description>Обучитесь популярной услуге и преображайте клиентов с помощью долговременной укладки бровей</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ab022588-ff0d-3809-ff2d-627e0bdab2d6" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/volume_lashes</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2016/11/e5cacf0e9a3f999ffa2b521ec37a664a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы объемного наращивания ресниц</name>
+<description>Освойте технику объемного наращивания ресниц и применяйте декор в наращивании, повысьте квалификацию профессионала</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1d85daec-6194-9ad9-62e8-6454cc6ae6b4" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/eyebrow-correction-thread</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/e4b8bb9beccdfe219a102fafe79ad390.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стайлинга и сложной колористики бровей</name>
+<description>Освойте навыки коррекции бровей с помощью нити и воска, разберитесь в вопросах колористики и повысьте квалификацию мастера</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="43926c74-5e42-3f09-c466-646276f57672" available="true">
+<url>https://ecolespb.ru/browmaker-lashmaker/fast-eyelash-extension</url>
+<price>4800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/4be9acda32106ffbc5fd2bf3d134d479.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скоростных техник в наращивании ресниц</name>
+<description>Станьте востребованным мастером, освойте скоростные техники в наращивании ресниц и повысьте свой профессионализм</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000009" available="true">
+<url>https://ecolespb.ru/makeup-school/greasepaint</url>
+<price>36600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/c80c2c5878f130ffa38d05853ffcb11d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы театрального грима</name>
+<description>Научись создавать грим для сцены за 4 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000010" available="true">
+<url>https://ecolespb.ru/makeup-school/special-effects</url>
+<price>36600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/3532bb8ca87ef2270a29e8936530a467.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы спецэффектов в гриме</name>
+<description>Научись изменять человека до неузнаваемости уже после 4 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000126" available="true">
+<url>https://ecolespb.ru/makeup-school/professional-makeup</url>
+<price>15500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/09/2c07af14ed55d4b156aa0b93ba92e930.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального макияжа</name>
+<description>Научись профессиональным техникам макияжа, использованию цвета и работе с клиентом за 10 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000026" available="true">
+<url>https://ecolespb.ru/makeup-school/visage</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/cd49c5143d7214a7c793bdc937572b61.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визажистов для начинающих</name>
+<description>Научись создавать макияж на каждый день и для особого случая за 5 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="df99f22a-830a-afb6-921d-64b63930da9d" available="true">
+<url>https://ecolespb.ru/beauty-marketing/samozanyatost-byuti-mastera</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/acad461bff5811217cd5acb7f706823f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы самозанятости для бьюти мастера</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="c97f31c1-5729-4498-b37c-64d0c0433464" available="true">
+<url>https://ecolespb.ru/beauty-marketing/praktikum-baza-klientov</url>
+<price>12000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/b3328b03ae72f138908a86b3c6a5a2dc.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Постоянная база лояльных клиентов: выстраиваем доверительные отношения</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d324940e-d245-fd88-61d3-64b643129a6a" available="true">
+<url>https://ecolespb.ru/beauty-marketing/careers-in-beauty</url>
+<price>10200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/6deca76f36fa1bd9429babd6b7e2ea7d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы личного бренда. Продвижение beauty-мастера</name>
+<description>Узнай, как начинающему мастеру найти первых клиентов и продвигать личный бренд в сети</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d42772cf-8b3c-4c09-563e-6176a0c24905" available="true">
+<url>https://ecolespb.ru/beauty-marketing/beauty-instructor</url>
+<price>11200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/ea76960d21ee01e15da02d8dab9ff351.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы инструктор в beauty-сфере</name>
+<description>Станьте востребованным инструктором в beauty-сфере, создайте авторский курс и научитесь зарабатывать на своей экспертности</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b261b568-daa9-a8ac-70ab-64d0c246824f" available="true">
+<url>https://ecolespb.ru/beauty-marketing/praktikum-anti-stress</url>
+<price>9600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/8cd6ae11d9052d25248975d2d0f78542.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Как справиться со стрессом и не выгореть бьюти-мастеру</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9092c9ef-8642-db35-116d-64b647d985f1" available="true">
+<url>https://ecolespb.ru/beauty-marketing/ehtika-i-psihologiya-obshcheniya</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/86c662291eac91800bf2b8f00ba6059a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы этики и психологии общения с клиентом в косметологии</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3ca65263-4765-6496-c8f3-63c152c1bb5a" available="true">
+<url>https://ecolespb.ru/beauty-marketing/beauty-salon</url>
+<price>15330</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/01/36d4ece8e9328290c4729d11b5d17d52.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по открытию салона красоты</name>
+<description>Вы составите бизнес-план, определите величину инвестиций, срок окупаемости и точку безубыточности. Получите перечень документации для открытия салона, узнаете, как привлечь...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6c7c0313-d216-39a8-8a65-61e67ee81be5" available="true">
+<url>https://ecolespb.ru/beauty-marketing/stress-management</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/7be85337b88a699790faa356b15eccf0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управления стрессом</name>
+<description>Сформируй собственную стратегию снижения стресса</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="27dedfde-b9dc-8c18-36e3-64d0c48f707e" available="true">
+<url>https://ecolespb.ru/beauty-marketing/praktikum-uverennyj-byuti-master</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/49a7475e4c01d630b4694fdfa04c55a0.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Уверенный бьюти-мастер: находим подход к любому клиенту </name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ecc82b49-a293-7bc1-0518-64b64592cd7a" available="true">
+<url>https://ecolespb.ru/beauty-marketing/start-karery</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/db6dc80a04a46b1e60c7320f7da78061.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы старта в карьере beauty-мастера</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9c07da56-b056-a25e-5858-623c762aa461" available="true">
+<url>https://ecolespb.ru/manicure-school/nail-art</url>
+<price>9800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/ee3ad5c67b5a42f382f424a2bed9f8a1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна ногтей</name>
+<description>Повысьте средний чек, освоив современные дизайны ногтей. Выполняйте сложный дизайн под запрос любого клиента</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ad3f62fc-80dd-29e8-330c-623c75df1d6e" available="true">
+<url>https://ecolespb.ru/manicure-school/pedicure</url>
+<price>24300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/14b4e559fa1c6dd9f57c6a091d715e2c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы педикюра</name>
+<description>Освойте востребованную и дорогостоящую процедуру эстетического педикюра, станьте востребованным мастером и расширьте спектр услуг для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ad7ff793-a74b-8bec-984f-623c74ccdc57" available="true">
+<url>https://ecolespb.ru/manicure-school/manicure-master</url>
+<price>29000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/55534ae2293e66d3d7d429a2941c31e7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мастера маникюра</name>
+<description>Начните зарабатывать на маникюре уже во время обучения: станьте востребованным мастером, работайте на себя или в лучших салонах вашего города</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a6e722f8-7d4f-8a15-9e63-623c76a35958" available="true">
+<url>https://ecolespb.ru/manicure-school/nail-extensions</url>
+<price>42600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/f027d232e5f3176dd097d315f32fe3cf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания ногтей</name>
+<description>Научитесь востребованным техникам моделирования ногтей и станьте универсальным специалистом. Предлагайте услуги наращивания и коррекции ногтей вашим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a7e27f7c-b99e-f0e9-bb08-61e67e7ad5d0" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/face-lifting</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/9c2af368ed42c1f62a2a381e09166025.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фейслифтинга </name>
+<description>Сохраните молодость и красоту с помощью самомассажа Гуаша и экономьте на салонах и дорогостоящих кремах</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="77c42ea7-cbab-2816-d216-62cbe82bfbf6" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii-voskom</url>
+<price>6600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/06/57b5e8621721055472feda6d0005150e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы депиляции</name>
+<description>Научись делать восковую депиляцию в различных техниках всего за 1 практическое занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000046" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/kursy-klassicheskogo-massazha-lica</url>
+<price>12900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/1385972db61526995e7424a666726f81.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косметического массажа лица</name>
+<description>Научись основным техникам массажа лица за 4 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8652ba97-de44-a516-f06a-62cbe8ff125f" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii</url>
+<price>8000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/05/8873e21a274583f305cb39dbf0644e4e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации по депиляции</name>
+<description>Научись скоростным техникам депиляции всего за 1 практическое занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3bb58b3c-f87a-7a99-857e-613fbe548ace" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/facial-massage-2</url>
+<price>6200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/59b980544658b5bd1e4e49c92a5162a2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы миофасциального массажа лица</name>
+<description>Освой технику миофасциального массажа лица за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d8ad2dfd-4304-65d1-d741-5d95e862e789" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/kobido-courses</url>
+<price>9100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/10/6578bb09deb87636a63bd9426ed95ed5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы массажа Кобидо </name>
+<description>Изучи японскую технику омолаживающего массажа за 3 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3198311d-6c75-ab5d-1cf0-640ef9b2b8f7" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/facial-massage-4</url>
+<price>11000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/04/c935591dff19af6efc70f5e50a50dd5b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скульптурного массажа лица</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d36fe275-1846-c88c-02c9-613fbea1731e" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/facial-massage</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/65867ee6bfc53863045d1c74dc2f465d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лимфодренажного массажа лица</name>
+<description>Освой технику лимфодренажного массажа за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="bcf0d704-4100-2300-ce45-5cdada675159" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/kursy-muzhskoy-depilyacii</url>
+<price>5800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/05/3b8329e62a996d0098ccd723f96ac6fd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мужской депиляции </name>
+<description>Научись проводить депиляцию клиентам-мужчинам всего за 1 практическое занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1b470968-4c3d-3d48-62c9-62cbe8acc7be" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii</url>
+<price>5700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/07/1f0cf00dc6fe342c6621317ac23fbf4f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы шугаринга</name>
+<description>Узнай, как правильно делать сахарную депиляцию любой зоны всего за одно занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="5d9a49c0-5e8c-a5f6-edfd-60ab866a7204" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/nutrition-courses</url>
+<price>12900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/d27b1c955a4251c0e3f393a20d7fdf1a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы нутрициологии</name>
+<description>Освойте востребованную профессию нутрициолога и научитесь корректировать питание ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="29d366d2-aefc-3b35-8cbb-5d9317690219" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/courses-buccal-massage</url>
+<price>9100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/11/31efac2fa024635dbea6fd5da2c86b0c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы буккального массажа</name>
+<description>Научись выполнять лифтинг лица при помощи массажа за 3 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="93e63258-d033-9cac-eaea-5d07a2dd8fd8" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/course-facebuilding</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/07/ec18d425d147e3af56342d7d9f39d4eb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фейсбилдинга и гимнастики лица</name>
+<description>Обучитесь подтяжке лица без инъекций и хирургии</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f35154c3-d71b-e5ee-413d-5e820b387f18" available="true">
+<url>https://ecolespb.ru/aesthetic-cosmetology-school/teypirovanie</url>
+<price>28800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/07/8a1f1553779b016e19d5fea36ec88fe5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тейпирования</name>
+<description>Освой навык неинвазивной коррекции фигуры и лица при помощи тейпов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cc0ddace-fcd9-6eab-c6ec-611bd0387262" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-clothes-1</url>
+<price>15600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/b2df74559e21dd2f04ffa80fe5159e76.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы моделирования и пошива плечевого изделия</name>
+<description>Научитесь конструировать и выполнять полный пошив плечевого изделия и берите работы на заказ</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8ea20bf8-d641-4f44-1de6-6229f45f3979" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-shirt</url>
+<price>45000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/2fb35de342cd734a8437539936d9ce24.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива мужской рубашки</name>
+<description>Научитесь конструировать, моделировать и шить мужскую рубашку за 10 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="c3a99851-3851-5921-74d4-611bd01f5297" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-clothes-4</url>
+<price>9700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/5db44b76ac86775439e59aeb26f3cd80.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы конструирования, моделирования и пошива юбки</name>
+<description>Научитесь конструировать и выполнять качественный пошив юбок с учетом индивидуальных параметров</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4844393c-90d4-13c1-63c4-613f3531f43c" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-dress</url>
+<price>9000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/a7299cb835e4b98b146f14e1955833ff.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву платья-комбинации</name>
+<description>Научись шить модное платье-комбинацию из легкой струящейся ткани за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d1afd5a3-929a-dc79-33de-5f649f013790" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-sleepwear</url>
+<price>7200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/4882ad43e1f6ca8583f7d4f24c58abba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива пижамы</name>
+<description>Научись создавать красивые пижамные комплекты за 4 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6344e34a-668f-5bea-d206-6229f3e769ae" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-trousers</url>
+<price>31500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/81d4da871b031dbb44c8a6e4fe7e1678.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива мужских брюк</name>
+<description>Научитесь конструировать, моделировать и шить мужские брюки за 7 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f054fd91-0cd8-e7eb-f8c2-613f3498f636" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-bed-linen</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/ed37d481f1c5663f22b9c7fd75ecac94.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву постельного белья</name>
+<description>Научись шить комплект постельного белья всего за 3 часа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6597c814-f54f-c2dd-4d64-6229f4d7bc92" available="true">
+<url>https://ecolespb.ru/sewing-school/clothing-manufacturing</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/e5746f2f9dc01eaa5ba988074e292f76.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по созданию своего бренда одежды</name>
+<description>Научитесь подбирать материалы для коллекции, а также составлять шаблон делового письма потенциальному поставщику</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2326a9ec-5e28-344f-bc22-61361fc25fea" available="true">
+<url>https://ecolespb.ru/sewing-school/knitting-blanket-courses</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/c89dc5bb833c7c2506e919fe8fdc0b47.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вязания пледа из гигантской пряжи</name>
+<description>Научись создавать модный домашний текстиль своими руками</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8df30e24-2151-1a16-3019-613f3406de19" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-hoodie</url>
+<price>9000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/d6ae617649a3e13716ca95b93f3cd789.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву худи</name>
+<description>Научись шить худи с карманом “кенгуру” и капюшоном всего за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="edd7cb8a-112a-4bcd-751b-6229f9aa04ec" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-clothes-5</url>
+<price>10400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/09/6ee69e1c6ca41f4765c4fa2759f3e166.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды</name>
+<description>Создай эскизный ряд коллекции по личному дизайну</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d70a8bec-409a-64b3-39bc-5f649e79bcaa" available="true">
+<url>https://ecolespb.ru/sewing-school/courses-qualification-sewing-underwear</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/8eb1bbb291401b1348641c720730a87f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации по пошиву белья</name>
+<description>Совершенствуй свои профессиональные навыки в пошиве красивого нижнего белья за 6 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9c7deec7-dae4-c8e6-e562-6332f558bfc4" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-jacket</url>
+<price>18000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/d586064952d84153a3900962a82a9fa3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по пошиву жакета</name>
+<description>Практический курс, на котором вы с нуля освоите технологию моделирования, конструирования и пошива жакета. Освоите процесс раскроя и сборки изделия, научитесь работать с по...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="98e173c2-87cc-4961-f28e-5d834bfb2fd5" available="true">
+<url>https://ecolespb.ru/sewing-school/courses-sewing-underwear</url>
+<price>8500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/09/24d6d105b28637b49972433e9a06afb6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива белья</name>
+<description>Научись создавать красивое нижнее белье за 6 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="95338c21-4cb2-bc16-a12b-611bd1f48288" available="true">
+<url>https://ecolespb.ru/sewing-school/sewing-clothes-3</url>
+<price>10400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/feb63e78a359512fa69d6ab8b32fc0f1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы конструирования, моделирования и пошива брюк</name>
+<description>Научитесь грамотно подбирать фасон, моделировать изделие и выполнять качественный пошив для себя и на заказ</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1c882eaa-6fb6-487c-4cc0-631f0048ed9b" available="true">
+<url>https://ecolespb.ru/massage-school/kursy-miofascionalnogo-massazha</url>
+<price>10400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/e7650c0ea1896cf4cec6690a461d6bf1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы миофасциального массажа тела</name>
+<description>Вы освоите современные методы оздоровления и омоложения организма с помощью миофасциального массажа. Повысите профессионализм, привлечете новых клиентов и будете получать о...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="36f3ae0a-d3a0-b41b-e7f5-631f001e3b0f" available="true">
+<url>https://ecolespb.ru/massage-school/kursy-massazha</url>
+<price>10000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/e5dbed01b9ce02dc30df4ec14abee572.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы классического массажа</name>
+<description>На практическом курсе вы получите знания по классическому массажу, анатомии человека, отработаете массажные приемы. Станете специалистом и будете зарабатывать от 2000 за сеанс</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000099" available="true">
+<url>https://ecolespb.ru/massage-school/relaxing_massage</url>
+<price>7500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/05/62d56629f898b8a506b845c1ac88d16e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы расслабляющего массажа</name>
+<description>Освой методику расслабляющего массажа всего за 4 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a22389de-03d3-f038-6f04-626934297018" available="true">
+<url>https://ecolespb.ru/massage-school/thai-massage</url>
+<price>27000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/d64cc6f89932c131f8a3289d0b371324.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тайского массажа</name>
+<description>Улучшайте состояние здоровья клиентов и повышайте квалификацию с помощью восточных техник классического тайского массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000060" available="true">
+<url>https://ecolespb.ru/massage-school/course-anticellulite-massage</url>
+<price>8200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2016/09/bbc084cfd7c23458905fd41019c2d611.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы антицеллюлитного массажа</name>
+<description>Обучись специальным техникам массажа, которые способствуют удалению целлюлита, всего за 6 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6e5f6959-8dc0-39c5-15bf-60a37a9263d4" available="true">
+<url>https://ecolespb.ru/massage-school/sports-massage</url>
+<price>14400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/34d9e938fe8a9b5db068a391a8ada1f6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы спортивного массажа</name>
+<description>Освой выполнение спортивного массажа и начни карьеру спортивного массажиста</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="47259370-c2f3-821a-7309-5fc76632274c" available="true">
+<url>https://ecolespb.ru/massage-school/guasha_massage</url>
+<price>5400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/12/24171a4dde22e0ab0604b4ede2028e0b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы массажа Гуаша</name>
+<description>Освой технику массажа Гуаша для лица и спины за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cb2e3081-e928-be01-ca8a-6246c0915809" available="true">
+<url>https://ecolespb.ru/massage-school/lymphatic-drainage-massage</url>
+<price>8200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/e6f1b63d87f9922d5a5e7d7fd6e97ebe.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лимфодренажного массажа</name>
+<description>Научитесь снимать отечность, уменьшать целлюлит и возвращать упругость кожи вашим клиентам с помощью лимфодренажного массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7962ab91-773c-02d8-4e25-60a37b35e92a" available="true">
+<url>https://ecolespb.ru/cosmetology-school/kinesio-taping</url>
+<price>10400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/190691f5eca86e82e3af1376c579a0c9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кинезиотейпирования</name>
+<description>Освойте навыки кинезиотейпирования для работы со спортсменами</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="395833e9-62d3-3552-4678-640ef8212993" available="true">
+<url>https://ecolespb.ru/cosmetology-school/upkeep</url>
+<price>18600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/92a5c9b4e907984cd3fd2c8e84e14be7.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эстетической косметологии</name>
+<description>Обучись качественному комплексному уходу за лицом</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ee435dd1-430e-4af6-95df-6311ad285905" available="true">
+<url>https://ecolespb.ru/cosmetology-school/botulinum-therapy</url>
+<price>20000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/12/842dec3df648bbcec075b28ebaf57df9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ботулинотерапии</name>
+<description>Узнайте, как грамотно выполнять процедуру ботулинотерапии своим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f1506e10-c51a-0fbb-241f-640ef9d48180" available="true">
+<url>https://ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology</url>
+<price>22800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/215977426c8fc34f6956d5aa8734f183.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аппаратной косметологии</name>
+<description>Научись аппаратной косметологии всего за 8 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="939f283c-22b9-9999-247d-6170763e72f2" available="true">
+<url>https://ecolespb.ru/cosmetology-school/electroepilation</url>
+<price>19700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/a7ec5c45be9fc5ed2f2c3226a9a1ed45.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы электроэпиляции</name>
+<description>Научитесь выполнять технику электроэпиляции и добавьте востребованную услугу для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="61dac205-8c53-2707-5eb8-5db046030b90" available="true">
+<url>https://ecolespb.ru/cosmetology-school/laser-removal-courses</url>
+<price>12400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/11/ca73bb0df06b5678775c571732837ed9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лазерной эпиляции</name>
+<description>Научись выполнять процедуру удаления волос при помощи лазера за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="25bed94c-6648-06fe-566b-63625189c020" available="true">
+<url>https://ecolespb.ru/cosmetology-school/chemical-peeling</url>
+<price>8800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/02/9c2c871d862feccd22cfa45798b53081.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы химических пилингов</name>
+<description>Научись выполнять популярную процедуру химического пилинга лица при помощи кислот</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2cf4c51e-258b-2641-602a-640ef9cfcba2" available="true">
+<url>https://ecolespb.ru/cosmetology-school/mesotherapy</url>
+<price>17100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/778f90858c715017a9f9ea961daf5c9b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы микронидлинга</name>
+<description>Научитесь проводить омолаживающие и корректирующие процедуры для ваших клиентов с помощью аппарата Дермапен</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3ff68b23-e887-4ec5-a2fd-63493ccf920a" available="true">
+<url>https://ecolespb.ru/cosmetology-school/courses-tattoo-styles</url>
+<price>28000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/11/656dd170a5e8380ef2c859e58c4693ef.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по стилям черно-белой татуировки </name>
+<description>Научитесь популярным стилям в татуировке и расширьте свой спектр тату-услуг!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cb8e1cfc-da99-6f10-450c-6347c95b50af" available="true">
+<url>https://ecolespb.ru/cosmetology-school/course-permanent-makeup</url>
+<price>20100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/bcfb8b16516e36194407f53db9519ec8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа бровей</name>
+<description>Научитесь выполнять процедуру перманентного макияжа бровей для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b9b7cf59-4b26-bd3a-1bd9-6311ad0ed293" available="true">
+<url>https://ecolespb.ru/cosmetology-school/injection-cosmetology-courses</url>
+<price>34500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/11/738d5b451d41744046e63b2b56bd8c86.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мезотерапии и биоревитализации</name>
+<description>Научитесь проводить омолаживающие и корректирующие процедуры микроинъекций вашим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6a854959-c86e-e8db-daac-6347c91a66df" available="true">
+<url>https://ecolespb.ru/cosmetology-school/permanent-lip-makeup</url>
+<price>22800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/06/f85a3722d91c38692d1a02f8c2faa9b3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа губ</name>
+<description>Научитесь выполнять процедуру перманентного макияжа губ и начните предлагать услуги клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="21830603-d59a-a26b-696e-63bd2af02d95" available="true">
+<url>https://ecolespb.ru/cosmetology-school/cosmetology</url>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/01/b1472d80e4dfb8264f5793f0837b8947.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дерматологии и анатомии лица</name>
+<description>Вы разберетесь в анатомии лица и шеи, изучите основы дерматологии. Получите необходимые знания для дальнейшей работы косметологом и сможете организовать рабочее место с соб...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cdd20e56-8f80-3ac1-5462-6234451dbb16" available="true">
+<url>https://ecolespb.ru/cosmetology-school/smas-lifting</url>
+<price>19100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/07/eee3a3298afb0d6a1140c46af5737659.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы SMAS-лифтинга</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="871f0f6e-6bdd-bd48-aedd-5d91e586ca1b" available="true">
+<url>https://ecolespb.ru/cosmetology-school/beauty_first_aid_courses</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/10/e048f45376ce28edc5a54001476520e1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы первой помощи в косметологии</name>
+<description>Научись оказывать медицинскую помощь при порезах, ожогах и аллергических реакциях</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8a3e75a4-4200-bba4-69cc-63493cced371" available="true">
+<url>https://ecolespb.ru/cosmetology-school/courses-tattoo</url>
+<price>29400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/05/d913235a253088549f9604ea08e9ed11.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тату для начинающих</name>
+<description>Научись основам искусства татуировки за 8 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7c14cb49-0c56-1530-fe6c-62bef586a655" available="true">
+<url>https://ecolespb.ru/cosmetology-school/courses-nutritionist</url>
+<price>17010</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/07/ca7231ae608abdc4658284b43c53533d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диетологии </name>
+<description>Вы освоите правила здорового питания и сможете консультировать по вопросам лечебного и профилактического питания. Научитесь корректировать рацион с учетом индивидуальных ос...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000091" available="true">
+<url>https://ecolespb.ru/cosmetology-school/kursy-lpg-massazha</url>
+<price>7880</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/11afbd7c5910e641267c78601aec7934.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аппаратного массажа LPG  </name>
+<description>Научись делать LPG массаж за 2 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4eed397c-6621-5065-3772-63493cb81dcf" available="true">
+<url>https://ecolespb.ru/cosmetology-school/old-new-school-tattoo</url>
+<price>28000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/2c7c78f4bcd705ee9317a9c78ff60f2f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по стилям цветной татуировки</name>
+<description>Освойте популярные техники татуировок и повысьте квалификацию мастера</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="e8a0e809-d84e-faa5-f949-6347c95ab141" available="true">
+<url>https://ecolespb.ru/cosmetology-school/permanent-eyelid-makeup</url>
+<price>21400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/06/6f08f9269f6c8b0c06e68838b9441251.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа век</name>
+<description>Освойте выполнение перманентного макияжа век и расширьте спектр услуг для клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000058" available="true">
+<url>https://ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body</url>
+<price>7800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/12/4973a18e460c4153745c4c8a69ab32bc.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косметологии SPA</name>
+<description>Всего за 2 занятия научись всем хитростям SPA-процедур для тела</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a60c8f68-d88e-533f-14d2-62ff68f63638" available="true">
+<url>https://ecolespb.ru/cosmetology-school/contour-plastic</url>
+<price>42600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/03/f37f37677c265d2b78b9ee6e6e512dae.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы контурной пластики</name>
+<description>Научитесь выполнять популярную процедуру контурной пластики лица и губ при помощи инъекций, освоите эффективные техники инъекций и начните зарабатывать от 5000 рублей за пр...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b97689e7-7e6d-2806-d9c7-62cd2e0325a8" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-stilista-po-volosam</url>
+<price>10800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/426a6a1c36dfd4d9b67bf186f0dd7a4d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы причесок и укладок</name>
+<description>Вы научитесь делать варианты стильных причесок на каждый день и торжество. Освоите экспресс-техники и техники с использованием утюжка, гофре и брашинга. Сможете начать карь...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="51890c22-26f2-60e9-0923-60d98ff9900c" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-muzhskix-strizhek</url>
+<price>37700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/882aa62b9c7af5491d3d6efd164f9221.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мужских стрижек</name>
+<description>Освойте популярные мужские стрижки и соберите портфолио для старта карьеры</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000174" available="true">
+<url>https://ecolespb.ru/barber-school/barber_course</url>
+<price>13100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2016/06/dd8a531550ea1fdb1951e22e2a0ff528.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы барбера. Повышение квалификации</name>
+<description>Вы научитесь делать трендовые и сложные мужские стрижки, управлять инструментами барбера и выполнять технику тонирования для маскировки седины и контраста. Сможете стать ст...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000041" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-kosopleteniya</url>
+<price>5000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/1a8fe9d5cb277a37bfb204a916921fe6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косоплетения</name>
+<description>Научись плести косы с нуля за 2 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000031" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-okrashivaniya-volos-dlya-nachinayushchih</url>
+<price>39200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/325034ee512123f64091096c53d07a04.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы окрашивания волос для начинающих</name>
+<description>Научись идеальному окрашиванию волос всего за 16 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="79c55749-77df-09dc-6bf7-5daef63db947" available="true">
+<url>https://ecolespb.ru/barber-school/nanoplastics-hair</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/11/fc8629170f0ea7cdc441abd2fc7495e7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы нанопластики волос</name>
+<description>Обучись новой технологии выпрямления и оздоровления волос за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cba520ca-e0f0-18ff-4b04-620d1c1485ae" available="true">
+<url>https://ecolespb.ru/barber-school/hair-reconstruction</url>
+<price>9200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/02/a92e55b7fd286339052e89a928dc38f7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы реконструкции волос</name>
+<description>Освойте современные технологии реконструкции волос и сможете расширить спектр своих услуг и увеличить доход</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="69aa06be-293b-86ed-ef2e-60d984b8be6a" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-parikmaxerov-dlya-nachinayushhix</url>
+<price>39900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/12/019698f0a70e8671816258f5b44f83de.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы женских стрижек</name>
+<description>Освойте дизайн женских стрижек с нуля и работайте с клиентами на себя или в салоне</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000171" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-botoks-volos</url>
+<price>5000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/07/37c78bdeb929adaa5086909f21dc2d0b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ботокса для волос </name>
+<description>Научитесь выполнять процедуру ботокса для волос, возвращая волосам здоровый вид</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000108" available="true">
+<url>https://ecolespb.ru/barber-school/keratin-hair-straightening</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/07/3afef15b5eeea69a0e7c88e40417fa3d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кератинового выпрямления волос </name>
+<description>Научись выпрямлять волосы и восстанавливать их красоту при помощи кератина</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000034" available="true">
+<url>https://ecolespb.ru/barber-school/kurs-salon-coloring</url>
+<price>16400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/01/089ec5201927268df385786f4fa3f1e2.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального окрашивания</name>
+<description>Модное окрашивание за 8 занятий, начни зарабатывать сейчас</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000043" available="true">
+<url>https://ecolespb.ru/barber-school/kursy-narashhivaniya-volos</url>
+<price>10600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2015/11/8dd1f7fccf7cf2ba128e2f3082ff55e5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания волос</name>
+<description>Практический курс, на котором вы научитесь наращивать волосы любой длины и структуры, соберёте портфолио и начнёте зарабатывать в сфере красоты</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:10">
+<shop>
+<name>Эколь</name>
+<company>Академия Красоты Эколь</company>
+<url>https://rostov-na-donu.ecolespb.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers><offer id="6b78656c-108c-a15d-92d0-61654a507f4e" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/kursy-ehffektivnogo-shopinga</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/68871cf6c01c8e797c63f8cec723da98.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы капсульного гардероба</name>
+<description>Изучите на практике составление капсул из базового гардероба</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="873dc1a5-ab1c-3612-65e1-6149923b501d" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/visual-merchandising</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/1609692d5da61713d2efd8d3eaf0e4f1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визуального мерчендайзинга</name>
+<description>Узнайте все об оформлении витрин магазина, привлекайте внимание клиентов к нужным товаром, увеличивая  прибыль бизнеса</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="5b93f689-c0a3-0e4b-25c3-61654a34691d" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/aspiring-stylist</url>
+<price>9800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/a02e1190819169833d6254f2c63f44a5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистов для начинающих</name>
+<description>Научитесь составлять гармоничные образы и формировать индивидуальный стиль в одежде</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="88acb902-79e5-ad67-ba89-6176609da5e7" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/trendwatching</url>
+<price>3990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/99b35b1d0d0cfab471a81fa66f2d3773.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы трендвотчинга: анализ трендов</name>
+<description>Научитесь прогнозировать fashion-тенденции и создавайте модные капсулы на сезон</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="39817f96-2297-c3f0-b27e-61713a76c7d5" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/sewing-dress</url>
+<price>1990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/ce253d15a145c5d10b0ff31ea627be09.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>МК Дресс-код: стильный офис</name>
+<description>Собери индивидуальную капсулу для офиса и сохраняй уникальный стиль даже в условиях дресс-кода</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4f9df095-b4cc-49d1-0955-61654b9f5fd9" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/kursy-stilistiki-na-praktike</url>
+<price>12000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/1324d2a5ec3a94cf50905fed8755a2f6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы fashion-консультирования</name>
+<description>Научитесь профессионально работать в модной индустрии и проводить фэшн-съемки</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id=" 94a1081e-b3bd-40de-a4d1-61713ab9d4b" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/style-school/color-clothing-capsule</url>
+<price>1990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/473366d623f516d253fbd2f1ea90e934.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>МК Сочетание цветов: собираем капсулу</name>
+<description>Научитесь сочетать цвета и грамотно собирать образы для капсулы всего за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1d4e5597-d98b-2fe1-c6ab-6203f430fe3f" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/facial-massage-3</url>
+<price>11500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/9c1ed11b16cd874a256f64901a5d8995.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы хиромассажа лица</name>
+<description>Научись популярной технике испанского хиромассажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a7e27f7c-b99e-f0e9-bb08-61e67e7ad5d0" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/face-lifting</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/091edbaa76256340a8b1f9a17aeb96c2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фейслифтинга </name>
+<description>Сохраните молодость и красоту с помощью самомассажа Гуаша и экономьте на салонах и дорогостоящих кремах</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="77c42ea7-cbab-2816-d216-62cbe82bfbf6" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii-voskom</url>
+<price>5100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/07/7eb34c3c23405e2652b8541939651721.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы депиляции</name>
+<description>Обучись процедуре выполнения восковой депиляции всего за 1 урок</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000046" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/kursy-klassicheskogo-massazha-lica</url>
+<price>9300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/0c5deaf03de948def6260baab6ae6035.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косметического массажа лица</name>
+<description>Узнай как правильно, безболезненно и безопасно проводить процедуру массажа лица для ускорения обмена веществ и запуска регенерации!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8652ba97-de44-a516-f06a-62cbe8ff125f" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii</url>
+<price>6700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/05/2ef941aab7a5782694faa4242d9285a5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации по депиляции</name>
+<description>Освой скоростные техники депиляции за один практический урок</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3bb58b3c-f87a-7a99-857e-613fbe548ace" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/facial-massage-2</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/0426f74e327616d693304d92e47c65c0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы миофасциального массажа лица</name>
+<description>Освой технику миофасциального массажа лица в нашей школе</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d8ad2dfd-4304-65d1-d741-5d95e862e789" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/kobido-courses</url>
+<price>8400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/12/7ea1b173e69a5ac4862e7049cff21c9b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы массажа Кобидо </name>
+<description>Освойте японскую технику омолаживающего массажа за 3 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3198311d-6c75-ab5d-1cf0-640ef9b2b8f7" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/facial-massage-4</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/04/1373f44793c12cd56f5f32a4de2a3e2b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скульптурного массажа лица</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d36fe275-1846-c88c-02c9-613fbea1731e" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/facial-massage</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/7f277d7daf0cb67f0979c35fb8f30fc5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лимфодренажного массажа лица</name>
+<description>Обучись технике лимфодренажного массажа за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1b470968-4c3d-3d48-62c9-62cbe8acc7be" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii</url>
+<price>5100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/07/e8a21e67e821b5a78c420be13828c75a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы шугаринга</name>
+<description>Научись делать шугаринг любой зоны всего за один урок-практикум</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="5d9a49c0-5e8c-a5f6-edfd-60ab866a7204" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/nutrition-courses</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/0a40f7439a24c9bfbf94c1ab4a0d8427.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы нутрициологии</name>
+<description>Овладейте основами коррекции питания ваших клиентов и начните работу нутрициологом</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="29d366d2-aefc-3b35-8cbb-5d9317690219" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/courses-buccal-massage</url>
+<price>8400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/11/ea9d938c6eb8e2a1e6bfe348717ba0ea.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы буккального массажа</name>
+<description>Научись омолаживать кожу лица при помощи лифтингового массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="93e63258-d033-9cac-eaea-5d07a2dd8fd8" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/course-facebuilding</url>
+<price>9000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/10/945389cdbb9115e5de38b00fc18312f1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фейсбилдинга и гимнастики лица</name>
+<description>Научись приводить кожу лица в тонус без инъекций</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f35154c3-d71b-e5ee-413d-5e820b387f18" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/teypirovanie</url>
+<price>7200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/08/e3ce8047c324912db256fcf043294261.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тейпирования</name>
+<description>Освой неинвазивный метод коррекции лица и тела с использованием тейпов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a151bc04-9470-d811-1170-62347e9c24c7" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/aesthetic-cosmetology-school/chinese-facial-massage</url>
+<price>9500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/7857b36a6db442f6333ae672e4bbf80b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы китайского императорского массажа лица</name>
+<description>Научитесь проводить восточный массаж лица и предлагайте клиентам эффективные омолаживающие техники</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7962ab91-773c-02d8-4e25-60a37b35e92a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/kinesio-taping</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/4e338ff3c808913c8855e756007fb121.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кинезиотейпирования</name>
+<description>Освойте техники кинезиотейпирования и начните работать со спортсменами</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="395833e9-62d3-3552-4678-640ef8212993" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/upkeep</url>
+<price>18200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/edf15a492d2abcd246bf53be810db6e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эстетической косметологии</name>
+<description>Научись профессионально ухаживать за кожей любого типа, проводить процедуры и использовать подходящие косметические средства</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ee435dd1-430e-4af6-95df-6311ad285905" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/botulinum-therapy</url>
+<price>20000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/298a2a04811c6ce225319eaec983ecf2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ботулинотерапии</name>
+<description>Узнайте, как грамотно выполнять процедуру ботулинотерапии своим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f1506e10-c51a-0fbb-241f-640ef9d48180" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology</url>
+<price>19800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/4faa798752c10ccca37da88c97751a37.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аппаратной косметологии</name>
+<description>Научись использовать аппаратуру для воздействия на проблемы кожи лица, освой методики и эффективные процедуры!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="939f283c-22b9-9999-247d-6170763e72f2" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/electroepilation</url>
+<price>16700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/65e538fd92c33f7f57791f00274f0943.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы электроэпиляции</name>
+<description>Научитесь выполнять технику электроэпиляции и добавьте востребованную услугу для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="61dac205-8c53-2707-5eb8-5db046030b90" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/laser-removal-courses</url>
+<price>13000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/5cee3f4275c4f5743b3605e872740ec3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лазерной эпиляции</name>
+<description>Научись выполнять процедуру удаления волос при помощи лазера за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="25bed94c-6648-06fe-566b-63625189c020" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/chemical-peeling</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/61c6213c7f66e7eb884ffff601f66374.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы химических пилингов</name>
+<description>Научись выполнять популярную процедуру химического пилинга лица при помощи кислот</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2cf4c51e-258b-2641-602a-640ef9cfcba2" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/mesotherapy</url>
+<price>15700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture></picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы микронидлинга</name>
+<description>Изучите особенности проведения омолаживающих и корректирующих процедур с использованием аппарата Дермапен</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3ff68b23-e887-4ec5-a2fd-63493ccf920a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/courses-tattoo-styles</url>
+<price>26500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/11/5ddc64b159f2a5874759951d2ac7675c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по стилям черно-белой татуировки </name>
+<description>Изучите стили в тату-мастерстве и расширьте спектр своих услуг</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cb8e1cfc-da99-6f10-450c-6347c95b50af" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/course-permanent-makeup</url>
+<price>17300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/89080dca2a55bcaa0d1ecf25ba51ac98.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа бровей</name>
+<description>Изучите секреты и последовательность выполнения перманентного макияжа бровей вашим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b9b7cf59-4b26-bd3a-1bd9-6311ad0ed293" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/injection-cosmetology-courses</url>
+<price>34500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/9afa086bad0542a7fa6422ad6acb9bb8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мезотерапии и биоревитализации</name>
+<description>Научитесь проводить омолаживающие и корректирующие процедуры микроинъекций вашим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6a854959-c86e-e8db-daac-6347c91a66df" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/permanent-lip-makeup</url>
+<price>17300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/68956c12ce781dafdef1228d0c5fbf56.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа губ</name>
+<description>Изучите процесс перманентного макияжа и станьте высокооплачиваемым мастером</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="21830603-d59a-a26b-696e-63bd2af02d95" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/cosmetology</url>
+<price>2000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/01/c53b4191b25277a0b3b4a699f9d36d4f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дерматологии и анатомии лица</name>
+<description>Вы разберетесь в анатомии лица и шеи, изучите основы дерматологии. Получите необходимые знания для дальнейшей работы косметологом и сможете организовать рабочее место с соб...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cdd20e56-8f80-3ac1-5462-6234451dbb16" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/smas-lifting</url>
+<price>19100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/07/ef7c831b87e721183ef73a8b2fc5fc8b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы SMAS-лифтинга</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3409c96e-e27e-a3b2-7aba-63492a1c49d3" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/tattoo-removal</url>
+<price>9500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/11/c802a112d9213552b0043aa200da99ae.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы удаления татуировок и перманентного макияжа</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="871f0f6e-6bdd-bd48-aedd-5d91e586ca1b" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/beauty_first_aid_courses</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/a4a4b8158e9725897f58b9427ec519df.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы первой помощи в косметологии</name>
+<description>Научись оказывать медицинскую помощь при порезах, ожогах и аллергических реакциях</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8a3e75a4-4200-bba4-69cc-63493cced371" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/courses-tattoo</url>
+<price>23600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/04/16ab3c9fba5d52d0cb684c0fcd788701.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тату для начинающих</name>
+<description>Научись основам искусства татуировки за 8 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7c14cb49-0c56-1530-fe6c-62bef586a655" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/courses-nutritionist</url>
+<price>13400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/07/b83bae4812244d9a10f1d58b5f7a1cd8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диетологии </name>
+<description>Вы освоите правила здорового питания и сможете консультировать по вопросам лечебного и профилактического питания. Научитесь корректировать рацион с учетом индивидуальных ос...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000091" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/kursy-lpg-massazha</url>
+<price>9200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/08/0611bafbfc023cb6526f66a839e35ad9.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аппаратного массажа LPG  </name>
+<description>Научись помогать клиентам избавиться от лишних сантиметров с помощью процедуры LPG-массажа!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4eed397c-6621-5065-3772-63493cb81dcf" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/old-new-school-tattoo</url>
+<price>25200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/482f632c95cae304387440d213659848.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по стилям цветной татуировки</name>
+<description>Освоите новые техники татуировки, что позволит расширить спектр услуг</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="e8a0e809-d84e-faa5-f949-6347c95ab141" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/permanent-eyelid-makeup</url>
+<price>16000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/85d10866bade22051e599c058a7ed548.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа век</name>
+<description>Освойте нанесение на веки перманентного макияжа и станьте востребованным мастером</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000058" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body</url>
+<price>11200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/47ce76727564449cda8b7272688f6179.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косметологии SPA</name>
+<description>Научись делать основные процедуры из ассортимента SPA-салонов, получи возможность работать в индустрии красоты!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a60c8f68-d88e-533f-14d2-62ff68f63638" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/cosmetology-school/contour-plastic</url>
+<price>50000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/1dc8216da71706bfc9ae32d939c51538.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы контурной пластики</name>
+<description>Научитесь выполнять популярную процедуру контурной пластики лица и губ при помощи инъекций, освоите эффективные техники инъекций и начните зарабатывать от 5000 рублей за пр...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b97689e7-7e6d-2806-d9c7-62cd2e0325a8" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-stilista-po-volosam</url>
+<price>10800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/16df946b6659d98bcd87b5dd66fc7c5e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы причесок и укладок</name>
+<description>Вы научитесь делать варианты стильных причесок на каждый день и торжество. Освоите экспресс-техники и техники с использованием утюжка, гофре и брашинга. Сможете начать карь...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="51890c22-26f2-60e9-0923-60d98ff9900c" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-muzhskix-strizhek</url>
+<price>21800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/12/c602fbb4691f43fd38df9d21dd16da00.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мужских стрижек</name>
+<description>Отработайте современные техники выполнения стильных мужских стрижек и создайте собственное портфолио для начала карьеры</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000174" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/barber_course</url>
+<price>11100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/09/8fc7039a07c0aa2d30566589c769e89b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы барбера. Повышение квалификации</name>
+<description>Вы научитесь делать трендовые и сложные мужские стрижки, управлять инструментами барбера и выполнять технику тонирования для маскировки седины и контраста. Сможете стать ст...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000041" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-kosopleteniya</url>
+<price>4400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/f4cfdf22631c0ed548bd3b5cc17ff565.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косоплетения</name>
+<description>Стань мастером в косоплетении всего за 2 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000031" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-okrashivaniya-volos-dlya-nachinayushchih</url>
+<price>22300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/0ecb2c64100dbac9b4456ecc327f79ef.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы окрашивания волос для начинающих</name>
+<description>Узнай все тонкости и секреты профессионального окрашивания волос всего за 16 теоретических и практических занятий!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="422545a9-cc39-d0b0-c21a-61654682df39" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/male-haircuts</url>
+<price>11100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/f09ba192579bb3653b310a4f2fa796ab.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сложных мужских стрижек</name>
+<description>Научитесь работать над интересными мужскими стрижками, учитывая индивидуальные особенности и черты лица клиента</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="bcb8db04-eaac-8c68-7f81-6165462c220a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/salon-haircut</url>
+<price>10900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/adf0c06ead1ebb3ca4f719a3c71b1b3a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы салонных стрижек</name>
+<description>Научитесь работать с салонными стрижками и расширьте спектр своих услуг всего за 4 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="79c55749-77df-09dc-6bf7-5daef63db947" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/nanoplastics-hair</url>
+<price>7000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/11/e9ca772abdf04e04c350bb7aada9c05b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы нанопластики волос</name>
+<description>Научись выполнению востребованной техники выпрямления и восстановления волос всего за 1 занятие в нашей школе</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cba520ca-e0f0-18ff-4b04-620d1c1485ae" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/hair-reconstruction</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/02/a9abafdef2aa1f5b8752c1c72e8688b2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы реконструкции волос</name>
+<description>Освойте современные технологии реконструкции волос и сможете  привлечь новых клиентов, а также увеличить свой доход</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="69aa06be-293b-86ed-ef2e-60d984b8be6a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-parikmaxerov-dlya-nachinayushhix</url>
+<price>26300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/26f1e962cb0ce825181057202c6ffffb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы женских стрижек</name>
+<description>Освойте особенности дизайна женских стрижек с нуля и начните работу с клиентами на себя или в салоне</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000171" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-botoks-volos</url>
+<price>5200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/08/02a6ddfffe482e5623704238f77e3429.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ботокса для волос </name>
+<description>Научись восстанавливать волосы с помощью ботокса всего за 1 практическое занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000108" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/keratin-hair-straightening</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/2b879aa723c99c1c72aca36edddb3fcb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кератинового выпрямления волос </name>
+<description>Научись выполнять кератиновое выпрямление волос для расширения ассортимента своих профессиональных услуг!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="953d419c-eb8f-354c-f8bb-5fe06d3f4155" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/afro-pigtail-weaving-courses</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/01/2c5779e16e0a29ea3675d594e1d517b1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы плетения афрокос</name>
+<description>Познакомься с техниками плетения афропричесок всего за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000034" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kurs-salon-coloring</url>
+<price>14600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/6bdb455dd2f81159a3cda4a371ba24c3.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального окрашивания</name>
+<description>Научись красиво красить волосы в один или несколько тонов всего за 8 практических занятий!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000043" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/barber-school/kursy-narashhivaniya-volos</url>
+<price>9200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/1bcec21a7e50359501699c124b2ff6eb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания волос</name>
+<description>Практический курс, на котором вы научитесь наращивать волосы любой длины и структуры, соберёте портфолио и начнёте зарабатывать в сфере красоты</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9c07da56-b056-a25e-5858-623c762aa461" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/manicure-school/nail-art</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/4fe268d2c6ba01d032b09a97c0c79572.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна ногтей</name>
+<description>Повысьте средний чек, освоив современные дизайны ногтей. Выполняйте сложный дизайн под запрос любого клиента</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ad3f62fc-80dd-29e8-330c-623c75df1d6e" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/manicure-school/pedicure</url>
+<price>13400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/0d2bdbf056f99e54458b193df139ea00.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы педикюра</name>
+<description>Освойте востребованную и дорогостоящую процедуру эстетического педикюра, станьте востребованным мастером и расширьте спектр услуг для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ad7ff793-a74b-8bec-984f-623c74ccdc57" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/manicure-school/manicure-master</url>
+<price>23000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/5a9691ba8fdc743b73962bc730d8047c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мастера маникюра</name>
+<description>Начните зарабатывать на маникюре уже во время обучения: станьте востребованным мастером, работайте на себя или в лучших салонах вашего города</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a6e722f8-7d4f-8a15-9e63-623c76a35958" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/manicure-school/nail-extensions</url>
+<price>27900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/91f216a1c1a498e2593b5e9214da8228.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания ногтей</name>
+<description>Научитесь востребованным техникам моделирования ногтей и станьте универсальным специалистом. Предлагайте услуги наращивания и коррекции ногтей вашим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cc0ddace-fcd9-6eab-c6ec-611bd0387262" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-clothes-1</url>
+<price>14800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/eee2718ca20724364ab0519786ec35c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы моделирования и пошива плечевого изделия</name>
+<description>Стань профессионалом в области моделирования и пошива плечевого изделия по индивидуальным параметрам, начни брать заказы на пошив</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8ea20bf8-d641-4f44-1de6-6229f45f3979" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-shirt</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/cc578e6217aba04835df6cc3553506d5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива мужской рубашки</name>
+<description>Научитесь конструировать, моделировать и шить мужскую рубашку за 10 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="c3a99851-3851-5921-74d4-611bd01f5297" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-clothes-4</url>
+<price>9700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/40d449a63a30733f244ff872e958aea8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы конструирования, моделирования и пошива юбки</name>
+<description>Узнайте все основы профессионального пошива юбок</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4844393c-90d4-13c1-63c4-613f3531f43c" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-dress</url>
+<price>5500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/f3398975e82b4966d0568cd306200d5b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву платья-комбинации</name>
+<description>Научись шить платье-комбинацию из легких струящихся материалов всего за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d1afd5a3-929a-dc79-33de-5f649f013790" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-sleepwear</url>
+<price>5800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/617859a1f028d2f5af51b459ce19d6f6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива пижамы</name>
+<description>Научись создавать красивые пижамные комплекты за 4 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6344e34a-668f-5bea-d206-6229f3e769ae" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-trousers</url>
+<price>9700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/9a5b822a0161f370c2dd07e3f694ff24.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива мужских брюк</name>
+<description>Научитесь конструировать, моделировать и шить мужские брюки за 7 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f054fd91-0cd8-e7eb-f8c2-613f3498f636" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-bed-linen</url>
+<price>3500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/695a78c683005b0f33723fe1c673ac57.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву постельного белья</name>
+<description>Научитесь всем тонкостям пошива постельного белья всего за 3 часа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6597c814-f54f-c2dd-4d64-6229f4d7bc92" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/clothing-manufacturing</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/d38b93b3d013bd8066242dd7674dae15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по созданию своего бренда одежды</name>
+<description>Узнайте, как правильно подбирать материалы и для коллекции одежды и сотрудничать с потенциальными поставщиками</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2326a9ec-5e28-344f-bc22-61361fc25fea" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/knitting-blanket-courses</url>
+<price>3300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/bf9c88dd6301c2098d47d529daded83d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вязания пледа из гигантской пряжи</name>
+<description>Познакомься с технологией создания модного домашнего текстиля своими руками</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8df30e24-2151-1a16-3019-613f3406de19" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-hoodie</url>
+<price>5500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/c72ee384f6481fcf6c8eabf4c1383b32.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву худи</name>
+<description>Научитесь азам пошива худи с карманом "кенгуру" и капюшоном всего за одно занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="edd7cb8a-112a-4bcd-751b-6229f9aa04ec" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-clothes-5</url>
+<price>10400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/09/18f7e760d24d3c04022898baa744c637.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды</name>
+<description>Научись разрабатывать эскизный ряд коллекции за 10 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d70a8bec-409a-64b3-39bc-5f649e79bcaa" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/courses-qualification-sewing-underwear</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/3814db1126ab686e87fc85fa9029a7e1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации по пошиву белья</name>
+<description>Стань специалистом по пошиву нижнего белья всего за 6 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9c7deec7-dae4-c8e6-e562-6332f558bfc4" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-jacket</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/67c9137670908d2335235d40e2b43f9b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по пошиву жакета</name>
+<description>Практический курс, на котором вы с нуля освоите технологию моделирования, конструирования и пошива жакета. Освоите процесс раскроя и сборки изделия, научитесь работать с по...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="98e173c2-87cc-4961-f28e-5d834bfb2fd5" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/courses-sewing-underwear</url>
+<price>7300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/09/6e23c6997fc8403484766e1f62cf2226.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива белья</name>
+<description>Научись профессионально шить нижнее белье за 6 практических уроков</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="95338c21-4cb2-bc16-a12b-611bd1f48288" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/sewing-school/sewing-clothes-3</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/97f2c403efe9060adc5d889bfbaa8613.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы конструирования, моделирования и пошива брюк</name>
+<description>Освойте правила моделирования и пошива брюк</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1c882eaa-6fb6-487c-4cc0-631f0048ed9b" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/kursy-miofascionalnogo-massazha</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/413c791e0fee1e82a2d3e48c6ad5b121.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы миофасциального массажа тела</name>
+<description>Вы освоите современные методы оздоровления и омоложения организма с помощью миофасциального массажа. Повысите профессионализм, привлечете новых клиентов и будете получать о...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="36f3ae0a-d3a0-b41b-e7f5-631f001e3b0f" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/kursy-massazha</url>
+<price>10500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/0d4430f5b567ca7666c98f976b5f6493.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы классического массажа</name>
+<description>На практическом курсе вы получите знания по классическому массажу, анатомии человека, отработаете массажные приемы. Станете специалистом и будете зарабатывать от 2000 за сеанс</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000099" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/relaxing_massage</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/33b5fbdd61b3674500d0e03cb918ed8f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы расслабляющего массажа</name>
+<description>Изучи методики снятия стресса и общего расслабления всех мышц организма с помощью массажных процедур!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ae5d4ce7-248f-eaaa-48ca-5d39bc24397f" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/baby-massage-courses</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/02/6f3aa41097c5d3f6649f44dbd31f309b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детского массажа </name>
+<description>Узнайте о том, как делать массаж своему ребенку</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4b368e91-50bc-dbae-dfeb-62320e443f1a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/kursy-klassicheskogo-massazha</url>
+<price>14000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/627a096f639f82218baba18d476a059e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы самомассажа</name>
+<description>Научись проводить самомассаж разных участков тела, улучшай самочувствие и сохраняй молодость</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3e9b6f76-ba1d-34dd-892b-5fc766f5fee9" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/stone_massage</url>
+<price>9000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/12/67a31804a3b9c4ab63c69fa239cfc2b0.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стоун-массажа</name>
+<description>Освой техники стоун-терапии за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a22389de-03d3-f038-6f04-626934297018" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/thai-massage</url>
+<price>23600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/3268b2cd3ba3ffc4028413393d059302.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тайского массажа</name>
+<description>Улучшайте состояние здоровья клиентов и повышайте квалификацию с помощью восточных техник классического тайского массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000060" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/course-anticellulite-massage</url>
+<price>7200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/b3fcd73afa6c49f7d6618d719d7a6d42.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы антицеллюлитного массажа</name>
+<description>Узнай причины появления целлюлита и научись правильно воздействовать на проблемные участки с помощью массажа!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6e5f6959-8dc0-39c5-15bf-60a37a9263d4" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/sports-massage</url>
+<price>11200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/0ba89246f89ba2ee38c1b2aa5a61bafd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы спортивного массажа</name>
+<description>Освой современную профессию, начни работать спортивным массажистом</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="47259370-c2f3-821a-7309-5fc76632274c" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/guasha_massage</url>
+<price>9000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/12/333aaaea03f4dde3fe29a46d9a20fde4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы массажа Гуаша</name>
+<description>Как освоить массаж Гуаша для лица и спины всего за два занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cb2e3081-e928-be01-ca8a-6246c0915809" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/massage-school/lymphatic-drainage-massage</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/8b7c07e2c94fa08ff47f8136ce9da974.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лимфодренажного массажа</name>
+<description>Научитесь снимать отечность, уменьшать целлюлит и возвращать упругость кожи вашим клиентам с помощью лимфодренажного массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="df99f22a-830a-afb6-921d-64b63930da9d" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/samozanyatost-byuti-mastera</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/9cae3181e8859444e02a1f66c3058710.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы самозанятости для бьюти мастера</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="c97f31c1-5729-4498-b37c-64d0c0433464" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/praktikum-baza-klientov</url>
+<price>12000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/16ed3b537470d6321b96547e20170c78.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Постоянная база лояльных клиентов: выстраиваем доверительные отношения</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d324940e-d245-fd88-61d3-64b643129a6a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/careers-in-beauty</url>
+<price>10200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/28ce0aeb88568b6a7d7dc28c348641fa.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы личного бренда. Продвижение beauty-мастера</name>
+<description>Узнай, как начинающему мастеру найти первых клиентов и продвигать личный бренд в сети</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d42772cf-8b3c-4c09-563e-6176a0c24905" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/beauty-instructor</url>
+<price>11100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/22457486e645404c0646fc0b46911e1a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы инструктор в beauty-сфере</name>
+<description>Получите профессиональные знания в beauty-сфере и занимайтесь созданием собственных программ обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b261b568-daa9-a8ac-70ab-64d0c246824f" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/praktikum-anti-stress</url>
+<price>9600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/03745d66bc5be8166afd42a4c07cf5e8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Как справиться со стрессом и не выгореть бьюти-мастеру</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9092c9ef-8642-db35-116d-64b647d985f1" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/ehtika-i-psihologiya-obshcheniya</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/23657db5fd5b9421d88d2aee2d5ed240.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы этики и психологии общения с клиентом в косметологии</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3ca65263-4765-6496-c8f3-63c152c1bb5a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/beauty-salon</url>
+<price>14600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/01/21b7b925c543b7dff9501b091eae3e55.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по открытию салона красоты</name>
+<description>Вы составите бизнес-план, определите величину инвестиций, срок окупаемости и точку безубыточности. Получите перечень документации для открытия салона, узнаете, как привлечь...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6c7c0313-d216-39a8-8a65-61e67ee81be5" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/stress-management</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/0df2d3034e8c455bda51d1252a129824.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управления стрессом</name>
+<description>Научитесь стресс-менеджменту всего за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="27dedfde-b9dc-8c18-36e3-64d0c48f707e" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/praktikum-uverennyj-byuti-master</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/063b841793886d389b088748ef5ab6d5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Уверенный бьюти-мастер: находим подход к любому клиенту </name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ecc82b49-a293-7bc1-0518-64b64592cd7a" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/beauty-marketing/start-karery</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/8657449325de08422bea335476df6e71.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы старта в карьере beauty-мастера</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1daa04ad-6ffc-947e-3e72-6462749d6c6b" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/eyelash-extensions</url>
+<price>4000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/f487897bd40e9edfc6cb483a01a634e3.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мега-объемов в наращивании ресниц</name>
+<description>Станьте востребованным мастером, освойте техники мега-объемов и повысьте свой профессионализм</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6817261d-7f93-82b7-815f-6454ec57f41e" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/laminating_eyelashes</url>
+<price>6000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/2177ff1337d471fa4d899a0f95aaeb64.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ламинирования, нанопластики и ботокса ресниц</name>
+<description>Научитесь выполнять популярную услугу ламинирования и ботокса ресниц и работать со сложными ресницами, расширите спектр услуг для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="dc351ccd-e402-471d-0a1d-627e0a5f16d7" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/course_correction_and_coloring_eyebrows</url>
+<price>5000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/e3194ee996dbc1de5b1d6870c06afbe2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы коррекции и окрашивания бровей</name>
+<description>Научитесь выполнять окрашивание бровей хной и краской, освойте коррекцию и архитектуру бровей и начните зарабатывать сразу после обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1f7571dd-b336-cf38-7bd6-627e0bad00d1" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/kursy-naraschivaniya-resnic-i-pokraski-brovei</url>
+<price>9000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/ccab632759f4c8b0957abda2d9217d36.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания ресниц</name>
+<description>Научитесь выполнять востребованную услугу классического наращивания ресниц и найдите первых клиентов сразу после окончания обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b2cc0ad9-5639-90e5-5882-627e0a097433" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/laminirovanie-brovei</url>
+<price>4100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/78af9a422d1eb1bdffc60169afca8f07.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ламинирования и ботокса бровей</name>
+<description>Обучитесь популярной услуге и преображайте клиентов с помощью долговременной укладки бровей</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ab022588-ff0d-3809-ff2d-627e0bdab2d6" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/volume_lashes</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/005346ac65ac4b3aa0cff2af528e4ddb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы объемного наращивания ресниц</name>
+<description>Освойте технику объемного наращивания ресниц и применяйте декор в наращивании, повысьте квалификацию профессионала</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1d85daec-6194-9ad9-62e8-6454cc6ae6b4" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/eyebrow-correction-thread</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/7a37c472249d627498487b52812fdaef.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стайлинга и сложной колористики бровей</name>
+<description>Освойте навыки коррекции бровей с помощью нити и воска, разберитесь в вопросах колористики и повысьте квалификацию мастера</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="43926c74-5e42-3f09-c466-646276f57672" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/browmaker-lashmaker/fast-eyelash-extension</url>
+<price>3200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/ab39b5b0620c76bc442a963ace8fcefc.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скоростных техник в наращивании ресниц</name>
+<description>Станьте востребованным мастером, освойте скоростные техники в наращивании ресниц и повысьте свой профессионализм</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000009" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/makeup-school/greasepaint</url>
+<price>12100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/0150ec41c943ea800ab1ffff9e408674.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы театрального грима</name>
+<description>Научись профессионально использовать грим в работе, чтобы создавать персонажей для театральных постановок!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000010" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/makeup-school/special-effects</url>
+<price>12100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/c9622fc9471eda365c49e36c47cdeca6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы спецэффектов в гриме</name>
+<description>Научись создавать страшных персонажей, менять лицо до неузнаваемости всего за 6 занятий по работе с профессиональным гримом!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000008" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/makeup-school/kurs-aqua-makeup</url>
+<price>12100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/979eeb6159d93db13d43ea0acf129751.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аквагрима</name>
+<description>Научись рисовать различные узоры, сказочных персонажей, животных, зомби и различных героев, чтобы работать на детских праздниках и мероприятиях!</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000126" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/makeup-school/professional-makeup</url>
+<price>18800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/09/2c9e8905ea5ba45756dd31346d9eba9e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального макияжа</name>
+<description>Освой создание макияжа в профессиональных техниках и принципы колористики за 10 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000026" available="true">
+<url>https://rostov-na-donu.ecolespb.ru/makeup-school/visage</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/b5853e23eb8e311c4bb3ded2b764c886.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визажистов для начинающих</name>
+<description>Всего 5 занятий — и вы научитесь выполнять легкий дневной и яркий вечерний макияж</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+</offers>
+</shop>
+</yml_catalog>

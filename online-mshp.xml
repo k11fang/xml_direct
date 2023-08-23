@@ -1,0 +1,2615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:01">
+<shop>
+<name>МШП</name>
+<company>Международная школа профессий</company>
+<url>https://online.videoforme.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers>
+<offer id="71b77c3a-9707-2a4a-961c-634ea69ccc78" available="true">
+<url>https://online.videoforme.ru/market_school/seo-prof-web</url>
+<price>17500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/4648f0fb412b3ea5fdbd8abd4305db9a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия SEO-специалист.</name>
+<description>Стань SEO-специалистом: научись писать продающие тексты, работать с мета-тегами и ключевыми словами. &lt;b&gt;Продвигай сайты в топ поисковой выдачи&lt;/b&gt; с помощью семантического ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e9b107b2-d06b-4870-d2e1-62ce8cb9484c" available="true">
+<url>https://online.videoforme.ru/market_school/marketing-course-web</url>
+<price>29100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/4a06e414082e435f7ff1bca56156f14c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Интернет-маркетолог.</name>
+<description>&lt;b&gt;Освой все сферы современного интернет-маркетинга:&lt;/b&gt; научись раскручивать бренд, настраивать таргет и контекстную рекламу, привлекать целевую аудиторию, проводить веб-а...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="127addb7-5467-2b6b-ce85-62ed033f16dd" available="true">
+<url>https://online.videoforme.ru/market_school/pr-manager-web</url>
+<price>31700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/e482425dfda4eccfa251be2f7d36d5e1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия PR-менеджер.</name>
+<description>Вы научитесь разрабатывать стратегию продвижения бренда, управлять его репутацией и выстраивать положительный имидж. Разберете реальные кейсы из PR-практики и сможете работ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2b5109cf-f49d-44d9-ddda-628b48d5dc28" available="true">
+<url>https://online.videoforme.ru/market_school/smm-manager-web</url>
+<price>30500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/8d01eabea4202ba9a217512a7e188f73.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия SMM-менеджер.</name>
+<description>Научитесь продвигать бизнес в социальных сетях: создавать продающие тексты, запоминающийся визуал и запускать таргет. &lt;b&gt;Обновленный под реалии 2023 года&lt;/b&gt; практический к...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="30cbf224-587b-424b-6d1d-62ce8cb2bd71" available="true">
+<url>https://online.videoforme.ru/market_school/crm-marketing-prof-web</url>
+<price>18100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/49fc6c202ef2b26b3297572e12884c06.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия CRM-маркетолог.</name>
+<description>Вы научитесь планировать CRM-стратегию, запускать e-mail рассылки и использовать Яндекс.Метрику, Google Analytics для веб-аналитики. &lt;b&gt;Сможете разработать эффективную стра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1af80020-e929-dde3-98bd-62ce8d988d01" available="true">
+<url>https://online.videoforme.ru/market_school/targeting-prof-web</url>
+<price>22000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/325f04b59d4f9824504620196190277b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Таргетолог.</name>
+<description>Научитесь запускать таргетированную рекламу в соцсетях, создавать креативы и повышать эффективность рекламных кампаний. &lt;b&gt;Обновленный в 2023 году практический курс с реаль...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="bd040f38-a145-0a51-6906-6165a30ed201" available="true">
+<url>https://online.videoforme.ru/market_school/copywrite-1</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/61093e827fb7bcc8c58d191eaa9eaf81.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы копирайтинга.</name>
+<description>Практический курс, на котором вы научитесь писать продающие, рекламные, информационные тексты и посты для социальных сетей. Сможете писать коммерчески успешные тексты и &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4e47f03f-f990-2ed0-a274-5e2ad67eb29b" available="true">
+<url>https://online.videoforme.ru/market_school/kontent-men-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/9659bb6133f32b67f31c076c94322ee6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы создания контента.</name>
+<description>Вы научитесь создавать креативный визуальный контент и контент-план для продвижения в социальных сетях. Соберете работы для портфолио: &lt;b&gt;контент-план и 4 вида контента в р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ef209ff7-5be0-82af-ba5c-636a6e0dd88d" available="true">
+<url>https://online.videoforme.ru/market_school/copywriter-course-web</url>
+<price>20900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/a3d4b3289c1fcb42dc036ad38590608c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Контент-менеджер.</name>
+<description>Научитесь писать информационные и продающие тексты для лендингов, блогов и соцсетей и привлекать внимание аудитории. &lt;b&gt;Запускайте контент-проекты для бизнеса и зарабатывай...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c1732ab8-0acc-9f76-4e10-5f194f044238" available="true">
+<url>https://online.videoforme.ru/market_school/create-site-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/c40a875ac596e1547ee63343400c6274.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы создания и продвижения  лендинга на Tilda.</name>
+<description>Вы научитесь разрабатывать маркетинговую стратегию, &lt;b&gt;создавать продающие сайты на Tilda&lt;/b&gt; и продвигать их в топ поисковой выдачи. Сможете зарабатывать от 15000 за разра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="205202be-b2f8-3205-54bd-5c9cf2b39fe8" available="true">
+<url>https://online.videoforme.ru/market_school/context-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/04a1511f7e9798d38eb73d4d5afff715.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы контекстной рекламы (Яндекс Директ и Google Adwords).</name>
+<description>Практический курс, на котором вы &lt;b&gt;научитесь настраивать контекстную рекламу,&lt;/b&gt; проводить аналитику и оптимизировать рекламные кампании. Сможете привлекать новых клиенто...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5af267dd-6a1c-8064-9b44-628b478cb135" available="true">
+<url>https://online.videoforme.ru/market_school/smm-manager</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/8cb018b2860e5659c2737f495d89ab33.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы продвижения в социальных сетях.</name>
+<description>Научитесь продвигать бренд и создавать вовлекающий контент в социальных сетях и пополните портфолио реальным кейсом</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e47f0bf1-b7ef-51b1-771a-628b486debce" available="true">
+<url>https://online.videoforme.ru/market_school/targeting-courses-web</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/b50b4ef459b9dd2382bbf18fa7ae4b2c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы таргетированной рекламы.</name>
+<description>За 8 занятий вы научитесь настраивать таргетированную рекламу для продвижения бизнеса. &lt;b&gt;Будете работать в приложении Mytarget,&lt;/b&gt; подбирать креативы и настраивать таргет...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="260003c9-d8bc-324e-471a-5d00fc5fc882" available="true">
+<url>https://online.videoforme.ru/market_school/producer-web</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/04/934245f6dde125e2460042785e1170fc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы продюсирования проектов.</name>
+<description>&lt;b&gt;Вы научитесь организовывать коммерческие видео- и фотосъемки:&lt;/b&gt; от идеи до постпродакшна. Сможете работать над сценарием, координировать съемки, рассчитывать бюджет и ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6eec30df-0d63-02c9-2172-5dce6aa0352a" available="true">
+<url>https://online.videoforme.ru/market_school/course-powerpoint-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/56072b756675d6f37bf23f4c24c143d9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы создания презентаций в PowerPoint.</name>
+<description>Практический курс, &lt;b&gt;на котором вы научитесь оформлять запоминающиеся презентации,&lt;/b&gt; гармонично размещать и визуализировать информацию на слайдах и использовать анимацию...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dee5baae-a1bf-5a21-6a15-634ea59135e7" available="true">
+<url>https://online.videoforme.ru/market_school/seo-copywriting-2</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/0cbb8859be38efa27006fa4abae40ca6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы SEO-продвижения сайтов.</name>
+<description>Практический курс, на котором вы пройдете путь SEO-специалиста за 5 недель, начнете продвигать сайты в поисковых системах и станете &lt;b&gt;востребованным специалистом на рынке&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="87940cd0-468b-a6cc-eaba-5e95f49905af" available="true">
+<url>https://online.videoforme.ru/market_school/email-marketing-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/145be7d18f7588cf30d3905a80117595.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Email-маркетинга.</name>
+<description>&lt;b&gt;Научитесь разрабатывать стратегию&lt;/b&gt; email-маркетинга, собирать базу подписчиков и на практике будете работать в сервисах для рассылок. Сможете анализировать эффективно...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a7742975-204a-33ec-f865-5e98413cccdf" available="true">
+<url>https://online.videoforme.ru/market_school/pr-for-beginners-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/9515f994ce718b1c9ff9bbcc4c97f8c5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы PR для начинающих.</name>
+<description>За 3 недели вы освоите &lt;b&gt;актуальные инструменты PR&lt;/b&gt; и сможете построить успешную репутацию компании, разработаете свою PR-стратегию, научитесь превращать негатив в возм...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="31c0a53c-c286-f41c-7028-5ee8f19750e1" available="true">
+<url>https://online.videoforme.ru/market_school/crm-marketing-courses-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/e5becfb67206029359a291231d249c07.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы CRM-маркетинга.</name>
+<description>&lt;b&gt;Освоите инструменты CRM-маркетинга&lt;/b&gt; для работы с базой клиентов: разработка пуш-уведомлений, email-рассылок, триггерных цепочек, воронок продаж. Сможете привлечь новы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="67c19e21-4ebc-6fec-30f7-615ff7fd90b9" available="true">
+<url>https://online.videoforme.ru/market_school/storytelling-online</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/10/7ac54b2296d2bbfa18b651ba967472b4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы сторителлинга.</name>
+<description>За 5 занятий научитесь составлять концепции истории под разные коммерческие задачи и внедрять их в бренд в соцсетях. &lt;b&gt;Создадите свою индивидуальную историю и отработаете ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3b600a1b-2ec4-b652-4d37-639ae4aa532a" available="true">
+<url>https://online.videoforme.ru/designschool/web-designer-prof-web</url>
+<price>44700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/669f4f549fd863481dad87a2e82855a0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Веб-дизайнер с нуля до профи.</name>
+<description>Практический курс, на котором научитесь проектировать адаптивный дизайн сайта и элементы интерфейса. Сделаете &lt;b&gt;несколько работ в портфолио&lt;/b&gt; и сможете начать зарабатыва...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="72ff9b5f-d3c5-ed99-6451-5e74f4944720" available="true">
+<url>https://online.videoforme.ru/designschool/computer_graphics-web</url>
+<price>21600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/4d3c7eb4a845f506a64fd2669930bb81.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Графический дизайнер.</name>
+<description>За время обучения соберете более &lt;b&gt;5 работ в портфолио:&lt;/b&gt; логотип, афиша, дизайн мерча и другую айдентику для брендов. &lt;b&gt;Берите заказы на фрилансе во время обучения&lt;/b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e47fff26-cc11-62a2-1976-630c76349e69" available="true">
+<url>https://online.videoforme.ru/designschool/artist-illustrator-web</url>
+<price>21600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/fadbd6f72fcd20a56260fbebf69a279d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Художник-иллюстратор.</name>
+<description>&lt;b&gt;Освойте рисование иллюстраций в Photoshop&lt;/b&gt; на планшете и начните иллюстрировать книги от известных издательств. Итог курса - готовая обложка и разворот для небольшого...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6ee35b4d-c85d-ac27-d3c6-6308dbda5870" available="true">
+<url>https://online.videoforme.ru/designschool/animation-artist-prof-web</url>
+<price>37000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/d5a1600278db7d82355dcfa0724445a9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Мультипликатор.</name>
+<description>Практический курс, на котором вы &lt;b&gt;научитесь создавать мультфильмы с нуля.&lt;/b&gt; Сможете продумывать сюжет, отрисовывать персонажей и оживлять их в Adobe Animate. Соберёте п...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6bba97fe-b219-4d0a-c6d9-5fdca5672da9" available="true">
+<url>https://online.videoforme.ru/designschool/florist-designer-web</url>
+<price>16300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/ed8d57cc5dcd7232410f79630520de87.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Флорист-дизайнер.</name>
+<description>На курсе вы сделаете более &lt;b&gt;10 цветочных композиций,&lt;/b&gt; получите рекомендации наставника и диплом флориста-дизайнера. Сможете оформлять композиции на заказ и начать рабо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1a7dd866-ec32-7c2d-ddf1-61a09c0a1f2a" available="true">
+<url>https://online.videoforme.ru/designschool/motion-design-web</url>
+<price>29100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/11f543fd783a6c031c05f58096ad6b69.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Моушн-дизайнер.</name>
+<description>Практический курс, на котором вы соберете первые работы для портфолио: визуальные эффекты, анимацию, 3D-графику. &lt;b&gt;Начнете развиваться в цифровом творчестве&lt;/b&gt; и зарабаты...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9db0bd9-6f71-813b-89cc-630c76860c62" available="true">
+<url>https://online.videoforme.ru/designschool/digital-illustrator-prof-web</url>
+<price>24400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/c4b5a0dbd3a9d18b2f0f7c2037d0db09.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Коммерческий digital-иллюстратор.</name>
+<description>Уже во время обучения вы можете начать выкладывать свои работы на сайтах-портфолио, чтобы привлекать новых заказчиков, или брать заказы на фриланс-сайтах от владельцев онла...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5b1f21d8-52af-6096-3424-6197a6bfea47" available="true">
+<url>https://online.videoforme.ru/designschool/brand-designer-prof-web</url>
+<price>26000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/e0810c5287997fdbcfd7f70b8314a4b3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Бренд-дизайнер.</name>
+<description>Разработаете дизайн-стратегию с эффектной айдентикой для бренда: научитесь дизайнить &lt;b&gt;с помощью Adobe Illustrator и Adobe Photoshop,&lt;/b&gt; изучите брендинг и соберете сильн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2dc8fe56-a114-8fa5-74f4-61a09b9f8404" available="true">
+<url>https://online.videoforme.ru/designschool/2d-artist-prof-web</url>
+<price>23300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/45d96b82d4dba523fc5c151c1ad5579c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 2D-Художник.</name>
+<description>За 3 месяца соберете портфолио из ярких иллюстраций, стилизованных персонажей и &lt;b&gt;сможете начать карьеру 2D-иллюстратора&lt;/b&gt; на фрилансе или в геймдеве</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a742a344-027d-974f-1e2a-609561a1b832" available="true">
+<url>https://online.videoforme.ru/designschool/landscape-designer-prof-web</url>
+<price>23300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/05/c954d421cfbb1a92a3f6b148de6dd726.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Ландшафтный дизайнер.</name>
+<description>За 3 месяца обучения научитесь проектировать на заказ 3D-модели участков и экстерьера &lt;b&gt;с помощью AutoCAD, ScetchUp и 3Ds max&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5d6459f9-5f7f-7eac-e58f-62ecd005163b" available="true">
+<url>https://online.videoforme.ru/designschool/3d-generalist-prof-web</url>
+<price>26000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/7a9016b0fe4dcad6630e7d69505cf12d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-generalist в Blender.</name>
+<description>Создавайте 3D-визуализации в играх, кино и сериалах от скульптинга до UV-развертки, рендера, запекания и анимации - станьте &lt;b&gt;универсальным специалистом в области 3D-модел...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1c5627e1-8799-f73a-8cb6-646f3ce53eaa" available="true">
+<url>https://online.videoforme.ru/designschool/interior_design-web</url>
+<price>39900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/83ec3675169b0ed93e8137e013119a2e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Дизайнер интерьера.</name>
+<description>Вы создадите дизайн-проект: чертежи, план квартиры, яркие коллажи и 3D-визуализацию. Получите профессию с доходом от 70000 рублей и &lt;b&gt;добавьте больше творчества в рутинные...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7a288d52-b118-b7ad-cdea-5e749f2bf6fc" available="true">
+<url>https://online.videoforme.ru/designschool/webdesign-web</url>
+<price>12200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/97590636759e2493042273f0649abb6e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы веб-дизайна для начинающих.</name>
+<description>Вы создадите дизайн сайта в Figma для реального проекта и добавите кейс в портфолио. &lt;b&gt;Сможете разрабатывать сайты с уникальным дизайном,&lt;/b&gt; продуманным UX и анимацией на...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5c8f16ec-bfbf-2521-89e4-5e74a0941dfe" available="true">
+<url>https://online.videoforme.ru/designschool/adobe_photoshop-web</url>
+<price>13400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/a1c6fb5a8033855708539ee9abcbd6f2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы фотошопа для начинающих.</name>
+<description>На курсе вы пройдете путь от настройки интерфейса до упаковки дизайн-проекта. Вы научитесь редактировать фото и пополните портфолио шаблонами &lt;b&gt;мокапов, визитками и афишам...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="41ad090c-767a-1366-fcf7-5e749fafd005" available="true">
+<url>https://online.videoforme.ru/designschool/illustrator_courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/344db2f3429f89f58ee5889a55a133d7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Adobe Illustrator (Иллюстратор).</name>
+<description>Вы пройдете путь от настройки интерфейса до создания иконок, логотипов, иллюстраций. Сделаете портфолио, сможете выполнять заказы для брендов, журналов, сайтов и &lt;b&gt;получат...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2b6489bb-4786-42bd-c3d9-5e749f0eec75" available="true">
+<url>https://online.videoforme.ru/designschool/graphic_design-web</url>
+<price>10200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/1d53ddd5cd49c3b2775e0a2fe958cf47.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы графического дизайна.</name>
+<description>Курс, который позволит вам создавать графические элементы разного уровня сложности: начиная с иконки, значка, логотипа и заканчивая отдельными персонажами</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3a06be19-f10d-46cc-ec73-6214d96e9d42" available="true">
+<url>https://online.videoforme.ru/designschool/after_effects_1-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/492dd4896daabfda3de1130bc5743efe.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы After Effects.</name>
+<description>Создавайте анимацию и видеоэффекты любой сложности в After Effects и зарабатывайте на проектах в motion-дизайне</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="42bcd47e-47f7-34e1-0d9f-5fdca5660333" available="true">
+<url>https://online.videoforme.ru/designschool/courses_florists-web</url>
+<price>8400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/de1c6dea82c85543372a89634d33fb86.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы флористики. 1-я ступень.</name>
+<description>Под присмотром наставника вы научитесь работать с цветовым кругом и подбирать &lt;b&gt;современные сочетания для букета.&lt;/b&gt; Сможете собирать монобукеты, букеты невесты и цветочн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7bcca5e7-d7e7-ea62-49a5-5fdca5b3a36c" available="true">
+<url>https://online.videoforme.ru/designschool/courses_florists-2-web</url>
+<price>7400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/6435f83bb2e23fd7be003c6f283d7464.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы флористики. 2-я ступень.</name>
+<description>Научитесь составлять свадебные букеты невесты, работать с сезонными и событийными композициями</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="25326709-3b07-1ecc-64b3-5e749f3142a5" available="true">
+<url>https://online.videoforme.ru/designschool/landscaping-web</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/afe0487bdf7ebde9d9fbe384421debc3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы ландшафтного дизайна.</name>
+<description>Практический курс, на котором вы научитесь анализировать участок, подбирать растения и цветники, создавать план с зонированием и освещением. &lt;b&gt;Разработаете дизайн своего у...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c55de30f-8db2-f24d-6763-646f3c5aaad6" available="true">
+<url>https://online.videoforme.ru/designschool/interior_design_1-web</url>
+<price>22900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/3160dd7468d442439351128a04197bd0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы дизайна интерьера.</name>
+<description>Вы научитесь планировать удобное пространство, подбирать декор и мебель, создавать комфортный и современный дизайн интерьера. &lt;b&gt;С нуля создадите полноценный дизайн-проект ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3994f8d1-b84a-4b5c-e6c8-5d974b6ec5de" available="true">
+<url>https://online.videoforme.ru/designschool/coreldraw-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/69a1dcbd7db38c05b70a76f914c71a1a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы CorelDraw.</name>
+<description>Создавайте иллюстрации и коммерческие дизайны для сайтов и полиграфии</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c6622eec-9bdd-44de-70d9-5db85a0732b7" available="true">
+<url>https://online.videoforme.ru/designschool/kursy-animacii-web</url>
+<price>12500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/c92beb6dd8529dcc4e4800ac7ae2830f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы анимации.</name>
+<description>Научись самостоятельно создавать мультфильмы с нуля в Adobe Animate</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3cb6e552-5d1c-a0e6-8cca-5e74a0d7c87f" available="true">
+<url>https://online.videoforme.ru/designschool/3d-modeling-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/d66e0f6880851342080980b80f2b268f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы 3D-моделирования.</name>
+<description>Вы с нуля научитесь создавать сложные трехмерные объекты и сцены из простых фигур и линий в программе 3D’s max. Пополните портфолио новыми работами &lt;b&gt;и сможете поднять цен...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="381df2a5-02d3-d7e6-397a-5e749f4f3df0" available="true">
+<url>https://online.videoforme.ru/designschool/3d-modeling-advanced-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/df48a7712b6f397ded600517854b3cc7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы 3D-визуализации.</name>
+<description>Вы научитесь создавать трехмерные сцены и работать с материалами V-ray, настраивать освещение и камеру в 3Ds Max. &lt;b&gt;Пополните портфолио новыми работами&lt;/b&gt; и сможете подня...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="75f142a9-9d0b-cdd6-d2c3-5e286d62c487" available="true">
+<url>https://online.videoforme.ru/designschool/ux-design-web</url>
+<price>14300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/d0a2aee2c477b2cc67783309191ee881.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы UX-дизайна.</name>
+<description>Научитесь проектировать удобные и привлекательные для пользователей продукты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b493c1c6-7ca6-8d13-c82a-5e749fab36fa" available="true">
+<url>https://online.videoforme.ru/designschool/3d-modeling-advanced3-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/b3679a0ebbe70028e4ed247cbe6a7ef5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы 3D MAX для дизайнеров интерьера.</name>
+<description>Научись оживлять трёхмерные объекты, изучи искусство анимации! Создай готовый проект трёхмерного интерьера, помести его в своё портфолио!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dffa0602-d87d-26a2-42a0-5e74f40dd210" available="true">
+<url>https://online.videoforme.ru/designschool/3d-modeling-expanded-web</url>
+<price>18400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/3f5fa96ed3f9bbdff8d403889c3ac1f7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-визуализатор интерьера.</name>
+<description>Во время обучения вы освоите 3D max для полноценной работы дизайнером интерьера: &lt;b&gt;соберете портфолио и сможете брать заказы уже в процессе учебы&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b6c69b43-b0fe-62b9-8652-5e32cd7dd701" available="true">
+<url>https://online.videoforme.ru/designschool/autocad-design-web</url>
+<price>8700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/e565ff6e91c2cb7c44d20706380a6119.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы AutoCAD для дизайнеров интерьера.</name>
+<description>Получите навыки создания чертежей в AutoCAD, необходимые для дизайн-проекта</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cc9d5d5b-4980-ab5b-d07f-61016259ea51" available="true">
+<url>https://online.videoforme.ru/designschool/autocad-course-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/30b12924b81213e645401d6d271da61d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курс Autodesk AutoCAD.</name>
+<description>Начни пользоваться лучшими инструментами программы AutoCAD, создавай планы перепланировки и отделки помещений, оформляй экспликации и спецификации.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7d1000c4-a833-79f6-0950-6018072515eb" available="true">
+<url>https://online.videoforme.ru/designschool/blender-courses-web</url>
+<price>12400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/4e8c7c413d983a37ec86d0ca713189f4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Блендера (Blender 3D).</name>
+<description>Научитесь моделировать объекты в Blender и анимировать персонажа</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6ae17e04-892f-1d20-22b1-6038fa1630d2" available="true">
+<url>https://online.videoforme.ru/designschool/procreate-courses-web</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/48d8fb2037b34239506213323ca169dd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы рисования в Procreate.</name>
+<description>Создавайте digital-иллюстрации на Ipad с помощью программы Procreate</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="63561e30-87a5-bfa2-9878-6089118b3c71" available="true">
+<url>https://online.videoforme.ru/designschool/exterior-3d-modeling-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/05/bf894647a67bc667976576ceb968c10e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы 3Ds Max для экстерьера.</name>
+<description>Создавайте ландшафтный дизайн с помощью программы 3Ds Max</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8f120996-daa5-1d88-ef92-608914f59198" available="true">
+<url>https://online.videoforme.ru/designschool/drawing-characters-courses-web</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/3297e19d752f83f9b82c8288ed14d716.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы рисования персонажей в Adobe Illustrator.</name>
+<description>&lt;b&gt;Начните рисовать ярких героев в AI&lt;/b&gt; для сайтов, соцсетей, бизнеса и рекламных кампаний! Вы научитесь создавать персонажей в разных стилях и стилизовать их. Итог курса...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e2fb27fb-2b2e-ba53-d135-6197a699e812" available="true">
+<url>https://online.videoforme.ru/designschool/branding-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/c2aa5ca412f76bbe1791d12cfa6dff04.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы брендинга.</name>
+<description>Создавайте креативные дизайн-стратегии для крупных брендов, берите проекты на фрилансе и увеличьте ваш доход</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="14697339-45c5-a258-ea7b-6197a728f126" available="true">
+<url>https://online.videoforme.ru/designschool/cinema-4d-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/20893dc288c836a3f9e9e84dbb754bfe.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Cinema 4D.</name>
+<description>Курс позволит прокачаться в графическом дизайне: вы научитесь делать динамичные анимированные работы, которые &lt;b&gt;пополнят ваше портфолио и позволят брать больше заказов&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f78a86e-561c-5abd-b5f3-61a09a15524a" available="true">
+<url>https://online.videoforme.ru/designschool/photoshop-drawing-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/20dc1996263cef04e80658807285d1a3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы рисования в Photoshop.</name>
+<description>Создавайте яркие цифровые иллюстрации на фрилансе или начните карьеру digital-иллюстратора</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1624ca30-9474-5b84-a979-61a09a51a3d3" available="true">
+<url>https://online.videoforme.ru/designschool/drawing-2d-characters-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/70fa78df657a264a9de4ea55bfe3f15f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы создания 2D-персонажей в Adobe Photoshop.</name>
+<description>&lt;b&gt;На курсе вы научитесь создавать 2D-героев&lt;/b&gt; и окружение для кино, игр и рекламы. Вы соберете портфолио из иллюстраций со стилизованными персонажами в разных стилях и с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="42915d58-83a0-342e-07db-61a09bb18b88" available="true">
+<url>https://online.videoforme.ru/designschool/casual-graphics-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/1a16c3d2c1f710aae6d5d454bc1b9888.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы казуальной графики: стилизация игры.</name>
+<description>Станьте успешным 2D-художником в казуальной стилистике и создавайте графику для игр</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f1a8195e-2431-bfad-c790-61e7df89201c" available="true">
+<url>https://online.videoforme.ru/designschool/typography-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/129ca9c1979c824992925ff2902e9604.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы типографики.</name>
+<description>Научитесь продвигать продукт и управлять вниманием аудитории с помощью грамотно оформленного текста</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4bf2b22e-ccd6-b814-23a3-61fcfffe4c49" available="true">
+<url>https://online.videoforme.ru/designschool/revit-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/e244726fef87ab27f7323c981596b772.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Autodesk Revit для дизайнеров интерьера.</name>
+<description>Разрабатывайте интерьерные дизайн-проекты в короткие сроки и сделайте их качественнее при помощи Autodesk Revit</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="532353f1-37be-9754-0966-62909e404fdf" available="true">
+<url>https://online.videoforme.ru/designschool/archicad-courses-web</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/967262d49bb8df474d40c9b1ee873ee6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы ArchiCad для дизайнеров интерьера.</name>
+<description>Научитесь эргономично планировать пространство, создавать дизайн интерьера в разных стилях с помощью программы ArchiCAD. Создадите проект для реальной квартиры в портфолио,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1" available="true">
+<url>https://online.videoforme.ru/designschool/blender-3d-courses-web</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/fbce45b51e9248d82646062c50f01db3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы скульптинга персонажей в Blender 3D.</name>
+<description>Повысьте навыки моделирования в программе Blender 3D: выполняйте все этапы &lt;b&gt;ААА-пайплайна в геймдеве.&lt;/b&gt; Делайте скульптинг персонажа, моделируйте трехмерные сцены, осво...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d03afb92-639e-fcab-c5ee-630c7663dfcd" available="true">
+<url>https://online.videoforme.ru/designschool/book-illustration-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/93fbc4a402c9278aaa196a5e8f762ec2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы книжной иллюстрации.</name>
+<description>&lt;b&gt;Начните рисовать иллюстрации к книгам!&lt;/b&gt; На курсе вы пройдете путь от раскадровки книги до оформления проекта. Сможете сотрудничать с издательствами или проиллюстриров...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d401087b-babd-d792-3164-646f3da21e7b" available="true">
+<url>https://online.videoforme.ru/designschool/photoshop-practicum-web</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2023/06/462c314ee879391a58f1f8b726695046.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум: интерьерные коллажи в Adobe Photoshop.</name>
+<description>Вы научитесь быстро собирать коллажи квартиры для наглядных визуализаций любых идей в интерьере. Сможете создавать реалистичные изображения и &lt;b&gt;презентовать яркие интерьер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8d4ffac1-e3b0-55c7-549e-626aa2907ec0" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/website-layout-prof-web</url>
+<price>24700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/427acc60b711d6f01211b4634fc49503.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Верстальщик сайтов.</name>
+<description>Научитесь использовать HTML и CSS для добавления стилей, разрабатывать пользовательские веб-приложения на JavaScript. &lt;b&gt;Практика с реальным дизайн-макетом&lt;/b&gt; и версткой а...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d7e2cab3-6f5f-4128-ec6a-6297460195cb" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/frontend-developer-prof-web</url>
+<price>36000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/c1abf85512dd7226b26cb989ba83fb66.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Frontend-разработчик.</name>
+<description>Практический курс, на котором освоите HTML, CSS, JavaScript и научитесь разрабатывать пользовательские веб-приложения. Вы сможете &lt;b&gt;начать карьеру разработчика в IT-компан...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e00706e8-bfb4-84a1-c738-633ef97d03c4" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/excel-specialist-prof-web</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/10/4645c8c02dc8438e947e6e2693857719.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Специалист Excel.</name>
+<description>&lt;b&gt;Станьте мастером MS Excel:&lt;/b&gt; с нуля начните создавать сводные таблицы, делать понятные визуализации, создавать макросы и сценарии для ускорения рабочих процессов. Начн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="70f29f1c-3025-9f97-2dd0-62ce8c904158" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/web-analytics</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/4c8865f85423fc50ea64c1bb99696308.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы веб-аналитики (Яндекс Метрика и Google Analytics).</name>
+<description>&lt;b&gt;Вы научитесь настраивать систему аналитики,&lt;/b&gt; исследовать пользователей и управлять развитием бизнеса, принимая решения на основе данных. Сможете повысить эффективност...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="28500a30-733f-1f04-69b5-632dc96ce7d6" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/excel-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/dc224b18360c88203c0795e6a8392efa.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Excel для начинающих.</name>
+<description>Научитесь составлять сводные таблицы, производить расчеты по формулам, делать визуализацию данных с помощью диаграмм, использовать функции даты и времени. &lt;b&gt;Повысьте скоро...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dc4f8b69-4e9a-6ec6-caaf-5ea71ca69081" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/html-and-css-for-beginners-web</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/06/a9745071ca6915582b72fb9c798be2ba.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы HTML и CSS для начинающих.</name>
+<description>&lt;b&gt;Вы научитесь верстать адаптивные веб-страницы, добавлять эффекты и анимацию.&lt;/b&gt; Сможете менять стиль любых элементов сайта и брать заказы по верстке на фрилансе от 5000...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4b10982c-01ac-36b8-9103-60d1a67053be" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/sql-for-beginners-web</url>
+<price>15800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/19d7c6a2e2040dc90ed3ac80f1665263.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы SQL для аналитиков.</name>
+<description>&lt;b&gt;Научитесь управлять данными&lt;/b&gt; без разработчиков в СУБД. Используйте SQL-запросы, когортный анализ и Google BigQuery для аналитики данных: расчета продуктовых метрик, п...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e2603143-2b3e-8a85-6f4c-60d5e5c523c5" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/python-for-beginners-web</url>
+<price>30400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/bd111ce2fa32a304949706638aa0f2b7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Python для аналитиков.</name>
+<description>Начните обрабатывать большие объемы данных, автоматизировать интернет-аналитику и визуализировать данные для отчетов. Избавитесь от рутинных задач и &lt;b&gt;увеличите скорость о...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dace0e54-8858-5883-fc05-62876212e3b8" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/google-analytics-courses-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/d99175d116395f8e657beaed1b032a15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Google Analytics 4.</name>
+<description>Научитесь работать с новым функционалом Google Analytics, углубите знания по аналитике и начните подстраивать GA4 под себя. &lt;b&gt;Используйте только актуальные инструменты инт...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b970018d-3e4d-a5d7-cce9-628b6f68c5bc" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/reactjs-courses-web</url>
+<price>18900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/40e87438cb6cc401a79e8a6540ac3837.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы React JS.</name>
+<description>Вы научитесь использовать React совместно с JS и разрабатывать интерфейсы с интерактивными элементами. На практике сможете использовать продвинутые &lt;b&gt;инструменты разработк...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4357f0fa-9302-cde1-7cc4-628b6c2d6c17" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/manual-testing-courses-web</url>
+<price>18300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/ec6a07b6ab984d60b9bc237d5dbd1164.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы ручного тестирования.</name>
+<description>&lt;b&gt;Начните карьеру в IT-сфере&lt;/b&gt; без знания языков программирования: тестируйте сайты, веб- и мобильные приложения с помощью техник ручного тестирования: чек-листов, тесто...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dd47af43-009e-da99-29f9-62627343de24" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/javascript-courses-web</url>
+<price>22300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/0adfc58b1bad94c7d4522accccebf93b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы JavaScript.</name>
+<description>Практический курс, на котором вы научитесь писать код для пользовательских веб-приложений на популярном языке программирования JavaScript. &lt;b&gt;Сможете начать свой путь в IT-...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="bbf44517-e72e-1a81-4a49-5db983ca55cb" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/power-bi-course-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/32fdbb23c767cf93f9ed94e510f688a5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн Курсы Power BI.</name>
+<description>&lt;b&gt;Научитесь анализировать данные,&lt;/b&gt; создавать дашборды, делать вычисления, работать по ключевым метрикам и находить взаимосвязи в удобном инструменте для бизнес-аналитик...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f45002e0-5ed6-5f04-42be-6356aad99fe2" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/system-administrator-courses-web</url>
+<price>23900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/11/b4239e82b62a2f59cc87dfc5da0c363a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы системного администрирования.</name>
+<description>Разберетесь в известных операционных системах, научитесь настраивать программное обеспечение &lt;b&gt;в офисе и дома и сможете начать работу в IT-сфере&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e5ba19ac-8609-b042-ee7d-637783ebd457" available="true">
+<url>https://online.videoforme.ru/computer-programming-school/python-courses-web</url>
+<price>19400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/11/9826fc65ebc91c6e8fddd681d2cd32c9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы Python для начинающих.</name>
+<description>Практический курс, на котором вы с нуля освоите один из самых востребованных языков программирования в IT —  Python и создадите 3 проекта в портфолио: &lt;b&gt;веб-сайт, чат-бот ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9c3ecb4b-5958-4cb4-43a5-643fecbe68e3" available="true">
+<url>https://online.videoforme.ru/psychology/family-relations-prof-web</url>
+<price>25500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/c3b5b126ef57d6f1926fef3f3ccd59d7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный онлайн-курс психологии семейных отношений.</name>
+<description>Вы научитесь выстраивать коммуникацию с близкими с помощью доверия и заботы, сможете улаживать конфликты и распознавать ложь. Укрепите семейные отношения и &lt;b&gt;создадите атм...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="170102c1-66a2-7e24-cfbb-643d1ce5bd09" available="true">
+<url>https://online.videoforme.ru/psychology/psychologist-consultant-prof-wed</url>
+<price>48200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/3341f4b04438b1ab13c29404497feb41.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Психолог-консультант.</name>
+<description>&lt;b&gt;Освойте профессию психолога-консультанта:&lt;/b&gt; консультируйте в своем кабинете или онлайн, работайте сами на себя, зарабатывайте деньги, решайте свои личные проблемы и по...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2399e4fc-ef9b-d40f-340f-6396f1932132" available="true">
+<url>https://online.videoforme.ru/psychology/psychologist-prof-web</url>
+<price>37200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/7cd8ae848ae72296f75aed4a5a79d620.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы повышения квалификации психологов.</name>
+<description>&lt;b&gt;Практический курс для психологов,&lt;/b&gt; на котором вы освоите альтернативные методики: психоанализ, эриксоновский гипноз и арт-терапию. Расширите границы практики и сможет...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8d09c262-ddb6-c792-e76e-643ffedfc665" available="true">
+<url>https://online.videoforme.ru/psychology/psychologist-coach-prof-web</url>
+<price>16700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/66a9d341a03955ef28d7cfb44d3b9191.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Психолог-коуч.</name>
+<description>Освойте инструменты самопознания и помогите клиенту достичь блестящих результатов на работе и в жизни</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3ede0137-0773-9c61-8679-6440037c41a0" available="true">
+<url>https://online.videoforme.ru/psychology/corporate-psychologist-prof-web</url>
+<price>26200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/b80e65e13cd59bed3706533155456d91.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Корпоративный психолог.</name>
+<description>Начните практику корпоративного психолога и проводите коуч-сессии в крупных компаниях для обучения и развития персонала</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e09f2c4f-69ca-3d34-ccba-62d807cc7c51" available="true">
+<url>https://online.videoforme.ru/psychology/practical-astrology-prof-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/e177256a5011b68d033cc976079d8e48.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный курс астрологии.</name>
+<description>Практический курс, на котором вы научитесь лучше разбираться в людях с помощью гороскопов, интерпретировать натальные карты и составлять астрологический прогноз, &lt;b&gt;чтобы р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d70ed45a-e655-68a4-50a4-643ff5371a6a" available="true">
+<url>https://online.videoforme.ru/psychology/family-psychologist-prof-web</url>
+<price>28300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/79899c2d705107fd1c31d659595d1473.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Семейный психолог.</name>
+<description>Практический курс, на котором вы изучите психологические аспекты семейной жизни, научитесь вести консультацию семейной пары и сможете начать помогать семьям &lt;b&gt;преодолевать...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cf825734-80ed-4b8a-54dc-64400dbac8b7" available="true">
+<url>https://online.videoforme.ru/psychology/game-therapist-prof-web</url>
+<price>23400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/6229d583f94ccba54b331f5116a1cb2d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Игропрактик.</name>
+<description>&lt;b&gt;Освойте актуальную профессию в игротерапии:&lt;/b&gt; научитесь вести трансформационные игры, создайте авторскую игру под руководством опытного игротехника, используйте МАК в ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e13d112c-f546-6d83-cc4b-64400f2bb349" available="true">
+<url>https://online.videoforme.ru/psychology/art-therapist-prof-web</url>
+<price>40400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/951b53e9b13ec9c1feb87bb65367ac14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Арт-терапевт.</name>
+<description>&lt;b&gt;Профессиональный практический курс,&lt;/b&gt; на котором вы освоите различные методы арт-терапии для бережной психологической работы с клиентами разного возраста. Сможете прим...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d05a2b5e-b522-0188-7222-622f07822a55" available="true">
+<url>https://online.videoforme.ru/psychology/training-of-trainers-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/d49bea6c764d44a5baefc35f3bf751fe.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы коучинга.</name>
+<description>&lt;b&gt;Вы прокачаете навыки консультирования&lt;/b&gt; техниками коучинга. Научитесь проводить исследование целей, смыслов и разрабатывать эффективные бизнес-стратегии для своих клие...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d0ba29da-fc33-9637-de2d-643d0f09c32c" available="true">
+<url>https://online.videoforme.ru/psychology/psychology-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/9baead6528ea92b0e454991bbceca539.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы психологии для начинающих.</name>
+<description>&lt;b&gt;Получите теоретические и практические знания по психологии.&lt;/b&gt; Внедрите её в повседневную и профессиональную жизнь — научитесь управлять эмоциями, повышать самооценку и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="16edb7b9-af2e-63ea-c71f-5e749e289004" available="true">
+<url>https://online.videoforme.ru/psychology/psychology_of_relations-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/31672bf4531ee3ed2101c3ce4525456a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы психологии отношений.</name>
+<description>&lt;b&gt;Вы улучшите отношения со второй половинкой.&lt;/b&gt; Узнаете, как сохранить любовь в браке и преодолеть конфликты и кризисы. Восстановите гармонию в паре и снова посмотрите д...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cb688b21-7e1d-b478-9bc8-5e749e089b52" available="true">
+<url>https://online.videoforme.ru/psychology/children_psychology-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/1b1772953a1183427450120459ef5fc7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы детской психологии для родителей.</name>
+<description>Научитесь без нервотрепки и конфликтов &lt;b&gt;воспитывать детей в гармоничной семье:&lt;/b&gt; узнайте, как вести себя с плачущим ребенком, как прививать хорошие привычки и как подго...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="394b5585-212e-d3f4-e6f1-6101757e7f16" available="true">
+<url>https://online.videoforme.ru/psychology/neurolinguistic-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/cf15d7d1b6a3e70d097bfe05748178ff.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практический онлайн-курс НЛП.</name>
+<description>&lt;b&gt;Внедрите техники НЛП в вашу жизнь:&lt;/b&gt; управляйте эмоциями и изменениями в вашей жизни, визуализируйте позитивный опыт и достигайте всех поставленных целей с помощью ней...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="89148a75-e143-aefc-ad79-5e061be11b40" available="true">
+<url>https://online.videoforme.ru/psychology/communication_psychology-web</url>
+<price>6600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/e8c64f2d74b4865a8553b69ab5c3b3c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы общения с людьми.</name>
+<description>&lt;b&gt;Прокачайте навыки коммуникации:&lt;/b&gt; научитесь грамотной самопрезентации, преодолейте коммуникативные барьеры. Научитесь противостоять манипуляциям, охранять свои личные ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7532f903-843f-49c1-c482-5cf7bb21c9a0" available="true">
+<url>https://online.videoforme.ru/psychology/fastread-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/0c505c332ae4ba95356a0cc1e42b82b8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы скорочтения. Развитие памяти.</name>
+<description>&lt;b&gt;Повысьте скорость чтения&lt;/b&gt; &lt;b&gt;и увеличьте объем памяти&lt;/b&gt; с помощью интеллект-карт, упражнений на повышение концентрации внимания и техник запоминания. Тренируйтесь в...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d3c1507c-4eaf-c561-ced5-5e749b58a777" available="true">
+<url>https://online.videoforme.ru/psychology/astrology-courses-web</url>
+<price>5600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/ceeef0424999cfc3970d72e54807e3b7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы астрологии для начинающих.</name>
+<description>Опирайтесь в сложных ситуациях и при выборе пути на интерпретацию натальной карты. Составляйте карты для своих родных, используйте ежедневные и ежегодные гороскопы для дост...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="29eec2bd-9b95-f3f0-d81d-5f92a42c3a38" available="true">
+<url>https://online.videoforme.ru/psychology/prognostic-courses-web</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/c496c9f770ad71fdf76df798fb9729d0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы прогностики в астрологии.</name>
+<description>Научитесь прогнозировать события в вашей жизни с помощью метода транзитов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cbd647ee-9997-3a41-3add-5ee21aeac1a8" available="true">
+<url>https://online.videoforme.ru/psychology/networking-web</url>
+<price>6500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/6d35ab360abced65ada4f9bac03d43dd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы нетворкинга: установление деловых контактов.</name>
+<description>&lt;b&gt;Вы прокачаете карьеру,&lt;/b&gt; создавая стратегические связи. Научитесь позиционировать себя, развивать и поддерживать сеть знакомств, применять нетворкинг в разных ситуация...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a238aae9-4320-67b5-e5f3-61e548df2804" available="true">
+<url>https://online.videoforme.ru/psychology/psychology_methodologies-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/c86dffccf3385fa5285d15dfe93ad14c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы практической психологии: современные подходы.</name>
+<description>&lt;b&gt;Вы изучите методики для эффективной проработки психотравм,&lt;/b&gt; научитесь применять гештальт-терапию, психодинамический подход, экзистенциальную, телесно-ориентированную ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f3a29f8-0a54-1f8d-9f3b-5ee9f54dee27" available="true">
+<url>https://online.videoforme.ru/psychology/counseling-psychology-web</url>
+<price>7100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/c66318bd5d41ce6a7c0358dba8cfdd3d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы психологического консультирования.</name>
+<description>&lt;b&gt;Начните консультационную практику!&lt;/b&gt; Шаг за шагом научитесь проводить сессии, выявлять запрос клиента, строить гипотезы, внедрять изменения в жизнь клиента и проводить...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="126dbe57-e062-7bbd-2fda-5ef5bdb20c0d" available="true">
+<url>https://online.videoforme.ru/psychology/psychology_diagnostics_web</url>
+<price>7100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/e7d6ca03c398fdb9ab8cf59ff25debaf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы практической психодиагностики.</name>
+<description>Вы научитесь составлять исследования, грамотно проводить психодиагностику, интерпретировать результаты и использовать их для работы с клиентом. &lt;b&gt;Вы изучите незаменимый ин...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1a133b20-b288-0a8a-66a8-62f4ef48517c" available="true">
+<url>https://online.videoforme.ru/psychology/game-psychology-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/6b076b8f49ce2f0e31e5b1800be96591.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы игротерапии и психологических игр.</name>
+<description>Вы научитесь проводить трансформационные игры, ориентированные на глубокое познание себя и работу со стереотипами и убеждениями. &lt;b&gt;Благодаря этой технике вы сможете эффект...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="575fbed5-f100-a2c4-0b2d-6197a6c84f2c" available="true">
+<url>https://online.videoforme.ru/psychology/promotion-of-a-psychologist-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/5fac312e08e41c567790633eddaa2666.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы продвижения психолога.</name>
+<description>&lt;b&gt;Начните продвигать услуги в соцсетях:&lt;/b&gt; преодолейте синдром самозванца, найдите вашу ЦА, научитесь грамотной самопрезентации, формируйте клиентскую базу и продавайте в...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="541dd715-b7f8-7041-6910-619223e79aab" available="true">
+<url>https://online.videoforme.ru/psychology/borderline-disorders-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/b402621fef54c09a77c2dbcb7e005f8d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы диагностики пограничных расстройств.</name>
+<description>&lt;b&gt;Расширьте свою зону компетенций как психолог:&lt;/b&gt; научитесь отличать норму от патологий, различать нейропсихологические синдромы и клиентов с зависимостями и психическим...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="aa760f2b-9e51-d672-761d-61b065bb810d" available="true">
+<url>https://online.videoforme.ru/psychology/age-psychology-courses-web</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/5a841f25dd4fe0078edec6308d4c1e7a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы возрастной психологии.</name>
+<description>&lt;b&gt;Научитесь работать с возрастными кризисами,&lt;/b&gt; ставить цели и определять ценность каждого периода жизни человека. Научитесь работать с клиентам разного возраста и сможе...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c933e3e6-8846-793c-9f55-61b326f30698" available="true">
+<url>https://online.videoforme.ru/psychology/family-counseling-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/2a7e35b3f775662c9670e5086a5683bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы семейного консультирования.</name>
+<description>Вы сможете эффективно вывести пару из конфликта и помочь пережить разные этапы семейной жизни, научитесь &lt;b&gt;помогать семьям в кризисе.&lt;/b&gt; Станете многопрофильным психолого...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="37b00989-d677-ed72-b3d2-61c1f62b3678" available="true">
+<url>https://online.videoforme.ru/psychology/emotional-intelligence-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/310dd3f057d22ed18421a685ec300b78.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы эмоционального интеллекта.</name>
+<description>Погрузитесь в практику и узнайте нового себя: уверенного, открытого и смелого! &lt;b&gt;Научитесь анализировать свои эмоции,&lt;/b&gt; противостоять негативу и манипуляциям, выражать с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e531b319-859c-9f5a-6296-625691acac14" available="true">
+<url>https://online.videoforme.ru/psychology/ericksonian-hypnosis-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/97e45443e27c7328d22d1a7e2fee9aff.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы эриксоновского гипноза.</name>
+<description>&lt;b&gt;Вы сможете помочь клиентам преодолеть страх перед гипнозом.&lt;/b&gt; Научитесь проводить гипонотерапию в рамках эриксоновского гипноза, работать с травматичечскими событиями ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="62eec33f-cb0e-388b-61f5-626a4d7df0ab" available="true">
+<url>https://online.videoforme.ru/psychology/metaphorical-cards-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/2950c042a37d90d6f9502083208a182a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы метафорических ассоциативных карт.</name>
+<description>Вы научитесь проводить диагностику с помощью МАК, работать с травмами и кризисами, использовать карты на тренингах и помогать своим клиентам находить ответы, &lt;b&gt;прорабатыва...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="280b779c-8e39-8c31-ee4b-6266a4f38f70" available="true">
+<url>https://online.videoforme.ru/psychology/sexology-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/887786b5e17a66461be5970ad4e1ae93.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы сексологии.</name>
+<description>&lt;b&gt;Начните консультировать клиентов по вопросам сексуальности:&lt;/b&gt; научитесь определять норму и патологию, работайте с гендером, освойте техники работы с ролями, сценариями...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ca3c8681-6b61-4793-fa9d-62f621b2bb3f" available="true">
+<url>https://online.videoforme.ru/psychology/art-therapy-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/9da4074af9744c030c374d62f14cd6c0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы арт-терапии для психологов.</name>
+<description>&lt;b&gt;Научитесь проводить арт-терапию,&lt;/b&gt; соберите стартовый набор материалов для терапии, обустройте арт-терапевтическую зону и повысьте доход за счет услуг традиционной и и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f666cf7-8fff-a303-08ea-62f63e62e584" available="true">
+<url>https://online.videoforme.ru/psychology/fairy-tale-therapy-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/9382534783da9fc467c4076667f4efa6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы сказкотерапии.</name>
+<description>&lt;b&gt;Научитесь работать с бессознательным&lt;/b&gt; клиента с помощью сказкотерапии. Используйте авторские сказки на сессиях с детьми и взрослыми, комбинируйте лучшие психологическ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dbf3ed28-78b7-6357-8464-630358b0dc00" available="true">
+<url>https://online.videoforme.ru/psychology/pediatric-neuropsychology-courses-web</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/f961a8bacef8723cb44e47761cfae010.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы детской нейропсихологии и психокоррекции.</name>
+<description>&lt;b&gt;Научитесь проводить детскую психокоррекцию и нейропсихологическую коррекцию:&lt;/b&gt; научитесь диагностировать детей, проводить нейрокоррекцию, узнайте техники коррекции в н...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="85bba106-5833-8bd7-27b7-6308a1b2748e" available="true">
+<url>https://online.videoforme.ru/psychology/gestalt-therapy-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/08/c01b138499e7bb924bf7f8a51810d0ce.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы гештальт-терапии.</name>
+<description>&lt;b&gt;Консультируйте по методам гештальт-терапии:&lt;/b&gt; выстройте доверительные, эмоционально безопасные отношения с клиентам, работайте с телесностью и уверенно консультируйте ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="50eb0ddc-0730-9c2a-9f32-634f94e416a1" available="true">
+<url>https://online.videoforme.ru/psychology/psychoanalysis-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/10/45ec4f21f4249410b62517ee89cd6b42.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы психоанализа.</name>
+<description>Повысьте квалификацию с помощью психоанализа: освойте этику психоаналитика, научитесь анализировать сновидения, прорабатывайте детские воспоминания клиента и &lt;b&gt;используйте...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e8d144f4-4a42-3e64-dcf9-63a95132c8e9" available="true">
+<url>https://online.videoforme.ru/psychology/eating-behavior-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/91a4afcbeb7d6695aecebb33b0110cfe.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы пищевого поведения.</name>
+<description>Практический курс, на котором вы освоите техники работы с расстройствами пищевого поведения, сформируете здоровые привычки, &lt;b&gt;наладите питание и улучшите качество жизни&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="164e0811-71f5-5318-f5ff-63c8f5303c50" available="true">
+<url>https://online.videoforme.ru/psychology/anxiety-attack-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2023/01/f3d6daf28b104e7d2e52da00ab78b3b4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы по работе с тревогой и паническими атаками.</name>
+<description>Курс, на котором вы узнаете о тревоге, панических атаках, страхах и фобиях и способах психологической работы с ними. Сможете разобраться в эмоциональных состояниях и &lt;b&gt;укр...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="90367e3e-3472-328f-05ec-643d17288e8a" available="true">
+<url>https://online.videoforme.ru/psychology/psychology-courses-web</url>
+<price>12200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2023/05/c03c1b2ea8d044826c6d4477d330cfdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы психологии для себя: ментальное здоровье.</name>
+<description>&lt;b&gt;Практический курс для увлеченных психологией:&lt;/b&gt; на занятиях научитесь лучше понимать себя, свои эмоции и поведение, а также общаться и взаимодействовать с окружающими</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="be2f462f-74d2-0dd7-8870-5e80b0db1e73" available="true">
+<url>https://online.videoforme.ru/actors_school/speech-web</url>
+<price>5700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/391b9fc8da0c887b317e578acc65b7a4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы техники речи.</name>
+<description>&lt;b&gt;Практический курс,&lt;/b&gt; на котором вы проработаете свой голос и произношение, научитесь говорить четко и уверенно. Освоите технику дыхания во время выступления и методы р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="0" available="true">
+<url>https://online.videoforme.ru/actors_school/speech-art-2-web</url>
+<price>4800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/7588ad6388219784ada99df02878cf01.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы риторики.</name>
+<description>На второй ступени курсов ораторского мастерства вы освоите навыки аргументации и подготовки речи в сжатые сроки. Станете убедительным и уверенным спикером, сможете &lt;b&gt;умело...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="50e08a72-3841-b12e-862a-637b3a1d2f82" available="true">
+<url>https://online.videoforme.ru/actors_school/speech-art-web</url>
+<price>12200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/208f4273e1fb88711221087df1782438.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ораторского мастерства.</name>
+<description>Практический курс, на котором вы овладеете искусством правильной подачи информации. Поставите голос, проработаете дикцию и научитесь уверенно выступать на публике &lt;b&gt;всего ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6c2c371a-7917-8d9b-7fd0-637b3af5d6bd" available="true">
+<url>https://online.videoforme.ru/actors_school/online-performance-courses-web</url>
+<price>5700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/de88c4dd9e1bec6c8552e423a850ad2f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы онлайн-выступлений.</name>
+<description>Практический курс, который поможет сделать вашу речь интересной, убедительной, захватывающей. Вы разовьёте навыки сторителлинга, повысите уверенность в себе и &lt;b&gt;запишете с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7532f903-843f-49c1-c482-5cf7bb21c9a0" available="true">
+<url>https://online.videoforme.ru/actors_school/fastread-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/0c505c332ae4ba95356a0cc1e42b82b8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы скорочтения. Развитие памяти.</name>
+<description>&lt;b&gt;Повысьте скорость чтения&lt;/b&gt; &lt;b&gt;и увеличьте объем памяти&lt;/b&gt; с помощью интеллект-карт, упражнений на повышение концентрации внимания и техник запоминания. Тренируйтесь в...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a12b428a-55ff-4599-924a-639c5a1aebcb" available="true">
+<url>https://online.videoforme.ru/business_school/estimator-prof-web</url>
+<price>14000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/925fe179b987ca77e3991a9e1c7ff296.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Сметчик.</name>
+<description>Вы изучите сметное дело на практике с нуля: освоите методы определения сметной стоимости и расчет объема работ, научитесь составлять &lt;b&gt;отчетные формы в ПО Гранд-смета&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="13e5fb03-5bc6-6219-e371-63a95da9d555" available="true">
+<url>https://online.videoforme.ru/business_school/trader-prof-web</url>
+<price>19700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/a1ee02c9c35b97a95cc199038990c056.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Трейдер.</name>
+<description>Вы поймете логику работы биржи и научитесь анализировать события на рынке. За месяц разработаете стратегию торговли криптовалютой и будете &lt;b&gt;получать стабильную прибыль от...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a360bec1-17c4-a79c-ef3b-5e74a15ae015" available="true">
+<url>https://online.videoforme.ru/business_school/personnel_manager-courses-web</url>
+<price>13900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/a7c1cb177c355d44e789815d5801a074.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер по персоналу.</name>
+<description>Освойте подбор персонала, научитесь проводить прием и увольнение сотрудников и вести кадровую документацию</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a87d5c77-5ce2-2cc5-e48f-632dcaabce3d" available="true">
+<url>https://online.videoforme.ru/business_school/business-process-manager-prof-web</url>
+<price>29400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/57e7d5d9a493b8a648e23a55d34fd357.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер бизнес-процессов.</name>
+<description>Помогайте компаниям зарабатывать больше с помощью оптимизации бизнес-процессов и &lt;b&gt;начните карьеру в сфере управления и бизнеса&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b3e6ed8d-aa20-fd8f-121c-622f0814b7b8" available="true">
+<url>https://online.videoforme.ru/business_school/marketplace-prof-web</url>
+<price>25700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/2ab6da452709001a79cc27e8232035b2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер маркетплейсов.</name>
+<description>Эффективно продвигайте товары на популярных онлайн-площадках и начните карьеру менеджера маркетплейсов</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8c8349a8-9168-3c35-a01e-6230af5a1ad5" available="true">
+<url>https://online.videoforme.ru/business_school/head-of-sales-prof-web</url>
+<price>18500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/3b40792739beda77ee06b6873c6553a4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Руководитель отдела продаж.</name>
+<description>Увеличьте процент крупных закрытых сделок и постройте успешную карьеру руководителя отдела продаж</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cf4f067a-1b60-183d-b06d-638ddbd43979" available="true">
+<url>https://online.videoforme.ru/business_school/ms-office-prof-web</url>
+<price>13300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/dcf874950f08730c6b20911c8fa6ce59.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы MS Office.</name>
+<description>Вы с нуля сможете создавать таблицы в Excel, сортировать и анализировать данные, а также составлять презентации для начальства в PowerPoint. &lt;b&gt;Повысите скорость и эффектив...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="31bda4ca-e639-76eb-7d0f-5e749f16e8a1" available="true">
+<url>https://online.videoforme.ru/business_school/personnel-selection-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/14fea43c851a723ee7890743a16597e1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы подбора персонала.</name>
+<description>Курс для тех, кто давно хочет изучить нюансы работы с персоналом, но не знает, с чего начать. На курсе вы получите все навыки, необходимые для успешной работы HR-специалиста</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6295b1e1-5e14-8eaf-3ef4-5e749fe120db" available="true">
+<url>https://online.videoforme.ru/business_school/hr-records-management-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/579a42636f2f0f82a273ca2a625084e9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы кадрового делопроизводства.</name>
+<description>Вы научитесь &lt;b&gt;вести кадровый документооборот в компании,&lt;/b&gt; оформлять и увольнять сотрудников, вести личные дела. Обучение построено на обсуждении реальных кейсов из пра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="da4b1b4d-4e9c-5f15-1e05-6261175538be" available="true">
+<url>https://online.videoforme.ru/business_school/product-manager-courses-web</url>
+<price>25300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/593f40dd654549a4401ad2f223e87961.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы product-менеджера.</name>
+<description>Создавайте востребованные на рынке продукты даже в условиях кризиса и начните перспективную карьеру product-менеджера</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="33daa76e-7d0b-6441-ebdc-639ae576b227" available="true">
+<url>https://online.videoforme.ru/business_school/estimator-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/4b412f1ded202ba4a46c47972a0c3b1c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы сметчиков для начинающих.</name>
+<description>&lt;b&gt;Вы узнаете, что такое смета&lt;/b&gt; и сметное дело, а также требования к специалисту этой области. Вы начнете разбираться в строительных расценках, освоите сметно-нормативны...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="24a43c6f-f51c-7298-52bc-639c5ab85fa8" available="true">
+<url>https://online.videoforme.ru/business_school/estimator-courses-advanced-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/12/4a2983878b286a597ffd1c9fcdebb740.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы повышения квалификации сметчиков.</name>
+<description>&lt;b&gt;Вы научитесь работать с ГрандСмета&lt;/b&gt; и освоите принципы формирования сводного сметного расчета стоимости строительства и капремонта</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="56fde185-9d67-5c0b-f96a-5d01090c1245" available="true">
+<url>https://online.videoforme.ru/business_school/merch-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/04/3966c69cf79fce701160be539fa48170.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы визуального мерчандайзинга.</name>
+<description>Научитесь грамотно оформлять пространство магазина для привлечения покупателей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="854cd1a1-a141-e709-6f49-6368ce3a2fff" available="true">
+<url>https://online.videoforme.ru/business_school/online-store-prof-web</url>
+<price>16700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/11/2e6ab46a4283f371e13f673eb358c8e1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный онлайн-курс создания и продвижения интернет-магазина.</name>
+<description>Практический курс, на котором вы разработаете маркетинговую стратегию бизнеса, сайт на Tilda и научитесь продвигать интернет-магазин. &lt;b&gt;Запустите прибыльный интернет-магаз...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1d66e914-f2cc-2fd4-f25b-61cc40a8b6ec" available="true">
+<url>https://online.videoforme.ru/business_school/restaurant-management-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/0ac8629c8a5d2fada78aa90f19a5c9ac.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы управляющего рестораном.</name>
+<description>Научитесь организовывать эффективную работу ресторана, собирать сильную команду и начните карьеру в ресторанном бизнесе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1b078118-6569-b1a9-03ab-6230af3e4b91" available="true">
+<url>https://online.videoforme.ru/business_school/sales-management-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/71e91f8d71c089726ddb48b02cbe757c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы управления отделом продаж.</name>
+<description>Научитесь собирать сильную команду, оптимизировать бизнес-процессы отдела и увеличьте прибыль компании</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b374b7e0-86b3-7fc5-9fd8-633ef7ac5cea" available="true">
+<url>https://online.videoforme.ru/business_school/transport-logistics-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/1aea1a3e443e80b0f8a50d038f122fd3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы диспетчера-логиста.</name>
+<description>Вы научитесь подбирать маршруты для грузоперевозок, оптимизировать транспортные расходы и выстраивать долгосрочные отношения с клиентами. &lt;b&gt;Начнете принимать заказы, работ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="44529a35-abb6-3363-ca18-633efa264e37" available="true">
+<url>https://online.videoforme.ru/business_school/warehouse-logistics-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/3d13368ac7d6d189884b3844d97f6d48.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы складской логистики.</name>
+<description>&lt;b&gt;Станьте логистом склада:&lt;/b&gt; научитесь организовывать процессы приема, хранения, комплектации и отгрузки, проводить инвентаризацию, вести документооборот и внедрять в ра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8be6e376-0a46-12dd-8cfb-6239ca603779" available="true">
+<url>https://online.videoforme.ru/business_school/commodity-specialist-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/3b0a9bddbbd24d2f1ffecd3689193d06.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы товароведа.</name>
+<description>Эффективно взаимодействуйте с поставщиками, организовывайте успешную реализацию товара и станьте востребованным специалистом</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6b245de7-d82e-76d8-0bf1-626baed9855a" available="true">
+<url>https://online.videoforme.ru/business_school/crypto-trading-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/05/9a92e42e811720d1d42d39b0cb4f3fa7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы торговли криптовалютой.</name>
+<description>Обеспечьте финансовую независимость и безопасность ваших сбережений с помощью торговли криптовалютой и инвестирования в монеты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b4f9f8cc-b7ad-dd33-66b4-628f70136e54" available="true">
+<url>https://online.videoforme.ru/business_school/insurance-agent-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/fb89bb58bd57008b16010acc29874aa4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы страхового агента.</name>
+<description>За 5 недель обучения вы научитесь подбирать страховые программы под запросы клиента, вести эффективные переговоры и &lt;b&gt;успешно закрывать сделки.&lt;/b&gt; Сформируете клиентскую ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="827a814a-7af0-bf44-6e56-6232eec0824a" available="true">
+<url>https://online.videoforme.ru/business_school/financial-consulting-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/04/62dcf19fe6c6653a8f60e3efad385be1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы финансового консультирования.</name>
+<description>Стань экспертом в области финансового консультирования и начни зарабатывать на финансовых консультациях</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ce7efb8f-d2eb-ee39-53dd-6214e93b09ea" available="true">
+<url>https://online.videoforme.ru/business_school/art-manager-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/10/a01c3c0faef479c96d9a4cc16e0364a0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы арт-менеджера.</name>
+<description>&lt;b&gt;Практический курс,&lt;/b&gt; на котором вы разработаете кейс своего первого мероприятия: начиная с плана, заканчивая работой с дизайнерами и продвижением ивента в социальных с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e6ae53fa-c1a3-608a-e400-62838a795cb3" available="true">
+<url>https://online.videoforme.ru/business_school/methodist-courses-web</url>
+<price>21900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/c93d4159ad9abf3874b572ed67f1cf1a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы методистов образовательных программ.</name>
+<description>Проектируйте онлайн-курсы с высокими показателями доходимости и вовлеченности и станьте востребованным специалистом в сфере обучения</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="da587712-f2b9-84b2-843e-5e99688070df" available="true">
+<url>https://online.videoforme.ru/business_school/phone-sales-training-web</url>
+<price>1600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/64e89285f60433f1c7b7342b47d0f21e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-тренинг продаж по телефону.</name>
+<description>Повысьте эффективность каждого звонка и увеличивайте средний чек с помощью телефонных продаж</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c7742371-63f0-1b50-e919-5ee21acfdcbc" available="true">
+<url>https://online.videoforme.ru/business_school/freelancing-for-beginners-web</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/165cd77ee932ea7d9b5d3fde90ef28e1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы фриланса для начинающих.</name>
+<description>Научитесь продвигать личный бренд, работать с заказчиками и зарабатывать на фрилансе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="13beb53d-e42e-730c-0e24-5ee8f055b72f" available="true">
+<url>https://online.videoforme.ru/business_school/investment-for-beginners-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/ac21f71b29be2c3a9323ad4d4ceb4591.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы инвестирования для начинающих.</name>
+<description>Сможете обеспечить финансовую независимость и увеличить доходы после разбора инструментов инвестирования с нуля</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2318fbce-fc58-48d6-2282-6239bc34ceae" available="true">
+<url>https://online.videoforme.ru/business_school/purchasing-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/0d0fb09a5436e956b8c7dba4787618c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы по закупкам и поставкам товаров из Китая.</name>
+<description>Управляйте оптовыми закупками и поставками товаров из Китая без больших финансовых и трудовых затрат</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7deb4c23-bfe2-dba0-e4a0-5ef60bd85486" available="true">
+<url>https://online.videoforme.ru/business_school/creating-online-store-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/0425f7da4936f9125799679b4a8bdb38.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курс &amp;quot;Как открыть интернет-магазин с нуля&amp;quot;.</name>
+<description>Приобретите навыки создания и продвижения интернет-магазина с нуля</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="736a05b7-d328-86dc-77a3-61a0992c2d27" available="true">
+<url>https://online.videoforme.ru/business_school/sales-beginners-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/02/527870450b7a08593af76e282c06b28b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы продаж для начинающих.</name>
+<description>Научитесь грамотно устанавливать первый контакт с клиентом, проводить презентацию продукта и успешно завершать сделки</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="36d9cc43-da20-99ac-1dd4-61a09968b628" available="true">
+<url>https://online.videoforme.ru/business_school/sales-beginners-2-web</url>
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/5beb917186c7457ea82b007f73a1d776.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы техник продаж.</name>
+<description>Повысьте средний чек и находите подход к сложным клиентам с помощью продвинутых техник продаж</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1ed17415-9ad8-61d7-1ef6-5f049aadae6a" available="true">
+<url>https://online.videoforme.ru/business_school/b2b-sales-web</url>
+<price>1600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/9904eb245fd1752d9d9dab40696b05ad.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-тренинг &amp;quot;Продажи B2B&amp;quot;.</name>
+<description>Овладейте действенными методиками ведения переговоров и достижения поставленных целей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9af7956f-3646-f401-0421-5f049ad745ad" available="true">
+<url>https://online.videoforme.ru/business_school/negotiation-training-web</url>
+<price>1600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/f94904afb92527343cdab8dd5a144c92.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-тренинг &amp;quot;Ведение переговоров&amp;quot;.</name>
+<description>Овладейте действенными методиками ведения переговоров и достижения поставленных целей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="53910837-6877-c834-80ff-5ef60881a45c" available="true">
+<url>https://online.videoforme.ru/business_school/business-creation-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/ed166300abbcb341280db3da75d7581b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы по открытию бизнеса с нуля.</name>
+<description>Научитесь создавать бизнес-проект с нуля от проверки работоспособности идеи до получения прибыли</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cd7e4d08-d089-eedf-f6e8-60180731d158" available="true">
+<url>https://online.videoforme.ru/business_school/trading-courses-web</url>
+<price>11800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/e0cfb2b5b44c99a9149eba6f48252fed.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы трейдинга для начинающих.</name>
+<description>Во время обучения вы научитесь &lt;b&gt;зарабатывать на торговле акциями.&lt;/b&gt; Сможете выбирать надежных брокеров, проводить фундаментальный анализ и анализировать риски входа в с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ef25a741-3af0-b441-ea28-635b8a43788e" available="true">
+<url>https://online.videoforme.ru/business_school/design-studio-courses-web</url>
+<price>29000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/11/da90f5c0b80ad20f65fe1e138edf2ff9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы &amp;quot;Как открыть дизайн-студию&amp;quot;.</name>
+<description>Авторский курс от владельца дизайн-студии Даниила Бредихина, на котором вы узнаете о всех нюансах создания бизнеса и создадите пошаговый план по &lt;b&gt;открытию собственного де...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1752a5a3-79ac-e5b3-1765-60a376fda14e" available="true">
+<url>https://online.videoforme.ru/business_school/start-a-career-web</url>
+<price>4200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/99d649eed08ec869c6e2d590fa95fdcd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы &amp;quot;Начало карьеры&amp;quot;.</name>
+<description>Создайте продающее портфолио, цепляющее резюме и начните карьеру в компании или на фрилансе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ed64d923-46e7-0365-763d-61653abe1f35" available="true">
+<url>https://online.videoforme.ru/business_school/marketplace-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/11/7e9b9076e3b40c4f62542b13a51a9290.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы работы с маркетплейсами.</name>
+<description>Вы научитесь работать с &lt;b&gt;Ozon, Wildberries, Яндекс.Маркет&lt;/b&gt; и другими популярными площадками. Разработаете стратегию продвижения товаров и начнете зарабатывать от 40000...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="68279ab8-ae72-a4b6-6ca9-61b308231c4a" available="true">
+<url>https://online.videoforme.ru/business_school/it-recruiting-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/12/2947454089276438bd4369c139be0278.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы IT-рекрутера.</name>
+<description>Научитесь собирать сильную IT-команду и станьте востребованным специалистом в IT-рекрутинге</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5f76e499-19d8-1d0d-7632-62987d89d8bd" available="true">
+<url>https://online.videoforme.ru/business_school/producer-courses-web</url>
+<price>12700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/06/d5342adc84439c760d0641865fd761ad.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы продюсера онлайн-школы.</name>
+<description>Научитесь работать с экспертами, &lt;b&gt;разрабатывать онлайн-курсы с нуля&lt;/b&gt; и продвигать их на EdTech-рынке. Сможете координировать процесс создания образовательного проекта,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="47ab643c-77dd-7439-3e42-61fb9373d15b" available="true">
+<url>https://online.videoforme.ru/business_school/project-manager-courses-web</url>
+<price>25300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/249820b16065db7e73d70383e660540c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы project-менеджера.</name>
+<description>Вы освоите востребованную профессию, изучите инструменты и методологии работы и сможете начать зарабатывать как менеджер проектов за 2 месяца</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="964e5c1c-27b4-2419-aa58-621dfd5bb14a" available="true">
+<url>https://online.videoforme.ru/business_school/realtor-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/1fb46d0a94e1de2d46943fd571997d8a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы риэлтора.</name>
+<description>Вы научитесь подбирать недвижимость под запрос клиентов, сопровождать все этапы сделки и составлять документы. Сможете стать экспертом на рынке и &lt;b&gt;успешно заключать сделк...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ba45e942-18a0-5b79-9cdb-6213448d5f6f" available="true">
+<url>https://online.videoforme.ru/business_school/financial-management-courses-web</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/d959de6d2e27b9e1b97793fd453ce443.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы финансового менеджмента.</name>
+<description>Научись успешно управлять финансами компании и получи продвижение по карьерной лестнице</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4035c824-7b52-4875-68b5-6228a27fd007" available="true">
+<url>https://online.videoforme.ru/business_school/store-manager-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/638b0c1b088b7fca1f464f0e32c12b3f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы управляющего магазином.</name>
+<description>Выстройте эффективно работающий магазин любой тематики и увеличьте его прибыль</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2f97303-6adc-5f00-b58a-6234a52f3db5" available="true">
+<url>https://online.videoforme.ru/business_school/crisis-management-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/bbba9d0cd19eca48dc27e1b57d54ff6e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы антикризисного управления.</name>
+<description>Научитесь диагностировать кризисные ситуации, составлять и реализовывать пакет антикризисных мер и выводите вашу компанию из кризиса</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="63ec5b66-3117-48b3-5dcb-622b57adb846" available="true">
+<url>https://online.videoforme.ru/business_school/td-manager-courses-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/03/54e3c8a11ef82d2323ab1ee3fe5ff707.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы менеджера по обучению и развитию персонала.</name>
+<description>Разрабатывайте и внедряйте эффективные стратегии обучения сотрудников и повысьте производительность всей команды</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b98ebbe0-320d-9805-b732-634ea1656df3" available="true">
+<url>https://online.videoforme.ru/photoschool/advertising-photographer-prof-web</url>
+<price>27500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/10/ae86cbedc356427b9db28ee56da876b4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Рекламный фотограф.</name>
+<description>Вы научитесь создавать интересные имиджевые, предметные фотографии и проводить съемку для каталогов, лукбуков для крупных и малых брендов. Создадите не менее &lt;b&gt;10 обработа...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3e7002b2-272f-e52b-c514-5e99dd456eef" available="true">
+<url>https://online.videoforme.ru/photoschool/video-foto-prof-web</url>
+<price>39600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/08935c2a6058cac728ae123d2349ea24.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-видеограф.</name>
+<description>Ретушируйте фото в Photoshop и Lightroom, научитесь съемке и обработке видео в Premiere Pro и After Effects. &lt;b&gt;Начните профессионально создавать фото- и видеоконтент для м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ea763905-468a-f65e-6140-5e99dd9bc672" available="true">
+<url>https://online.videoforme.ru/photoschool/foto-retush-web</url>
+<price>22300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/cc8b39abaadba0b65b72921435543106.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-ретушер от нуля до профи.</name>
+<description>Вы научитесь цветокоррекции без искажения, созданию и применению пресетов для обработки фото в 1 клик, освоите beauty-ретушь. &lt;b&gt;Пополните портфолио фото-ретушью в журнальн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b1d2967d-a9e9-9d52-9c1f-63232a5c4b09" available="true">
+<url>https://online.videoforme.ru/photoschool/family-photographer-prof-web</url>
+<price>27200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/09/4a88d6432a12e83bf7e1f7ad74edf21c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Семейный фотограф.</name>
+<description>Вы научитесь настраивать оборудование, проводить съемку в студии, находить контакт с детьми и родителями. Сможете проводить семейные фотосессии, обрабатывать снимки и &lt;b&gt;за...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="968b897d-fa02-4f1d-cecc-63232a17f00f" available="true">
+<url>https://online.videoforme.ru/photoschool/wedding-photographer-prof-web</url>
+<price>22600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/09/970c753e2324bcef81b4e57c3127c508.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Свадебный фотограф.</name>
+<description>Практический курс, после которого вы сможете проводить постановочные и студийные фотосессии-lovestory и лайф-фотосъемку на свадьбах. Научитесь отбирать лучшие кадры и &lt;b&gt;пр...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="89b211fc-d233-8710-f5c3-6321c6048aa1" available="true">
+<url>https://online.videoforme.ru/photoschool/commercial-photographer-prof-web</url>
+<price>29800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/09/f891aa3517def03c5fadf56e1baead22.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Коммерческий фотограф.</name>
+<description>Практический курс, на котором вы научитесь работать в портретной, предметной и студийной фотографии. Оформите портфолио &gt;20 обработанными снимками и сможете &lt;b&gt;брать заказы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="53bbea38-18b7-4aa6-bf2a-5e749d390c7f" available="true">
+<url>https://online.videoforme.ru/photoschool/photographer-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/2c821361f8640f1efd322eab3516cd23.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы фотографии для начинающих.</name>
+<description>Научитесь работать с ручными режимами фотокамеры и делать качественные снимки</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e6af0f54-c95e-4615-d2c0-5e749df9bfb7" available="true">
+<url>https://online.videoforme.ru/photoschool/photographer-advanced-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/fa2eeaf3e5e55ddbd264776a9690f1e9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы профессиональной фотографии.</name>
+<description>Научитесь проводить студийную и предметную съемку и работать с любым освещением</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9ca52ade-506d-f7fc-e68a-5dcc0845fb2b" available="true">
+<url>https://online.videoforme.ru/photoschool/photoshop-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/3b23d47e90bb18e0e87564b9d1cde8b3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы обработки фотографии.</name>
+<description>Практический курс, на котором вы &lt;b&gt;обучитесь работе в Photoshop и Lightroom.&lt;/b&gt; Узнаете, как создать пресеты для быстрой обработки фотографий, и использовать ретушь для с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ec1e8f06-edf0-7642-4674-5dcc0852cf45" available="true">
+<url>https://online.videoforme.ru/photoschool/photoshop-advance-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/08/09f32031434068df31730a515e029143.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы профессиональной ретуши.</name>
+<description>На практическом курсе вы &lt;b&gt;соберете &gt;5 работ для портфолио:&lt;/b&gt; ретушь для журналов и рекламы, портретная мужская и женская фотография. Сможете выполнять beauty-ретушь для...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="25f69cec-7456-1814-2a59-62ac6f44040d" available="true">
+<url>https://online.videoforme.ru/photoschool/kursy-portretnoj-fotografii-web</url>
+<price>8700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/08532e03caaffaa20bf641c38e969a4b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы портретной фотографии.</name>
+<description>Станьте портретным фотографом: научитесь снимать бытовые и креативные фотосессии, создавать групповые фотографии, делать бьюти-ретушь на портретах. &lt;b&gt;Соберите профессионал...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f2d141c9-96de-be4b-bd3b-631ef92ced19" available="true">
+<url>https://online.videoforme.ru/photoschool/wedding-photographer-web</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/09/01de70cc405fc2ae9a3151e198bc2ae3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы свадебной фотографии.</name>
+<description>Вы научитесь составлять мудборд фотосессии, работать в стиле lovestory и проводить съемки всего праздничного дня от утра невесты до торта. Сможете зарабатывать &lt;b&gt;от 3000 р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="15ee17f4-ee18-b85e-6511-62ac6e629385" available="true">
+<url>https://online.videoforme.ru/photoschool/commercial-photography-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/69b3ec8f8f5de53924366a4133c55697.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы предметной фотографии.</name>
+<description>Прокачайте навыки предметной фотографии: ознакомьтесь с оборудованием, научитесь организовывать фотосессию со спецэффектами, снимайте сложные предметы и &lt;b&gt;соберите професс...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a06b101d-43ef-0220-5d9b-631ef9cb83f0" available="true">
+<url>https://online.videoforme.ru/photoschool/detskoe_i_semeynoe_foto_web</url>
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/09/d8e8fae0448344b8c4fbed18d08300ad.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы семейной и детской фотографии.</name>
+<description>Вы научитесь настраивать контакт с людьми разных возрастов и проводить детские, семейные и парные фотосессии. Сможете брать заказы на съемки в студии, городе и на природе &lt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="183f9a5f-0d63-29c2-ba80-634ea017b507" available="true">
+<url>https://online.videoforme.ru/photoschool/advertising-photo-courses-web</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/10/14a799290e485c8940440421b246eba3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы рекламной фотографии.</name>
+<description>Научитесь проводить рекламные фотосессии и создавать интересные кадры для журналов, лукбуков, каталогов. Сможете работать с локальными и крупными брендами и &lt;b&gt;зарабатывать...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6ee6d781-5030-50e1-9fc7-63a2d57338bd" available="true">
+<url>https://online.videoforme.ru/tvschool/videograf-prof-web</url>
+<price>25100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/01/946f7c6bad9d802b878bae0a509f76a3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Видеограф от нуля до профи.</name>
+<description>Вы научитесь снимать и монтировать имиджевые ролики, проморолики к товарам, видео для тематических мероприятий. &lt;b&gt;Научитесь монтировать в Adobe Premier Pro и применять эфф...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d9a17c15-13f3-00e3-9adc-614885bf615d" available="true">
+<url>https://online.videoforme.ru/tvschool/director-prof-web</url>
+<price>25100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/09/9e841caa1b937ef2694eabbba46fa664.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Режиссер.</name>
+<description>&lt;b&gt;Вы пройдете все этапы создания кинопроекта:&lt;/b&gt; от идеи, питчинга и работы над сценарием до подбора актеров и постпродакшена. На курсе вы напишите свой первый сценарий, ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8fee0cea-c1d4-f2f5-4e3c-636cd19541b4" available="true">
+<url>https://online.videoforme.ru/tvschool/dubbing-actor-prof-web</url>
+<price>19000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/11/8a3a33f590cb107ee65b613090a348c3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Актер дубляжа.</name>
+<description>Практический курс, на котором вы поставите речь, научитесь работать с дыханием, озвучите аудиокнигу, сцены из фильмов и научитесь записывать &lt;b&gt;собственные проекты и подкас...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="70b418ac-023e-dbec-3dcc-638ddbe2cd26" available="true">
+<url>https://online.videoforme.ru/tvschool/videoblogger-prof-web</url>
+<price>26700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/05/fa83c8d895018587ec9b9eb45ffda83d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Видеоблогер от нуля до профи.</name>
+<description>Вы определите свои сильные стороны и пути развития в блогинге, напишите сценарии и снимите первые ролики на YouTube. &lt;b&gt;Сможете быстро раскрутить и монетизировать канал бла...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6641f299-6f36-11ee-f978-601ac689139a" available="true">
+<url>https://online.videoforme.ru/tvschool/video-editing-web</url>
+<price>7100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/02/a9ca26d839ccac5dc5017ac11449f3fe.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы мобильной видеосъемки.</name>
+<description>Вы научись снимать и монтировать эффектные видеоролики на телефон Android и IPhone. Научитесь работать со звуком, создавать динамичный монтаж видео, которые будут собирать ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="370a95a5-a7e8-f37f-6a43-60535028178c" available="true">
+<url>https://online.videoforme.ru/tvschool/videograf-web</url>
+<price>15300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/43c61ac7432b20374eefe0bbcbea75b3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы видеосъёмки и монтажа.</name>
+<description>Вы научитесь снимать атмосферные рекламные ролики и монтировать их в &lt;b&gt;программе Adobe Premiere Pro.&lt;/b&gt; Сможете создавать цепляющие видео для своего блога или делать на з...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="68e60922-5964-e8bd-6734-5cf7b41e076e" available="true">
+<url>https://online.videoforme.ru/tvschool/videoblogging-online</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/369f896e5ffde138d9b648318969518d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы видеоблогеров (youtube).</name>
+<description>Научись снимать интересные видеосюжеты для блога и успешно вести канал!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="339abb18-a1df-422d-80c6-604b7b6de51f" available="true">
+<url>https://online.videoforme.ru/tvschool/journalism-web-1</url>
+<price>12100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/28d85c5886b96fdf5546907f573cd6f8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы журналистики.</name>
+<description>Практический курс, на котором вы научитесь &lt;b&gt;писать новостные и рекламные тексты,&lt;/b&gt; готовить репортаж и проводить интервью. Научитесь писать увлекательные статьи на зака...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f30c0bf-ff24-51e4-588e-610d515a8303" available="true">
+<url>https://online.videoforme.ru/tvschool/writer-web-1</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/03/98516712b4b218437713d489f1f3a6b2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы писательского мастерства.</name>
+<description>Вы узнаете, как преодолеть страх чистого листа, &lt;b&gt;научитесь писать в любом жанре&lt;/b&gt; и захватывать внимание читателя с первых страниц. Начните превращать реальные и вымышл...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e8577a5d-f7fe-a8fd-a21b-5d01095515c0" available="true">
+<url>https://online.videoforme.ru/tvschool/screenwriter-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2020/12/ae4fa9ac8442c6c2ecb0ae3d74ee7883.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы сценаристов.</name>
+<description>Практический курс, на котором вы научитесь придумывать сюжеты и оригинальных персонажей, &lt;b&gt;узнаете секреты создания захватывающих историй&lt;/b&gt; и напишите 5 разных сценариев...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="625be46e-d44c-9583-61a3-6298853cedce" available="true">
+<url>https://online.videoforme.ru/tvschool/event-organizer-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/dff5c4a1621c1363c6bd93d535fca52b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы event-менеджеров.</name>
+<description>Научитесь организовывать, продвигать и проводить успешные мероприятия в любом формате для крупных заказчиков и станьте &lt;b&gt;востребованным специалистом&lt;/b&gt; в event-индустрии,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="48260a78-aecf-dd83-807a-613fbc37175f" available="true">
+<url>https://online.videoforme.ru/tvschool/director-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/09/49a3fd17e3a10655ea4ec39fbe66324b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы режиссуры.</name>
+<description>На курсе вы пройдете все этапы работы над авторским фильмом: от замысла и работы над сценарием до подбора актеров, монтажа и постпродакшена. &lt;b&gt;На практике создадите сценар...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1cc546ee-7591-88ce-ab1c-60549bfea701" available="true">
+<url>https://online.videoforme.ru/tvschool/speaker-web</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/04/12f0acb798be5a67156f839658480bd2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы дикторов и создания подкастов.</name>
+<description>На курсе вы запустите свой подкаст, узнаете, как сделать проект заметным для слушателей, как продвигать и монетизировать его. &lt;b&gt;Вы освоите технические навыки и начнете пол...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2afd9e2-6dcd-ea35-9b1a-629f237a8358" available="true">
+<url>https://online.videoforme.ru/tvschool/dubbing-courses-web</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2022/07/7662ad32a7981b12636acf49b5a8dbf3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы актерского дубляжа и озвучивания.</name>
+<description>&lt;b&gt;Начните зарабатывать дубляжом:&lt;/b&gt; записывайте озвучку фильмов, сериалов, книг. Научитесь работать с микрофоном, читать с листа, управлять диапазоном своего голоса и син...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="35915941-9e91-b202-cbd9-5ef4df03c8c0" available="true">
+<url>https://online.videoforme.ru/culinary_school/sommelier-course-web</url>
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://online.videoforme.ru/files/2021/07/7da4c6dcfcd274276147fe5e4dabfbb3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Онлайн-курсы сомелье для начинающих.</name>
+<description>Иностранные виноделы научат тебя разбираться в вине с нуля и ощущать ту самую манящую философию вина</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:10">
+<shop>
+<name>Эколь</name>
+<company>Академия Красоты Эколь</company>
+<url>https://nizniy-novgorod.ecolespb.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers><offer id="1daa04ad-6ffc-947e-3e72-6462749d6c6b" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/eyelash-extensions</url>
+<price>4000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/220fd710e3bba277336c1894914c048c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мега-объемов в наращивании ресниц</name>
+<description>Станьте востребованным мастером, освойте техники мега-объемов и повысьте свой профессионализм</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6817261d-7f93-82b7-815f-6454ec57f41e" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/laminating_eyelashes</url>
+<price>6000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/d80df7258d9f1900019fa74cee1330e9.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ламинирования, нанопластики и ботокса ресниц</name>
+<description>Научитесь выполнять популярную услугу ламинирования и ботокса ресниц и работать со сложными ресницами, расширите спектр услуг для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="dc351ccd-e402-471d-0a1d-627e0a5f16d7" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/course_correction_and_coloring_eyebrows</url>
+<price>5100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/df81d90746426bfe2b03e2f196596974.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы коррекции и окрашивания бровей</name>
+<description>Научитесь выполнять окрашивание бровей хной и краской, освойте коррекцию и архитектуру бровей и начните зарабатывать сразу после обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1f7571dd-b336-cf38-7bd6-627e0bad00d1" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/kursy-naraschivaniya-resnic-i-pokraski-brovei</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/373417460d9ffe3bfdd9cec6a6fd63cc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания ресниц</name>
+<description>Научитесь выполнять востребованную услугу классического наращивания ресниц и найдите первых клиентов сразу после окончания обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b2cc0ad9-5639-90e5-5882-627e0a097433" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/laminirovanie-brovei</url>
+<price>4200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/108d89cd6b8e07e2c74bfbc863532f4e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ламинирования и ботокса бровей</name>
+<description>Обучитесь популярной услуге и преображайте клиентов с помощью долговременной укладки бровей</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ab022588-ff0d-3809-ff2d-627e0bdab2d6" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/volume_lashes</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/12/a87f71fe71993b13fddacf0eb407ce89.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы объемного наращивания ресниц</name>
+<description>Освойте технику объемного наращивания ресниц и применяйте декор в наращивании, повысьте квалификацию профессионала</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1d85daec-6194-9ad9-62e8-6454cc6ae6b4" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/eyebrow-correction-thread</url>
+<price>6800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/8a2d5ece7a02b8cb73dae18f83774cae.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стайлинга и сложной колористики бровей</name>
+<description>Освойте навыки коррекции бровей с помощью нити и воска, разберитесь в вопросах колористики и повысьте квалификацию мастера</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="43926c74-5e42-3f09-c466-646276f57672" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/browmaker-lashmaker/fast-eyelash-extension</url>
+<price>3200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/06/0b1d64ab67db9c1d0bf79c0689caa692.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скоростных техник в наращивании ресниц</name>
+<description>Станьте востребованным мастером, освойте скоростные техники в наращивании ресниц и повысьте свой профессионализм</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="df99f22a-830a-afb6-921d-64b63930da9d" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/samozanyatost-byuti-mastera</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/2bd82840dd0f3844ec65d8c128db99d2.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы самозанятости для бьюти мастера</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="c97f31c1-5729-4498-b37c-64d0c0433464" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/praktikum-baza-klientov</url>
+<price>12000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/7a30e10917af8ee471498e2f8366904a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Постоянная база лояльных клиентов: выстраиваем доверительные отношения</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d324940e-d245-fd88-61d3-64b643129a6a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/careers-in-beauty</url>
+<price>10200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/b9040769376f4094103522693b3025bb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы личного бренда. Продвижение beauty-мастера</name>
+<description>Узнай, как начинающему мастеру найти первых клиентов и продвигать личный бренд в сети</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d42772cf-8b3c-4c09-563e-6176a0c24905" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/beauty-instructor</url>
+<price>10600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/dea0202ecb8c220f82ab5522f47ba23d.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы инструктор в beauty-сфере</name>
+<description>Получите профессиональные знания в сфере красоты и занимайтесь разработкой авторских программ обучения</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b261b568-daa9-a8ac-70ab-64d0c246824f" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/praktikum-anti-stress</url>
+<price>9600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/a5b15fb0f364307129cd32c81b7b1717.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Как справиться со стрессом и не выгореть бьюти-мастеру</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9092c9ef-8642-db35-116d-64b647d985f1" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/ehtika-i-psihologiya-obshcheniya</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/821cb4a820c26125b3a471326ba50acd.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы этики и психологии общения с клиентом в косметологии</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3ca65263-4765-6496-c8f3-63c152c1bb5a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/beauty-salon</url>
+<price>15300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/01/f04076d6661934e0bcb34d0f1887a4ad.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по открытию салона красоты</name>
+<description>Вы составите бизнес-план, определите величину инвестиций, срок окупаемости и точку безубыточности. Получите перечень документации для открытия салона, узнаете, как привлечь...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6c7c0313-d216-39a8-8a65-61e67ee81be5" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/stress-management</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/f22be4f044cb6b325a8447feb9a89460.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управления стрессом</name>
+<description>Изучите основы стресс-менеджмента всего за 2 урока</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="27dedfde-b9dc-8c18-36e3-64d0c48f707e" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/praktikum-uverennyj-byuti-master</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/08/f0181131cf0a712d7f86cc89fa63db0f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум Уверенный бьюти-мастер: находим подход к любому клиенту </name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ecc82b49-a293-7bc1-0518-64b64592cd7a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/beauty-marketing/start-karery</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/07/d824c39d3d9883d53dd37bd2dfcdeb07.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы старта в карьере beauty-мастера</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000009" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/makeup-school/greasepaint</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/2f1d90c9a53ca8fe58d09fc48c99eeff.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы театрального грима</name>
+<description>Стань мастером сценического грима всего за 4 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000010" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/makeup-school/special-effects</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/b65b7177e9e8967e423f149f27e3cb3b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы спецэффектов в гриме</name>
+<description>Стань мастером, способным изменить человека до неузнаваемости, пройдя курс из 4 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000008" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/makeup-school/kurs-aqua-makeup</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/cf920d8e5b087bb66b99fc1fb1c7a0ff.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аквагрима</name>
+<description>Стань мастером аквагрима, пройдя  курс из 4 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000110" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/makeup-school/face-painting-for-children</url>
+<price>12300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/a339b15d4d8677fa6f9b22a3ce7698ac.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аквагрима для детей</name>
+<description>Научись  рисовать на детском лице животных и супергероев</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000126" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/makeup-school/professional-makeup</url>
+<price>16700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/09/bf2fd080276e397a16c10bb81478ca62.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального макияжа</name>
+<description>Узнай все о макияже в профессиональных техниках и тонкостях общения с клиентами всего за практических 10 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000026" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/makeup-school/visage</url>
+<price>7800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/36397a9aba0c75a98590a19ee70d29c4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визажистов для начинающих</name>
+<description>Начни выполнять макияж на любой случай жизни всего через 5 уроков-практикумов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6b78656c-108c-a15d-92d0-61654a507f4e" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/kursy-ehffektivnogo-shopinga</url>
+<price>20400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/269469ed198e1a84d593c948d7733670.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы капсульного гардероба</name>
+<description>Научитесь составлять комплекты одежды для любого события</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="873dc1a5-ab1c-3612-65e1-6149923b501d" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/visual-merchandising</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/789d96dacddd97807af014671661b1de.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визуального мерчендайзинга</name>
+<description>Освой принципы оформления витрин и научись увеличивать прибиль бизнеса</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="5b93f689-c0a3-0e4b-25c3-61654a34691d" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/aspiring-stylist</url>
+<price>8700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/faa0a06ff7eda856e0b22117013f3073.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистов для начинающих</name>
+<description>Узнайте, как сформировать персональный стиль и составить роскошный образ</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="88acb902-79e5-ad67-ba89-6176609da5e7" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/trendwatching</url>
+<price>3990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/626800d053dd4c2e967f00aa57ec19cf.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы трендвотчинга: анализ трендов</name>
+<description>Научитесь прогнозировать изменения в fashion-индустрии и формируйте актуальные капсулы на сезон</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="39817f96-2297-c3f0-b27e-61713a76c7d5" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/sewing-dress</url>
+<price>1990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/3f925fe26cc5244d89d9338e80d5a9f5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>МК Дресс-код: стильный офис</name>
+<description>Собери офисную капсулу и сохраняй индивидуальный стиль даже при условии дресс-кода</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4f9df095-b4cc-49d1-0955-61654b9f5fd9" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/kursy-stilistiki-na-praktike</url>
+<price>10700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/4850d7f100466cc5b060f38c1dcbef03.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы fashion-консультирования</name>
+<description>Узнайте, как профессионально работать с фэшн-съемками, и станьте экспертом в мире моды</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id=" 94a1081e-b3bd-40de-a4d1-61713ab9d4b" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/style-school/color-clothing-capsule</url>
+<price>1990</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/1647df0a40931b2bf8540d370722ba35.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>МК Сочетание цветов: собираем капсулу</name>
+<description>Изучите основы сочетания цветов в образах и соберите собственную капсулу</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1c882eaa-6fb6-487c-4cc0-631f0048ed9b" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/kursy-miofascionalnogo-massazha</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/91e337128bf4df6c7222a588f473d79c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы миофасциального массажа тела</name>
+<description>Вы освоите современные методы оздоровления и омоложения организма с помощью миофасциального массажа. Повысите профессионализм, привлечете новых клиентов и будете получать о...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="e2e69664-9ef6-d997-77bb-6232de96672f" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/creole-massage</url>
+<price>8400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/a19e629212b6c1980206f051dd65a950.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы креольского массажа</name>
+<description>Освойте техники креольского массажа бамбуковыми палочками, повышайте квалификацию и увеличивайте спектр услуг</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="36f3ae0a-d3a0-b41b-e7f5-631f001e3b0f" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/kursy-massazha</url>
+<price>11300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/b151da86cbe319904eca57d125077c7c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы классического массажа</name>
+<description>На практическом курсе вы получите знания по классическому массажу, анатомии человека, отработаете массажные приемы. Станете специалистом и будете зарабатывать от 2000 за сеанс</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000099" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/relaxing_massage</url>
+<price>6400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/8967568045bb4f6caa853259edec45e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы расслабляющего массажа</name>
+<description>Освой технику расслабляющего массажа за 4 практических урока и приступи к работе</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4b368e91-50bc-dbae-dfeb-62320e443f1a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/kursy-klassicheskogo-massazha</url>
+<price>10700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/5952da602e2ca068dfd6eb04ff70acbc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы самомассажа</name>
+<description>Научись проводить самомассаж разных участков тела, улучшай самочувствие и сохраняй молодость</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3e9b6f76-ba1d-34dd-892b-5fc766f5fee9" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/stone_massage</url>
+<price>7600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/12/e7d0f1c547a084d0424733c83a75c6c8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стоун-массажа</name>
+<description>Освой техники стоун-терапии за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a22389de-03d3-f038-6f04-626934297018" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/thai-massage</url>
+<price>8900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/3e49fe4e0a934206414f78e84ae3216e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тайского массажа</name>
+<description>Улучшайте состояние здоровья клиентов и повышайте квалификацию с помощью восточных техник классического тайского массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000060" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/course-anticellulite-massage</url>
+<price>7200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/6301227bab8dcf3b74a75ac9e062961f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы антицеллюлитного массажа</name>
+<description>Стань профессионалом в борьбе с целлюлитом массажными техниками</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6e5f6959-8dc0-39c5-15bf-60a37a9263d4" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/sports-massage</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/0e9ac8671d2e502f6e9134d5194183f4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы спортивного массажа</name>
+<description>Узнай особенности спортивного массажа и найди высокооплачиваемую работу</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="47259370-c2f3-821a-7309-5fc76632274c" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/guasha_massage</url>
+<price>6700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/12/4d556d0a3ac3f2368decdc0e3fc6681e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы массажа Гуаша</name>
+<description>Эффективный метод освоения китайского массажа Гуаша всего за пару занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cb2e3081-e928-be01-ca8a-6246c0915809" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/massage-school/lymphatic-drainage-massage</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/0d41d1e659023f4ca2d30c09832203d8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лимфодренажного массажа</name>
+<description>Научитесь снимать отечность, уменьшать целлюлит и возвращать упругость кожи вашим клиентам с помощью лимфодренажного массажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9c07da56-b056-a25e-5858-623c762aa461" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/manicure-school/nail-art</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/e1cff29a67bfcfa7614785ddd2a1f65d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна ногтей</name>
+<description>Повысьте средний чек, освоив современные дизайны ногтей. Выполняйте сложный дизайн под запрос любого клиента</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ad3f62fc-80dd-29e8-330c-623c75df1d6e" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/manicure-school/pedicure</url>
+<price>13400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/882eb6bc09d353e2e95ed51b9f39c448.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы педикюра</name>
+<description>Освойте востребованную и дорогостоящую процедуру эстетического педикюра, станьте востребованным мастером и расширьте спектр услуг для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ad7ff793-a74b-8bec-984f-623c74ccdc57" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/manicure-school/manicure-master</url>
+<price>22000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/1c08615338843fcfd65263fc96f77aff.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мастера маникюра</name>
+<description>Начните зарабатывать на маникюре уже во время обучения: станьте востребованным мастером, работайте на себя или в лучших салонах вашего города</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a6e722f8-7d4f-8a15-9e63-623c76a35958" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/manicure-school/nail-extensions</url>
+<price>26700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/06/b8ffed9b5dcba7ec20da9f82d457576c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания ногтей</name>
+<description>Научитесь востребованным техникам моделирования ногтей и станьте универсальным специалистом. Предлагайте услуги наращивания и коррекции ногтей вашим клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b97689e7-7e6d-2806-d9c7-62cd2e0325a8" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-stilista-po-volosam</url>
+<price>10200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/09/0fde496ef69bc945e8fdf1765a0446ba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы причесок и укладок</name>
+<description>Вы научитесь делать варианты стильных причесок на каждый день и торжество. Освоите экспресс-техники и техники с использованием утюжка, гофре и брашинга. Сможете начать карь...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="51890c22-26f2-60e9-0923-60d98ff9900c" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-muzhskix-strizhek</url>
+<price>20800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/12/8a058c8b3c14df55fe05421d06b6264f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мужских стрижек</name>
+<description>Разберитесь с выполнением популярных мужских стрижек, а также соберите портфолио для старта собственной карьеры</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000174" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/barber_course</url>
+<price>11100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/09/1820d72b4bf5107dfce3aa0da5299b14.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы барбера. Повышение квалификации</name>
+<description>Вы научитесь делать трендовые и сложные мужские стрижки, управлять инструментами барбера и выполнять технику тонирования для маскировки седины и контраста. Сможете стать ст...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000041" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-kosopleteniya</url>
+<price>4300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/0b5eba0da4ab6227bedf8a113ac02b0c.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косоплетения</name>
+<description>Стань мастером в косоплетении всего за 2 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000031" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-okrashivaniya-volos-dlya-nachinayushchih</url>
+<price>21200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/f5b937c30f5b3eff1361418a6724211b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы окрашивания волос для начинающих</name>
+<description>Научитесь профессионально работать с цветом, подбирая оттенок по типу внешности клиента</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="422545a9-cc39-d0b0-c21a-61654682df39" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/male-haircuts</url>
+<price>18900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/ec6cad22a427408c82285cafad11afda.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сложных мужских стрижек</name>
+<description>Освойте азы работы со сложными мужскими стрижками, а также научитесь учитывать индивидуальные особенности клиента</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="bcb8db04-eaac-8c68-7f81-6165462c220a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/salon-haircut</url>
+<price>22400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/d37f022a80ae9a2ed32b05eb59e98fd9.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы салонных стрижек</name>
+<description>Узнайте, как работать над салонными стрижками всего за 4 занятия-практикума</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="79c55749-77df-09dc-6bf7-5daef63db947" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/nanoplastics-hair</url>
+<price>7000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/8e7cc51c23dece3f8d2bc70583dd0dc9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы нанопластики волос</name>
+<description>Обучись новой технологии выпрямления и оздоровления волос за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cba520ca-e0f0-18ff-4b04-620d1c1485ae" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/hair-reconstruction</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/02/d1656628607421ba16729f069cb2cb23.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы реконструкции волос</name>
+<description>Современные технологии реконструкции волос помогут вам расширить спектр услуг и увеличить доход</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="69aa06be-293b-86ed-ef2e-60d984b8be6a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-parikmaxerov-dlya-nachinayushhix</url>
+<price>27500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/227f85e46635c29013be1a1726770ccb.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы женских стрижек</name>
+<description>Изучите дизайн женских стрижек с нуля и начните свою карьеру в салоне или на самого себя</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000171" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-botoks-volos</url>
+<price>5200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/08/3a94d02c89a8814269d01cac325e53c6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ботокса для волос </name>
+<description>Узнай, как сделать волосы живыми и блестящими с помощью всего одной процедуры</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000108" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/keratin-hair-straightening</url>
+<price>6300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/b712b5bcb7df30ee044c1885570ebb05.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кератинового выпрямления волос </name>
+<description>Научись прогрессивной технике выпрямления при помощи кератина</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="953d419c-eb8f-354c-f8bb-5fe06d3f4155" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/afro-pigtail-weaving-courses</url>
+<price>8000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/01/a9810166e7c17269152bb341a82ffdd6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы плетения афрокос</name>
+<description>Изучи техники создания афропричесок всего за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000034" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kurs-salon-coloring</url>
+<price>13900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/20e8703d898676871896c67cd9f5e7c8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального окрашивания</name>
+<description>Научись самым актуальным техникам окрашивания за восемь занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000043" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/barber-school/kursy-narashhivaniya-volos</url>
+<price>9200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/e400efb8e2a611fb2c318fc78aff45f3.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы наращивания волос</name>
+<description>Практический курс, на котором вы научитесь наращивать волосы любой длины и структуры, соберёте портфолио и начнёте зарабатывать в сфере красоты</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1d4e5597-d98b-2fe1-c6ab-6203f430fe3f" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/facial-massage-3</url>
+<price>33600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/59d5a206e992e8e7b70c05fee80e6a51.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы хиромассажа лица</name>
+<description>Выучи современную технику испанского хиромассажа</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a7e27f7c-b99e-f0e9-bb08-61e67e7ad5d0" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/face-lifting</url>
+<price>3050</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/09967de3c369c2c5566a6f8cdd53c864.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фейслифтинга </name>
+<description>Сохраните молодость и красоту с помощью самомассажа Гуаша и экономьте на салонах и дорогостоящих кремах</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="77c42ea7-cbab-2816-d216-62cbe82bfbf6" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii-voskom</url>
+<price>8300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/06/bc182c287ddc39903075fd308aee42a0.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы депиляции</name>
+<description>Научись выполнять разные виды восковой депиляции уже после 1 практического занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000046" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/kursy-klassicheskogo-massazha-lica</url>
+<price>8900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/c17440275e8fdf35cd7b0e5b2355e2a1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косметического массажа лица</name>
+<description>Научитесь профессионально делать массаж лица</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8652ba97-de44-a516-f06a-62cbe8ff125f" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii-povishenie-kvalifikacii</url>
+<price>7000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/05/c7e24ae807b29d7790cc785735a5139b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации по депиляции</name>
+<description>Узнай все о работе в скоростных техниках депиляции за один практический урок</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3bb58b3c-f87a-7a99-857e-613fbe548ace" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/facial-massage-2</url>
+<price>6200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/71fc346425c60749e56433cd2debb938.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы миофасциального массажа лица</name>
+<description>Выучи технику миофасциального массажа лица на наших курсах</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d8ad2dfd-4304-65d1-d741-5d95e862e789" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/kobido-courses</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/11/9fbeab6d15fcb2983f1168562f4be6d3.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы массажа Кобидо </name>
+<description>Научись делать омолаживающий массаж в японской технике всего за 3 урока</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3198311d-6c75-ab5d-1cf0-640ef9b2b8f7" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/facial-massage-4</url>
+<price>8600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/04/b109297cfc7ed5e2b661d0692cfb4c32.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скульптурного массажа лица</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d36fe275-1846-c88c-02c9-613fbea1731e" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/facial-massage</url>
+<price>6200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/93171a73ce3c77a94ebb951c38c1c6f0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лимфодренажного массажа лица</name>
+<description>Узнай все о технике лимфодренажного массажа за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="bcf0d704-4100-2300-ce45-5cdada675159" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/kursy-muzhskoy-depilyacii</url>
+<price>6500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/11/2e4a4ad9761cd52618fc0ca8a2c6116b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мужской депиляции </name>
+<description>Освой приемы депилирования мужского тела всего за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="1b470968-4c3d-3d48-62c9-62cbe8acc7be" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/kursy-depilyacii</url>
+<price>5500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2018/07/c46dabc0e2d5ff5f6cb6601a75dd0450.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы шугаринга</name>
+<description>Узнай все секреты выполнения процедуры шугаринга за одно практическое занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="5d9a49c0-5e8c-a5f6-edfd-60ab866a7204" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/nutrition-courses</url>
+<price>10900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/9b566bf620d2fadef9df801df59ee15c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы нутрициологии</name>
+<description>Овладейте азами профессии нутрициолога и научитесь выполнять коррекцию питания ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="29d366d2-aefc-3b35-8cbb-5d9317690219" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/courses-buccal-massage</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/11/7b6082cabfd9da2ea2f377864acb7a98.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы буккального массажа</name>
+<description>Научись использовать омолаживающие массажные техники всего за 3 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="93e63258-d033-9cac-eaea-5d07a2dd8fd8" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/course-facebuilding</url>
+<price>7900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/10/7264e7d38256e03b9e64a228a258a156.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фейсбилдинга и гимнастики лица</name>
+<description>Научись омолаживать кожу лица без хирургического вмешательства</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f35154c3-d71b-e5ee-413d-5e820b387f18" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/teypirovanie</url>
+<price>7200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/10/a25372254fb5fec39eb2eb6d6afa7483.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тейпирования</name>
+<description>Научись работать над коррекцией лица и фигуры при помощи популярного метода тейпирования</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a151bc04-9470-d811-1170-62347e9c24c7" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/aesthetic-cosmetology-school/chinese-facial-massage</url>
+<price>6400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/04/08596064b4a88caafbd76e5ba06b785a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы китайского императорского массажа лица</name>
+<description>Научитесь восточным техникам массажа лица за 2 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3e0e0a30-e9c8-25e7-a933-613a061a2bda" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-clothes-6</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/064c5333320d800064ebae9b0b07d767.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кройки и шитья пальто</name>
+<description>Изучи правила пошива пальто с карманами всего за 4 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="54edf036-fdfd-47a3-a87f-5f8d53868107" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/knitting-sweaters-courses</url>
+<price>22700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/c44bc02a568f2ed7774d7bd3ec0161c3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вязания свитера</name>
+<description>Освой правила вязания свитера за 6 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cc0ddace-fcd9-6eab-c6ec-611bd0387262" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-clothes-1</url>
+<price>15600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/86ceaa852eb4ffe89737bbe6fdd2b2df.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы моделирования и пошива плечевого изделия</name>
+<description>Научись профессионально моделировать и шить плечевые изделия с учетом индивидуальных мерок и бери заказы на пошив</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8ea20bf8-d641-4f44-1de6-6229f45f3979" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-shirt</url>
+<price>42000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/7d824da0ef2df5c14884582404f16fb2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива мужской рубашки</name>
+<description>Научитесь конструировать, моделировать и шить мужскую рубашку за 10 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="322284e9-b3a1-7ccb-b955-61361ee4871d" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/crochet-courses-for-beginners</url>
+<price>25600</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/35582b8c6111fd32d314956c74b366f3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вязания крючком</name>
+<description>Узнай о способах создания качественных вязаных изделий для себя и заказчиков</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="c3a99851-3851-5921-74d4-611bd01f5297" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-clothes-4</url>
+<price>9700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/4fc204d7efadde4ef89947e2943668ff.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы конструирования, моделирования и пошива юбки</name>
+<description>Научись шить и конструировать юбки на профессиональном уровне</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4844393c-90d4-13c1-63c4-613f3531f43c" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-dress</url>
+<price>8400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/9c89440c070b072f4dfd4a5c07d93a8a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву платья-комбинации</name>
+<description>Обучись пошиву платья-комбинации из легкой ткани всего за 1 урок</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="fdea0d97-44d1-53bb-b6b8-61361dfd94c9" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/knitting-courses</url>
+<price>33400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/604d6727741adb1e22e818df44764905.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вязания спицами</name>
+<description>Изучи правила вязания различных изделий спицами, создавай изделия на заказ и для себя</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d1afd5a3-929a-dc79-33de-5f649f013790" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-sleepwear</url>
+<price>5800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/566a627863b4617eb9d26dba8aa47aee.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива пижамы</name>
+<description>Начни шить для себя красивые и стильные пижамы всего через 4 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6344e34a-668f-5bea-d206-6229f3e769ae" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-trousers</url>
+<price>29400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/05/f8cbbd106a9d37203f62bbd2a8673992.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива мужских брюк</name>
+<description>Научитесь конструировать, моделировать и шить мужские брюки за 7 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f054fd91-0cd8-e7eb-f8c2-613f3498f636" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-bed-linen</url>
+<price>4000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/12ad6b3541ffa42749306055586331ae.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву постельного белья</name>
+<description>Узнайте основы создания неповторимого и качественного постельного белья</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6597c814-f54f-c2dd-4d64-6229f4d7bc92" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/clothing-manufacturing</url>
+<price>7700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/03/b329d16a950c7bbf2df777f04f12e180.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по созданию своего бренда одежды</name>
+<description>Научитесь планировать закупки и внедрять коллекции и сотрудничать с поставщиками</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2326a9ec-5e28-344f-bc22-61361fc25fea" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/knitting-blanket-courses</url>
+<price>29000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/25de692a4c851cf15ff796894ce6012d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вязания пледа из гигантской пряжи</name>
+<description>Научитесь основам создания качественного и красивого домашнего текстиля</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2fe1d658-365d-b0cd-db7b-6234a55b789a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-toys</url>
+<price>8300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/b26f4fedb19f7188d07cc4b235d34aec.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы создания мягких игрушек</name>
+<description>На практическом курсе вы сошьете три мягких игрушки в разных стилях, научитесь работать со швейным оборудованием и создавать игрушки по собственному дизайну. Сможете брать ...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8df30e24-2151-1a16-3019-613f3406de19" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-hoodie</url>
+<price>8400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/52439e8aa309678b3d4a0f757208028b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву худи</name>
+<description>Обучитесь основам конструирования и пошива качественного худи всего за 1 занятие</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="edd7cb8a-112a-4bcd-751b-6229f9aa04ec" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-clothes-5</url>
+<price>42000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/09/8e8596590305354730c052bd0db172ce.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды</name>
+<description>Познакомься с процессом создания коллекции одежды за 10 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="d70a8bec-409a-64b3-39bc-5f649e79bcaa" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/courses-qualification-sewing-underwear</url>
+<price>5900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2020/10/667dc740ae017c5ed214198b2e377542.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации по пошиву белья</name>
+<description>Стань мастером по пошиву нижнего белья всего за 6 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="9c7deec7-dae4-c8e6-e562-6332f558bfc4" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-jacket</url>
+<price>16800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/add65c4235fabacb232c8b3582066817.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по пошиву жакета</name>
+<description>Практический курс, на котором вы с нуля освоите технологию моделирования, конструирования и пошива жакета. Освоите процесс раскроя и сборки изделия, научитесь работать с по...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="98e173c2-87cc-4961-f28e-5d834bfb2fd5" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/courses-sewing-underwear</url>
+<price>7000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/09/66d30b9f6461cec4fb154b47e53a251d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пошива белья</name>
+<description>Узнай все о создании мягких комплектов нижнего белья уже через 6 практических занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6efae634-7364-d024-020e-613f3511a7ae" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-backpack</url>
+<price>4500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/0740376673e9a54ee6b70af89c82b01c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Мастер-класс по пошиву рюкзака</name>
+<description>Научись шить рюкзак из мягкой ткани всего за 3 занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="95338c21-4cb2-bc16-a12b-611bd1f48288" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/sewing-school/sewing-clothes-3</url>
+<price>9900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/09/ca58d1feebfe1167628be416f112b927.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы конструирования, моделирования и пошива брюк</name>
+<description>Научитесь подбирать фасон изделия, а также профессионально моделировать и шить брюки</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7962ab91-773c-02d8-4e25-60a37b35e92a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/kinesio-taping</url>
+<price>8800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/dec76a7bf87016e09aad49e958487a33.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кинезиотейпирования</name>
+<description>Овладейте базовыми навыками кинезиотейпирования, с помощью которых сможете успешно работать со спортсменами</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="395833e9-62d3-3552-4678-640ef8212993" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/upkeep</url>
+<price>18200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/ec730bd7056153c72c65bed94a22c2f6.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эстетической косметологии</name>
+<description>Стань профессиональным косметологом с нуля на наших курсах</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="ee435dd1-430e-4af6-95df-6311ad285905" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/botulinum-therapy</url>
+<price>20000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/50bf45c694d8ae11964bee69ea6c8851.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ботулинотерапии</name>
+<description>Освой выполнение инъекций ботулотоксином и повысь свою квалификацию косметолога</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="f1506e10-c51a-0fbb-241f-640ef9d48180" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/kurs-hardware-cosmetology</url>
+<price>19800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/83fa0c6a5370cbef13f810a35ba5d961.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аппаратной косметологии</name>
+<description>Освой тонкости аппаратных методик всего за 8 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="939f283c-22b9-9999-247d-6170763e72f2" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/electroepilation</url>
+<price>16700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/08/720b8523a86fcdc6b4b45f9003784780.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы электроэпиляции</name>
+<description>Научитесь выполнять технику электроэпиляции и добавьте востребованную услугу для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="61dac205-8c53-2707-5eb8-5db046030b90" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/laser-removal-courses</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/3c5dac07b5b41f033d4ac645b7af65c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы лазерной эпиляции</name>
+<description>Освойте технику процесса лазерной эпиляции на практике</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="25bed94c-6648-06fe-566b-63625189c020" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/chemical-peeling</url>
+<price>8800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/4378d267a9726c57b26c42e38cc0408c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы химических пилингов</name>
+<description>Изучите все стадии выполнения популярной процедуры химического пилинга лица с использованием кислот</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="2cf4c51e-258b-2641-602a-640ef9cfcba2" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/mesotherapy</url>
+<price>19000</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/12/54de7f4d491a6bb0276e5215adbdabe2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы микронидлинга</name>
+<description>Научитесь работать с аппаратом Дермапен и расширьте спектр своих услуг</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3ff68b23-e887-4ec5-a2fd-63493ccf920a" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/courses-tattoo-styles</url>
+<price>26500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/11/1f8d3115c6e91d7f27ad218b92cd4293.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по стилям черно-белой татуировки </name>
+<description>Изучите популярные стили в тату-мастерстве, чтобы расширить спектр услуг</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cb8e1cfc-da99-6f10-450c-6347c95b50af" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/course-permanent-makeup</url>
+<price>17300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/10/44619d4b8a1ed04fd4286bcea315562b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа бровей</name>
+<description>Научитесь пигментировать брови устойчивыми красителями и станьте высокооплачиваемым специалистом</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="b9b7cf59-4b26-bd3a-1bd9-6311ad0ed293" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/injection-cosmetology-courses</url>
+<price>17300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/af4663ddc7e6d21c9548adb4db381698.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы мезотерапии и биоревитализации</name>
+<description>Вы получите практические навыки по выполнению омолаживающих и корректирующих процедур в виде микроинъекций для ваших клиентов</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="6a854959-c86e-e8db-daac-6347c91a66df" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/permanent-lip-makeup</url>
+<price>17300</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/787a668da6aa6677cdce9ed1bce886e1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа губ</name>
+<description>Изучите особенности выполнения процедуры перманентного макияжа губ, а также начните предлагать подобные услуги клиентам</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="21830603-d59a-a26b-696e-63bd2af02d95" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/cosmetology</url>
+<price>2100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2023/01/43becda5343cdbb3f4ea3d29a96c42a9.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дерматологии и анатомии лица</name>
+<description>Вы разберетесь в анатомии лица и шеи, изучите основы дерматологии. Получите необходимые знания для дальнейшей работы косметологом и сможете организовать рабочее место с соб...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="cdd20e56-8f80-3ac1-5462-6234451dbb16" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/smas-lifting</url>
+<price>12500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/07/17ce06aca221e606bf5d263b89e2ac2f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы SMAS-лифтинга</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="3409c96e-e27e-a3b2-7aba-63492a1c49d3" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/tattoo-removal</url>
+<price>8200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/11/93ec3d3dbc51954d0ba7bbf18a5590bf.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы удаления татуировок и перманентного макияжа</name>
+<description></description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="871f0f6e-6bdd-bd48-aedd-5d91e586ca1b" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/beauty_first_aid_courses</url>
+<price>2900</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2019/12/d39a1982674df22fcab56831200df8e0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы первой помощи в косметологии</name>
+<description>Познакомься с правилами оказания первой медицинской помощи при бьюти-процедурах</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="8a3e75a4-4200-bba4-69cc-63493cced371" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/courses-tattoo</url>
+<price>25200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/04/ff1d92d4babb4bd4e0c49f15fbea51c2.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы тату для начинающих</name>
+<description>Научись основам искусства татуировки за 8 занятий</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7c14cb49-0c56-1530-fe6c-62bef586a655" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/courses-nutritionist</url>
+<price>13400</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2022/07/875edb5a29b148fc900b1745c170e305.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диетологии </name>
+<description>Вы освоите правила здорового питания и сможете консультировать по вопросам лечебного и профилактического питания. Научитесь корректировать рацион с учетом индивидуальных ос...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000091" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/kursy-lpg-massazha</url>
+<price>8800</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/05/23be23ca33867b49703305aa3701d95b.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы аппаратного массажа LPG  </name>
+<description>Освой особенности  LPG-массажа всего за 2 практических урока</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="4eed397c-6621-5065-3772-63493cb81dcf" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/old-new-school-tattoo</url>
+<price>25200</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/11/7dceeef5ea8b541d256b10beff21c205.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по стилям цветной татуировки</name>
+<description>Освойте новые стили old school и new school в татуировке, чтобы расширить спектр своих услуг</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="e8a0e809-d84e-faa5-f949-6347c95ab141" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/permanent-eyelid-makeup</url>
+<price>16700</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/55e5a5ea231da2ca2c03bb3d1ece5913.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы перманентного макияжа век</name>
+<description>Посвятите себя престижной профессии, за несколько дней овладейте знаниям по перманентному макияжу век</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="7000058" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/kurs-cosmetology-the-body</url>
+<price>8100</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2017/09/dacfb85121209dc5c98a9b7c9827e763.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косметологии SPA</name>
+<description>Станьте профессионалом в СПА-процедурах всего за 2 практических занятия</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+<offer id="a60c8f68-d88e-533f-14d2-62ff68f63638" available="true">
+<url>https://nizniy-novgorod.ecolespb.ru/cosmetology-school/contour-plastic</url>
+<price>38500</price>
+<currencyId>RUR</currencyId>
+<categoryId>1</categoryId>
+<picture>https://ecolespb.ru/files/2021/07/a5c83a3d2c1fcfc08d9399550839c786.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы контурной пластики</name>
+<description>Научитесь выполнять популярную процедуру контурной пластики лица и губ при помощи инъекций, освоите эффективные техники инъекций и начните зарабатывать от 5000 рублей за пр...</description>
+<sales_notes>Есть предоплата</sales_notes></offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:01">
+<shop>
+<name>МШП</name>
+<company>Международная школа профессий</company>
+<url>https://arhangelsk.videoforme.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers>
+<offer id="30cbf224-587b-424b-6d1d-62ce8cb2bd71" available="true">
+<url>https://arhangelsk.videoforme.ru/market_school/crm-marketing-prof</url>
+<price>24900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/11/afca228d9347501fbd9df145683bb0d8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия CRM-маркетолог.</name>
+<description>Вы научитесь планировать CRM-стратегию, запускать e-mail рассылки и использовать Яндекс.Метрику, Google Analytics для веб-аналитики. &lt;b&gt;Сможете разработать эффективную стра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8f490701-406b-04e4-3ec0-6165a3565ffe" available="true">
+<url>https://arhangelsk.videoforme.ru/market_school/copywriting-course-starter</url>
+<price>15900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/10/0aa2ff0a1f035fe0febfebe5298cc9a9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы копирайтинга.</name>
+<description>Практический курс, на котором вы научитесь писать продающие, рекламные, информационные тексты и посты для социальных сетей. Сможете писать коммерчески успешные тексты и &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1985f0ae-d62c-ab8a-3caa-5f194f6adb1a" available="true">
+<url>https://arhangelsk.videoforme.ru/market_school/tilda-courses</url>
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/08/33ddcf5317b545ff82b27eff33d742f3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы создания и продвижения лендинга на Tilda.</name>
+<description>Вы научитесь разрабатывать маркетинговую стратегию, &lt;b&gt;создавать продающие сайты на Tilda&lt;/b&gt; и продвигать их в топ поисковой выдачи. Сможете зарабатывать от 15000 за разра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1d311eac-5ff0-923b-f6ab-5ee8f0ccf349" available="true">
+<url>https://arhangelsk.videoforme.ru/market_school/crm-marketing-courses</url>
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/09/b0c8986b09961fb0e61a560ec183e566.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы CRM-маркетинга для начинающих.</name>
+<description>&lt;b&gt;Освоите инструменты CRM-маркетинга&lt;/b&gt; для работы с базой клиентов: разработка пуш-уведомлений, email-рассылок, триггерных цепочек, воронок продаж. Сможете привлечь новы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="273" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/computer_graphics</url>
+<price>29000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/12/816a5d22aab289a408c4ca216ec47561.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Графический дизайнер.</name>
+<description>За время обучения соберете более &lt;b&gt;5 работ в портфолио:&lt;/b&gt; логотип, афиша, дизайн мерча и другую айдентику для брендов. &lt;b&gt;Берите заказы на фрилансе во время обучения&lt;/b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7000124" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/florist-designer</url>
+<price>16300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/12/0c74f064cc8d9cb36f92ec95b1389524.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Флорист-дизайнер.</name>
+<description>На курсе вы сделаете более &lt;b&gt;10 цветочных композиций,&lt;/b&gt; получите рекомендации наставника и диплом флориста-дизайнера. Сможете оформлять композиции на заказ и начать рабо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="148" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/3d-modeling-expanded</url>
+<price>21900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/12/b010cea113e861641382f6d35010e396.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-визуализатор интерьера.</name>
+<description>Во время обучения вы освоите 3D max для полноценной работы дизайнером интерьера: &lt;b&gt;соберете портфолио и сможете брать заказы уже в процессе учебы&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6547550e-e4a9-fea9-5366-61a09b6b76f5" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/motion_design</url>
+<price>37000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/12/937348a32f6ff5f49738d27182840591.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Моушн-дизайнер.</name>
+<description>Практический курс, на котором вы соберете первые работы для портфолио: визуальные эффекты, анимацию, 3D-графику. &lt;b&gt;Начнете развиваться в цифровом творчестве&lt;/b&gt; и зарабаты...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9db0bd9-6f71-813b-89cc-630c76860c62" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/digital-illustrator-prof</url>
+<price>29100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/11/2b9628220676bfcdb3c6f2300833697c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Коммерческий digital-иллюстратор.</name>
+<description>&lt;b&gt;Начните создавать яркие иллюстрации в Photoshop и Illustrator&lt;/b&gt; для брендов, изданий, рекламных кампаний. По итогу курса в портфолио - набор иконок, мокапы бренд-проду...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2dc8fe56-a114-8fa5-74f4-61a09b9f8404" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/2d-artist-prof</url>
+<price>23300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/12/81f25010201c14572639d9f88c212b0c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 2D-Художник.</name>
+<description>За 3 месяца соберете портфолио из ярких иллюстраций, стилизованных персонажей и &lt;b&gt;сможете начать карьеру 2D-иллюстратора&lt;/b&gt; на фрилансе или в геймдеве</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="254" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/landscaping</url>
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/06/85c73b1315226e7871a0a69567d0fbdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ландшафтного дизайна.</name>
+<description>Практический курс, на котором вы научитесь анализировать участок, подбирать растения и цветники, создавать план с зонированием и освещением. &lt;b&gt;Разработаете дизайн своего у...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="19283606-67d3-b0a4-d9c3-646f3ce24700" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/interior_design_1</url>
+<price>14900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/12/adf4ceb231f8bb5ec721d42d6d024d33.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна интерьера.</name>
+<description>Вы научитесь планировать удобное пространство, подбирать декор и мебель, создавать комфортный и современный дизайн интерьера. &lt;b&gt;С нуля создадите полноценный дизайн-проект ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="149" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/layout_magazines</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/4875937d05cccca7ab5b7edd33463497.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Indesign (Индизайн) .</name>
+<description>Узнай принцип создания самых известных глянцевых журналов! Научись работать с программами верстки журналов всего за 6 занятий!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="49" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/kursy-animacii</url>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/10/945917c9e1174ba76b6b44bd96378088.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы анимации.</name>
+<description>Во время обучения на курсе компьютерной анимации и  мультипликации в Adobe Animate освойте покадровую и полуавтоматическую анимацию. Создавайте собственных персонажей с хар...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="203" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/fashiondesign-1</url>
+<price>8800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/08/c84e6ba35625acae8dfe97a2d09b2380.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды.</name>
+<description>Познакомьтесь с историей моды, принципами композиции костюма и модными тенденциями! Научись создавать эскизы и подбирать ткани для их воплощения!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="204" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/fashiondesign-2</url>
+<price>8800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/08/f43162fad409605a33cc7b367a5590ad.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды.</name>
+<description>Здесь вы узнаете, как создать собственную коллекцию, составить мудборд и подобрать ткани! Познакомьтесь со всеми этапами проектирования и производства костюма!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8dc8daa7-c960-3053-1a80-5e5d087f6e12" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/autocad-design</url>
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/10/49a884cb1247599a4ce6c3b2ac9db1f0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы AutoCAD для дизайнеров интерьера.</name>
+<description>Во время обучения на курсе автокад для дизайна  интерьера Вы научитесь создавать планы расстановки мебели, отделки помещений и размещения электрооборудования. Вы научитесь ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5dd42307-6785-bd31-7785-601807f5b1f8" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/blender-courses</url>
+<price>12400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/d13d8d87da126b7c0f1f79e7c462ecc5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Блендера (Blender 3D).</name>
+<description>Во время обучения на курсе моделирования в блендер (blender 3d) для начинающих научитесь моделировать статичные сцены, персонажей и анимацию для кино, игр, мультфильмов. Со...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="338923d5-9a02-6b8b-0581-608911b0d85b" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/exterior-3d-modeling-courses</url>
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/38e7331b9893c14b617dbe1747b4e721.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3Ds Max для экстерьера.</name>
+<description>На курсе архитектурной визуализации экстерьера в 3D Max узнайте технологию создания сложных материалов, освещения и выбора выгодного ракурса. Научитесь создавать статичные ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="42915d58-83a0-342e-07db-61a09bb18b88" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/casual-graphics-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/12/6c3050bc43eef85220ed16f399eda22c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы казуальной графики: стилизация игры.</name>
+<description>Станьте успешным 2D-художником в казуальной стилистике и создавайте графику для игр</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="532353f1-37be-9754-0966-62909e404fdf" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/archicad-courses</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/06/2a68e57ea0024182a17397d6bec028a3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ArchiCad для дизайнеров интерьера.</name>
+<description>Научитесь эргономично планировать пространство, создавать дизайн интерьера в разных стилях с помощью программы ArchiCAD. Создадите проект для реальной квартиры в портфолио,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d401087b-babd-d792-3164-646f3da21e7b" available="true">
+<url>https://arhangelsk.videoforme.ru/designschool/photoshop-practicum</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2023/06/e1e969106760bae88eb86e029a09cc5d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум: интерьерные коллажи в Adobe Photoshop.</name>
+<description>Вы научитесь быстро собирать коллажи квартиры для наглядных визуализаций любых идей в интерьере. Сможете создавать реалистичные изображения и &lt;b&gt;презентовать яркие интерьер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d7e2cab3-6f5f-4128-ec6a-6297460195cb" available="true">
+<url>https://arhangelsk.videoforme.ru/computer-programming-school/frontend-developer-prof</url>
+<price>36000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/06/4b3a749c2a996dda311d596bd6b1e986.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Frontend-разработчик.</name>
+<description>Практический курс, на котором освоите HTML, CSS, JavaScript и научитесь разрабатывать пользовательские веб-приложения. Вы сможете &lt;b&gt;начать карьеру разработчика в IT-компан...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dcb4b9c1-3031-8659-4848-633ef9407216" available="true">
+<url>https://arhangelsk.videoforme.ru/computer-programming-school/excel-specialist-prof</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/10/95de4acae67a549882b9f0b6682c39a8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Специалист Excel.</name>
+<description>&lt;b&gt;Станьте мастером MS Excel:&lt;/b&gt; с нуля начните создавать сводные таблицы, делать понятные визуализации, создавать макросы и сценарии для ускорения рабочих процессов. Начн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="70f29f1c-3025-9f97-2dd0-62ce8c904158" available="true">
+<url>https://arhangelsk.videoforme.ru/computer-programming-school/web-analytics-courses</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/10/886df267f79692ffaf77f502a5c377bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы веб-аналитики (Яндекс Метрика и Google Analytics).</name>
+<description>&lt;b&gt;Вы научитесь настраивать систему аналитики,&lt;/b&gt; исследовать пользователей и управлять развитием бизнеса, принимая решения на основе данных. Сможете повысить эффективност...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4b10982c-01ac-36b8-9103-60d1a67053be" available="true">
+<url>https://arhangelsk.videoforme.ru/computer-programming-school/sql-for-beginners</url>
+<price>15800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/a1150208a865ed22d4decee9325a0382.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы SQL для аналитиков.</name>
+<description>&lt;b&gt;Научитесь управлять данными&lt;/b&gt; без разработчиков в СУБД. Используйте SQL-запросы, когортный анализ и Google BigQuery для аналитики данных: расчета продуктовых метрик, п...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e2603143-2b3e-8a85-6f4c-60d5e5c523c5" available="true">
+<url>https://arhangelsk.videoforme.ru/computer-programming-school/python-for-beginners</url>
+<price>30400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/001925ce9a07b34a1fc82d67c746b4ee.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Python для аналитиков.</name>
+<description>Начните обрабатывать большие объемы данных, автоматизировать интернет-аналитику и визуализировать данные для отчетов. Избавитесь от рутинных задач и &lt;b&gt;увеличите скорость о...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9938acd5-8ed3-4611-4e36-643fffbc35be" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/corporate-psychologist-prof</url>
+<price>39900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/04/8eb541a3c48e5ac1b2f74642571d6c38.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Корпоративный психолог.</name>
+<description>Начните практику корпоративного психолога и проводите коуч-сессии в крупных компаниях для обучения и развития персонала</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a49ec3ba-5b1e-c170-7346-62d808140452" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/practical-astrology-prof</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/07/68cbf0df61ab96ff4259b3e5e7d27d14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный курс астрологии.</name>
+<description>Практический курс, на котором вы научитесь лучше разбираться в людях с помощью гороскопов, интерпретировать натальные карты и составлять астрологический прогноз, &lt;b&gt;чтобы р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="479c4afb-5734-f959-b611-64400b3bdf2f" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/game-therapist-prof</url>
+<price>23400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/08/16fc84eca67545c5e82d8e0b19c9bb15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Игропрактик.</name>
+<description>&lt;b&gt;Освойте актуальную профессию в игротерапии:&lt;/b&gt; научитесь вести трансформационные игры, создайте авторскую игру под руководством опытного игротехника, используйте МАК в ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="241" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/psychology_of_relations</url>
+<price>6600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/04/259d8a6c0ceaa4d167e385452a87f6ba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии отношений мужчины и женщины .</name>
+<description>&lt;b&gt;Вы улучшите отношения со второй половинкой.&lt;/b&gt; Узнаете, как сохранить любовь в браке и преодолеть конфликты и кризисы. Восстановите гармонию в паре и снова посмотрите д...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="237" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/children_psychology</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2017/04/27e33840b2e9890ced9e5ffae8251207.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детской психологии для родителей .</name>
+<description>Научитесь без нервотрепки и конфликтов воспитывать детей в гармоничной семье - узнайте, как вести себя с плачущим ребенком, как прививать хорошие привычки и как подготовить...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9b53bcd-fd62-e858-6c6d-610175ac3669" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/neurolinguistic</url>
+<price>10500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/08/22dc80f692defe87079780c8eea3416f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практический курс НЛП.</name>
+<description>&lt;b&gt;Внедрите техники НЛП в вашу жизнь:&lt;/b&gt; управляйте эмоциями и изменениями в вашей жизни, визуализируйте позитивный опыт и достигайте всех поставленных целей с помощью ней...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5ae7ea41-17c7-7479-6240-5f92a44339f3" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/prognostic-courses</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/03/cc6e753985234b4c9d0021640eee6a68.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы прогностики в астрологии.</name>
+<description>Научитесь прогнозировать события в вашей жизни с помощью метода транзитов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="aaea114c-586c-a70b-7585-62f4efebb56d" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/game-psychology-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/08/04ca2e0a773a1426dcd4838c7a6debce.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы игротерапии и психологических игр.</name>
+<description>Вы научитесь проводить трансформационные игры, ориентированные на глубокое познание себя и работу со стереотипами и убеждениями. &lt;b&gt;Благодаря этой технике вы сможете эффект...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="541dd715-b7f8-7041-6910-619223e79aab" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/borderline-disorders-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/11/d1733ba5cba6003f53d79b2ff62cfae5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диагностики пограничных расстройств.</name>
+<description>&lt;b&gt;Расширьте свою зону компетенций:&lt;/b&gt; научитесь отличать норму от патологий, различать нейропсихологические синдромы и клиентов с зависимостями и психическими расстройствами</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="37b00989-d677-ed72-b3d2-61c1f62b3678" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/emotional-intelligence-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/12/c7ff88b870037def3c3bb9efc1a65cdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эмоционального интеллекта.</name>
+<description>Погрузитесь в практику и узнайте нового себя: уверенного, открытого и смелого! &lt;b&gt;Научитесь анализировать свои эмоции,&lt;/b&gt; противостоять негативу и манипуляциям, выражать с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="62eec33f-cb0e-388b-61f5-626a4d7df0ab" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/metaphorical-cards-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/05/b7ba118bd37a5aaa2849a6afb2223158.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы метафорических ассоциативных карт.</name>
+<description>Вы научитесь проводить диагностику с помощью МАК, работать с травмами и кризисами, использовать карты на тренингах и помогать своим клиентам находить ответы, &lt;b&gt;прорабатыва...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e7277c62-54a8-51ef-593c-62f6205938c3" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/art-therapy-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/08/ad8a5940a7b66039f583736eac3a3289.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы арт-терапии для психологов.</name>
+<description>&lt;b&gt;Научитесь проводить арт-терапию,&lt;/b&gt; соберите стартовый набор материалов для терапии, обустройте арт-терапевтическую зону и повысьте доход за счет услуг традиционной и и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f666cf7-8fff-a303-08ea-62f63e62e584" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/fairy-tale-therapy-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/08/39a744fab621479e5f9f8b693e4c07a1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сказкотерапии.</name>
+<description>&lt;b&gt;Научитесь работать с бессознательным&lt;/b&gt; клиента с помощью сказкотерапии. Используйте авторские сказки на сессиях с детьми и взрослыми, комбинируйте лучшие психологическ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7166d62c-2de1-8c91-bc52-6303581e467a" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/pediatric-neuropsychology-courses</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/08/efa886cef9e3959a2dab44585e89726b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детской нейропсихологии и психокоррекции.</name>
+<description>&lt;b&gt;Научитесь проводить детскую психокоррекцию и нейропсихологическую коррекцию:&lt;/b&gt; научитесь диагностировать детей, проводить нейрокоррекцию, узнайте техники коррекции в н...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3715ac49-5256-4a2e-e88b-643d16d1c876" available="true">
+<url>https://arhangelsk.videoforme.ru/psychology/psychology-courses</url>
+<price>12200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2023/05/cbac0b46abc5eb1eb7ae4752afb45b62.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии для себя: ментальное здоровье.</name>
+<description>&lt;b&gt;Практический курс для увлеченных психологией:&lt;/b&gt; на занятиях научитесь лучше понимать себя, свои эмоции и поведение, а также общаться и взаимодействовать с окружающими</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3a742820-18fa-aa44-6896-643e810c579d" available="true">
+<url>https://arhangelsk.videoforme.ru/actors_school/speech-art</url>
+<price>19200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/bb09af5e83c632130213dd85647e70bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ораторского мастерства.</name>
+<description>Практический курс, на котором вы овладеете искусством выступлений. Поставите голос, проработаете дикцию и научитесь уверенно выступать и убеждать публику всего &lt;b&gt;за 3 меся...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="efece6c6-5e2e-7692-ce54-643e808358bc" available="true">
+<url>https://arhangelsk.videoforme.ru/actors_school/speaking-courses</url>
+<price>8700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2023/05/6fddb8bfe26c494ebe6019379e82580d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы уверенного выступления.</name>
+<description>Вы выйдете на новый уровень публичных выступлений, научитесь продающим презентациям, потренируетесь выступлениям со стресс-факторами &lt;b&gt;и создадите свой личный образ спикер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="daaa0ecb-75a0-70ea-0ccf-61a09a2abc1a" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/sales-manager</url>
+<price>13900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/12/f3300f03783d9ae9ce70c7aa1cbf187b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер по продажам.</name>
+<description>Вы освоите техники продаж, &lt;b&gt;узнаете, как увеличить средний чек,&lt;/b&gt; и научитесь работать с возражениями. &lt;b&gt;Сможете успешно выполнять план,&lt;/b&gt; выстраивать воронку продаж...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="da4b1b4d-4e9c-5f15-1e05-6261175538be" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/product-manager-courses</url>
+<price>25300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/04/964f33c7f3c3bfbd4fadf9f39ad7c618.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы product-менеджера.</name>
+<description>Создавайте востребованные на рынке продукты даже в условиях кризиса и начните перспективную карьеру product-менеджера</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="65" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/vm-1</url>
+<price>13000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/7388aa53bdf5dad876ee710650844acd.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визуального мерчандайзинга.</name>
+<description>На обучении визуальных мерчендайзеров Вы научитесь привлекать покупателей именно к вашему товару. Грамотно разделяйте торговый зал на зоны активности. Вы научитесь использо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8be6e376-0a46-12dd-8cfb-6239ca603779" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/commodity-specialist-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/04/388a8fb88a30219f6a4302f74a0c365c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы товароведа.</name>
+<description>Эффективно взаимодействуйте с поставщиками, организовывайте успешную реализацию товара и станьте востребованным специалистом</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6b245de7-d82e-76d8-0bf1-626baed9855a" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/crypto-trading-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/05/acc402469be1a304ee659754523f3923.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы торговли криптовалютой.</name>
+<description>Обеспечьте финансовую независимость и безопасность ваших сбережений с помощью торговли криптовалютой и инвестирования в монеты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e6ae53fa-c1a3-608a-e400-62838a795cb3" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/methodist-courses</url>
+<price>21900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/06/9007c027074d79ea6daa7b7579f360a5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы методистов образовательных программ.</name>
+<description>Проектируйте онлайн-курсы с высокими показателями доходимости и вовлеченности и станьте востребованным специалистом в сфере обучения</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="81f26626-597d-3ba5-8824-5ee21979a95b" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/freelancing-for-beginners</url>
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/01/96ea70290749d3c7c1c8d31421afa5ee.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фриланса для начинающих.</name>
+<description>Научитесь продвигать личный бренд, работать с заказчиками и зарабатывать на фрилансе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2a0add87-017a-722f-bb8a-5f049a436521" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/negotiation-training</url>
+<price>1600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/02/323e6108acc044be6abfb34db69103de.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тренинг &amp;quot;Ведение переговоров&amp;quot;.</name>
+<description>Овладейте действенными методиками ведения переговоров и достижения поставленных целей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1752a5a3-79ac-e5b3-1765-60a376fda14e" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/start-a-career</url>
+<price>4200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/08/178a8eb50525d89f9fa2d54fdc483fdc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы &amp;quot;Начало карьеры&amp;quot;.</name>
+<description>Создайте продающее портфолио, цепляющее резюме и начните карьеру в компании или на фрилансе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="19307305-ca5c-3d7c-e947-61baf255f068" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/hr-branding-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/12/8fbee4c0fb140d07f53a10c3d4dde9fc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы HR-брендинга.</name>
+<description>После обучения hr брендингу Вы научитесь создавать привлекательный образ работодателя  и привлекать лучших кандидатов в компанию. На обучении HR бренду Вы научитесь создава...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="47ab643c-77dd-7439-3e42-61fb9373d15b" available="true">
+<url>https://arhangelsk.videoforme.ru/business_school/project-manager-courses</url>
+<price>25300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/03/a871d2ef292676a3c9d4cc1fb912e5db.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы project-менеджера.</name>
+<description>Вы освоите востребованную профессию, изучите инструменты и методологии работы и сможете начать зарабатывать как менеджер проектов за 2 месяца</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="41285970-26b6-da96-fc33-6316fa061abd" available="true">
+<url>https://arhangelsk.videoforme.ru/photoschool/video-foto-prof</url>
+<price>39600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/03/ff3ed3a3263790ade50d10a4365307c8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-видеограф.</name>
+<description>Ретушируйте фото в Photoshop и Lightroom, научитесь съемке и обработке видео в Premiere Pro и After Effects. &lt;b&gt;Начните профессионально создавать фото- и видеоконтент для м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2" available="true">
+<url>https://arhangelsk.videoforme.ru/photoschool/photographer-advanced3</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/09/b5a3391bde7d4900ea8b0e164827bf86.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессиональной фотографии.</name>
+<description>Вы научитесь проводить студийные и стилизованные съемки, работать с любым освещением и моделями. Соберете &gt;10 работ для портфолио и сможете организовывать &lt;b&gt;профессиональн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="eba68e23-7200-1d2f-5702-604a325b75e6" available="true">
+<url>https://arhangelsk.videoforme.ru/photoschool/shkola-modelej-1</url>
+<price>13800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/05/478db1a6c2be11f96b53f720d5b1ab49.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы позирования.</name>
+<description>Практический курс, на котором вы научитесь ‌позировать‌ ‌для‌ ‌фото ‌и‌ ‌уверенно‌ ‌дефилировать‌. Сможете участвовать в модных проектах, съемках, &lt;b&gt;обретете уверенность и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="15ee17f4-ee18-b85e-6511-62ac6e629385" available="true">
+<url>https://arhangelsk.videoforme.ru/photoschool/commercial-photography-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/07/4f40ccdbc25304a2ae24b47c02d09a9d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы предметной фотографии.</name>
+<description>Прокачайте навыки предметной фотографии: ознакомьтесь с оборудованием, научитесь организовывать фотосессию со спецэффектами, снимайте сложные предметы и &lt;b&gt;соберите професс...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a06b101d-43ef-0220-5d9b-631ef9cb83f0" available="true">
+<url>https://arhangelsk.videoforme.ru/photoschool/detskoe_i_semeynoe_foto</url>
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/09/925288e04a3a7383ee801ec2ef17e41d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы семейной и детской фотографии.</name>
+<description>Вы научитесь настраивать контакт с людьми разных возрастов и проводить детские, семейные и парные фотосессии. Сможете брать заказы на съемки в студии, городе и на природе &lt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2aa9854-5ab7-4279-c769-601ac52be309" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/video-editing</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/7f75bfb807bba2107601eb26b2bed04b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по мобильной видеосъемке.</name>
+<description>Вы научись снимать и монтировать эффектные видеоролики на телефон Android и IPhone. Научитесь работать со звуком, создавать динамичный монтаж видео, которые будут собирать ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9087eb4c-f29b-7bd6-1cc9-605350af603b" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/videograf</url>
+<price>18900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/03/21f0b67086954ecc02b3eb589f1934bc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы видеосъёмки и монтажа.</name>
+<description>Вы научитесь снимать атмосферные рекламные ролики и монтировать их в &lt;b&gt;программе Adobe Premiere Pro.&lt;/b&gt; Сможете создавать цепляющие видео для своего блога или делать на з...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="752cd668-2f8e-0ab3-6137-62b48ae3cce0" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/videoblogging-course</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/06/bf2f25c7adb5f4f1503deb93dc00680c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы видеоблогеров (youtube).</name>
+<description>&lt;b&gt;Начните путь видеоблогера:&lt;/b&gt; освойте инструменты Youtube, создайте концепцию своего блога, начните снимать качественные видео и продвигать блог. Зарабатывайте на монет...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8de30aab-112e-2261-56cf-610d5167bbdb" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/writer-course</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/03/889f3301cbfa8a15cd863af80a5b2133.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы писательского мастерства.</name>
+<description>Вы узнаете, как преодолеть страх чистого листа, &lt;b&gt;научитесь писать в любом жанре&lt;/b&gt; и захватывать внимание читателя с первых страниц. Начните превращать реальные и вымышл...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="44" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/screenwriter</url>
+<price>12000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/5618744da56c52c9f71c75e62538b611.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сценаристов.</name>
+<description>Практический курс, на котором вы научитесь придумывать сюжеты и оригинальных персонажей, &lt;b&gt;узнаете секреты создания захватывающих историй&lt;/b&gt; и напишите 5 разных сценариев...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="31" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/kursy-zvukooperatorov</url>
+<price>12000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/19cd40388ff8a1229a729a3eb2e88c66.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы звукорежиссёров.</name>
+<description>Научитесь грамотно работать со звуком! Создавайте звуковые эффекты при помощи специальных инструментов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="123" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/kursy-zvukooperatorov_2</url>
+<price>12000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/5c0b8e46cb8bb8d52e31dae7c0e9f9e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы звукорежиссёров.</name>
+<description>Создавайте собственные готовые звукозаписи! Монтируйте, синтезируйте и сводите звук самостоятельно!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="124" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/sound-producer</url>
+<price>19900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/12/b1db462f0190a66464f3e6c3c280ec15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Звукорежиссер.</name>
+<description>&lt;b&gt;Полное погружение в профессию за 1,5 месяца!&lt;/b&gt; Вы получите опыт работы в реальной студии звукозаписи, реализуете свой первый музыкальный проект от идеи и обработки зву...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2afd9e2-6dcd-ea35-9b1a-629f237a8358" available="true">
+<url>https://arhangelsk.videoforme.ru/tvschool/dubbing-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2022/07/1e88f0dde1fec221542b70c6a3f28134.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы актерского дубляжа и озвучивания.</name>
+<description>&lt;b&gt;Начните зарабатывать дубляжом:&lt;/b&gt; записывайте озвучку фильмов, сериалов, книг. Научитесь работать с микрофоном, читать с листа, управлять диапазоном своего голоса и син...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="46" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/visage-style</url>
+<price>15900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/10/4e4a0e33ad4854fb0fd305ff8a6bbcba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия визажист .</name>
+<description>Изучите все секреты макияжа от А до Я всего за 15 занятий! Научитесь зарабатывать деньги благодаря любимому делу!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/visage</url>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/02/f52e7c2f0447a423cc8101217e6690c1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визажистов для начинающих .</name>
+<description>Курс для начинающих, где вы изучите основы создания макияжа. Совместно с преподавателем подберёте базовый набор кистей и косметики и научитесь создавать традиционные виды м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/visage-advanced</url>
+<price>12900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2020/10/c39710190a3daaf342e34fc3757bace5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального макияжа .</name>
+<description>На второй ступени у вас будет возможность отточить навыки работы в карандашной технике, а так же научиться создавать классические виды макияжа: smoky eyes, свадебный и сало...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e63402b8-e280-8293-86b4-5daef60e9ab0" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/perfect_eyebrows</url>
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/10/b0c7740d419ad8314b01d71223f7fe22.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Коррекция и окрашивание бровей .</name>
+<description>Пройдя обучение на курсах коррекции и окрашивания  бровей, вы научитесь подбирать цвет и моделировать форму бровей, исходя из индивидуальных особенностей клиента.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b2e27876-c0ae-d9dc-dc9c-60d981bbfd0c" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/hair-first</url>
+<price>13900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/07/61d90311e01abe7f8f8219e3cdd8bbfd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы причесок и укладок.</name>
+<description>Научись делать стильные прически и укладки любой сложности и собери работы для портфолио</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="130" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/hair-advanced2</url>
+<price>7900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/08/7233254e194bbd376ccc7cba24c4f14f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косоплетения .</name>
+<description>Последняя ступень курса позволит Вам освоить свадебные прически. Вы научитесь украшать их лентами, стразами, бусами, а также живыми цветами. Последнее занятие будет посвяще...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ee0bcc2c-227d-ea5e-bb9c-60d9e149778e" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/hair-style</url>
+<price>16900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2021/02/1d2e75959ec61af07bae40061f797b14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия стилист по прическе .</name>
+<description>Научитесь создавать прически и укладки любой сложности</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="18" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/image-maker/imagemaker</url>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/02/97d7581bcdcc71dd3d0c801049378e7e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистов для начинающих .</name>
+<description>Базовый курс по стилю, который откроет для вас мир моды по-новому! На этой ступени у вас будет возможность изучить главные составляющие модного образа и разработать свой ин...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="23" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/image-maker/imagemaker-advanced</url>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/02/946f28bd1dd241ec10d3397f5ca7b034.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эффективного шоппинга.</name>
+<description>Вторая ступень позволит Вам на практике применить все полученные знания: совместно с преподавателем Вы отправитесь на шопинг, где под руководством профессионала сможете под...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="25" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/image-maker/imagemaker3</url>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/02/0c8f7ca073b32a5bf5fbfc60dac8853f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистики на практике.</name>
+<description>Продвинутый курс по стилю, где вы научитесь подбирать одежду не только себе, но и другим. Финалом курса станет итоговая фотосъёмка разработанных вами образов.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="90" available="true">
+<url>https://arhangelsk.videoforme.ru/styleschool/image-maker</url>
+<price>15900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/02/7692caf3ea904d30751ac987fb3dac8e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Стилист-имиджмейкер .</name>
+<description>Курс даст вам не только теоретические знания о мире моды, но и практические навыки в подборе одежды себе и другим.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="73" available="true">
+<url>https://arhangelsk.videoforme.ru/for_children/masterskaja-tv</url>
+<price>5800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/02/11929e70958291872286d9a0d9033b58.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Школа телевидения для детей.</name>
+<description>Станьте настоящим крутым телевизионщиком! Узнайте, как делаются популярные шоу и телепрограммы!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="80" available="true">
+<url>https://arhangelsk.videoforme.ru/for_children/telestudia-startup-2</url>
+<price>5800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2018/02/087bc1e1d066a51fb10f0a2d053250c0.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Школа телевидения: создание редакции.</name>
+<description>Попробуйте себя во всех телевизионных профессиях, найдите свою! Станьте автором и участником телевизионного шоу!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="50" available="true">
+<url>https://arhangelsk.videoforme.ru/for_children/child-actor</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2017/03/9a1b7affe133745b3d65d70807837e9f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы актёрского мастерства.</name>
+<description>Видите себя на сцене и мечтаете поступить в театральный? Пройдите обучение и обретите уверенность в себе!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="118" available="true">
+<url>https://arhangelsk.videoforme.ru/for_children/child-tv</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/1f4b58d913f50d1064576a72bd41ca78.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тележурналистика. Создание передачи.</name>
+<description>Узнайте секреты профессионалов телеиндустрии уже через 12 занятий! Воспользуйтесь уникальным шансом поучаствовать в подготовке и съемках авторской телепередачи!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="74" available="true">
+<url>https://arhangelsk.videoforme.ru/for_children/child-animation</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/f043748cd9715b2d57af08280b75ab3f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы анимации для детей.</name>
+<description>Узнай, как собственноручно создать мультфильм, уже через 6 занятий! Выдумай и активизируй собственного мультгероя!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="57" available="true">
+<url>https://arhangelsk.videoforme.ru/for_children/child-photo</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://arhangelsk.videoforme.ru/files/2016/07/c6ad361142a28f3747ef0f3dcf8271ac.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фотографии .</name>
+<description>Имеешь талант фотографа, но не знаешь, с чего начать? Приходи на курс «Фотография для детей» и научись делать профессиональные снимки, как настоящий мастер!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

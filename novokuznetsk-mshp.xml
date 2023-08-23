@@ -1,0 +1,2784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:01">
+<shop>
+<name>МШП</name>
+<company>Международная школа профессий</company>
+<url>https://novokuznetsk.videoforme.ru</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers>
+<offer id="670d04f7-6baa-1470-17b7-634ea6eba73f" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/seo-prof</url>
+<price>17500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/7d67ca6e2ee3de02ac4cd723caa0cafc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия SEO-специалист.</name>
+<description>Стань SEO-специалистом: научись писать продающие тексты, работать с мета-тегами и ключевыми словами. &lt;b&gt;Продвигай сайты в топ поисковой выдачи&lt;/b&gt; с помощью семантического ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="127addb7-5467-2b6b-ce85-62ed033f16dd" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/pr-manager-prof</url>
+<price>23800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/0fd3192fb03276a10042196244d50948.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия PR-менеджер.</name>
+<description>Вы научитесь разрабатывать стратегию продвижения бренда, управлять его репутацией и выстраивать положительный имидж. Разберете реальные кейсы из PR-практики и сможете работ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2b5109cf-f49d-44d9-ddda-628b48d5dc28" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/smm-manager-prof</url>
+<price>30500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/5da02546f7e8fdcdf2ed5a71c348b639.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия SMM-менеджер.</name>
+<description>Научитесь продвигать бизнес в социальных сетях: создавать продающие тексты, запоминающийся визуал и запускать таргет. &lt;b&gt;Обновленный под реалии 2023 года&lt;/b&gt; практический к...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="30cbf224-587b-424b-6d1d-62ce8cb2bd71" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/crm-marketing-prof</url>
+<price>18100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/afca228d9347501fbd9df145683bb0d8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия CRM-маркетолог.</name>
+<description>Вы научитесь планировать CRM-стратегию, запускать e-mail рассылки и использовать Яндекс.Метрику, Google Analytics для веб-аналитики. &lt;b&gt;Сможете разработать эффективную стра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1af80020-e929-dde3-98bd-62ce8d988d01" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/targeting-prof</url>
+<price>22000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/dafe8a059511498b886df5b883e092f1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Таргетолог.</name>
+<description>Научитесь запускать таргетированную рекламу в соцсетях, создавать креативы и повышать эффективность рекламных кампаний. &lt;b&gt;Обновленный в 2023 году практический курс с реаль...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8f490701-406b-04e4-3ec0-6165a3565ffe" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/copywriting-course-starter</url>
+<price>9800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/0aa2ff0a1f035fe0febfebe5298cc9a9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы копирайтинга.</name>
+<description>Практический курс, на котором вы научитесь писать продающие, рекламные, информационные тексты и посты для социальных сетей. Сможете писать коммерчески успешные тексты и &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d6be01f8-0b7d-e499-3f9a-5df212073dd7" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/content-creation</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/4bb491a6c3609bfd17d2c88acaaab657.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по созданию контента.</name>
+<description>Вы научитесь создавать креативный визуальный контент и контент-план для продвижения в социальных сетях. Соберете работы для портфолио: &lt;b&gt;контент-план и 4 вида контента в р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a1591a38-4907-5ce9-827a-636a6e827b34" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/copywriter-course-full</url>
+<price>14200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/243545509daa196f612a6600ac0c8f4f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Контент-менеджер.</name>
+<description>Научитесь писать информационные и продающие тексты для лендингов, блогов и соцсетей и привлекать внимание аудитории. &lt;b&gt;Запускайте контент-проекты для бизнеса и зарабатывай...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1985f0ae-d62c-ab8a-3caa-5f194f6adb1a" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/tilda-courses</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/08/33ddcf5317b545ff82b27eff33d742f3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы создания и продвижения лендинга на Tilda.</name>
+<description>Вы научитесь разрабатывать маркетинговую стратегию, &lt;b&gt;создавать продающие сайты на Tilda&lt;/b&gt; и продвигать их в топ поисковой выдачи. Сможете зарабатывать от 15000 за разра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="306" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/marketing-1</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/5f494684267d93cfa787800415b01b74.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы контекстной рекламы (Яндекс Директ и Google Adwords).</name>
+<description>Практический курс, на котором вы &lt;b&gt;научитесь настраивать контекстную рекламу,&lt;/b&gt; проводить аналитику и оптимизировать рекламные кампании. Сможете привлекать новых клиенто...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5af267dd-6a1c-8064-9b44-628b478cb135" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/smm-marketing</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/8249ea4c963e5e43925afed850e09c6b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продвижения в социальных сетях.</name>
+<description>Научитесь продвигать бренд и создавать вовлекающий контент в социальных сетях и пополните портфолио реальным кейсом</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e47f0bf1-b7ef-51b1-771a-628b486debce" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/targeting-courses</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/f902a7aaf7ec6a7f0d9ca484f4bfa495.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы таргетированной рекламы.</name>
+<description>За 8 занятий вы научитесь настраивать таргетированную рекламу для продвижения бизнеса. &lt;b&gt;Будете работать в приложении Mytarget,&lt;/b&gt; подбирать креативы и настраивать таргет...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="24" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/producer</url>
+<price>6300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/04/88a43b939c0ca5bab993dea98c077fb1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продюсирования проектов.</name>
+<description>&lt;b&gt;Вы научитесь организовывать коммерческие видео- и фотосъемки:&lt;/b&gt; от идеи до постпродакшна. Сможете работать над сценарием, координировать съемки, рассчитывать бюджет и ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1d311eac-5ff0-923b-f6ab-5ee8f0ccf349" available="true">
+<url>https://novokuznetsk.videoforme.ru/market_school/crm-marketing-courses</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/b0c8986b09961fb0e61a560ec183e566.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы CRM-маркетинга для начинающих.</name>
+<description>&lt;b&gt;Освоите инструменты CRM-маркетинга&lt;/b&gt; для работы с базой клиентов: разработка пуш-уведомлений, email-рассылок, триггерных цепочек, воронок продаж. Сможете привлечь новы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="18b652fb-149d-87ad-846a-639ae482e6ed" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/web-designer-prof</url>
+<price>44700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/308a23147d3713da41779a3b4cfdcadc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Веб-дизайнер с нуля до профи.</name>
+<description>Практический курс, на котором научитесь проектировать адаптивный дизайн сайта и элементы интерфейса. Сделаете &lt;b&gt;несколько работ в портфолио&lt;/b&gt; и сможете начать зарабатыва...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="273" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/computer_graphics</url>
+<price>21800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/816a5d22aab289a408c4ca216ec47561.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Графический дизайнер.</name>
+<description>За время обучения соберете более &lt;b&gt;5 работ в портфолио:&lt;/b&gt; логотип, афиша, дизайн мерча и другую айдентику для брендов. &lt;b&gt;Берите заказы на фрилансе во время обучения&lt;/b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e47fff26-cc11-62a2-1976-630c76349e69" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/artist-illustrator-prof</url>
+<price>23300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/87f22fc714173bc8449cc845385aeb91.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Художник-иллюстратор.</name>
+<description>&lt;b&gt;Освойте рисование иллюстраций в Photoshop&lt;/b&gt; на планшете и начните иллюстрировать книги от известных издательств. Итог курса - готовая обложка и разворот для небольшого...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6de60cf0-1ca2-42ff-5757-6308db6bb49d" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/animation-artist-prof</url>
+<price>34800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/ccaed92e10bd172260c295cca485ddc3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Мультипликатор.</name>
+<description>Практический курс, на котором вы &lt;b&gt;научитесь создавать мультфильмы с нуля.&lt;/b&gt; Сможете продумывать сюжет, отрисовывать персонажей и оживлять их в Adobe Animate. Соберёте п...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7000124" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/florist-designer</url>
+<price>15000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/0c74f064cc8d9cb36f92ec95b1389524.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Флорист-дизайнер.</name>
+<description>На курсе вы сделаете более &lt;b&gt;10 цветочных композиций,&lt;/b&gt; получите рекомендации наставника и диплом флориста-дизайнера. Сможете оформлять композиции на заказ и начать рабо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="148" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/3d-modeling-expanded</url>
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/b010cea113e861641382f6d35010e396.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-визуализатор интерьера.</name>
+<description>Во время обучения вы освоите 3D max для полноценной работы дизайнером интерьера: &lt;b&gt;соберете портфолио и сможете брать заказы уже в процессе учебы&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6547550e-e4a9-fea9-5366-61a09b6b76f5" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/motion_design</url>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/937348a32f6ff5f49738d27182840591.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Моушн-дизайнер.</name>
+<description>Практический курс, на котором вы соберете первые работы для портфолио: визуальные эффекты, анимацию, 3D-графику. &lt;b&gt;Начнете развиваться в цифровом творчестве&lt;/b&gt; и зарабаты...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d4dc9c18-46e1-b6db-f365-61711d3e3740" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/tilda-webdesign-prof</url>
+<price>28400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/f57e48c29bb5cb59c650bf779628f3c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Дизайнер сайтов на Tilda.</name>
+<description>Во время обучения соберете 3 проекта в портфолио: создадите интерактивный прототип, пропишете понятные тексты для пользователей &lt;b&gt;и разработаете собственный сайт на Tilda&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9db0bd9-6f71-813b-89cc-630c76860c62" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/digital-illustrator-prof</url>
+<price>24400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/2b9628220676bfcdb3c6f2300833697c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Коммерческий digital-иллюстратор.</name>
+<description>&lt;b&gt;Начните создавать яркие иллюстрации в Photoshop и Illustrator&lt;/b&gt; для брендов, изданий, рекламных кампаний. По итогу курса в портфолио - набор иконок, мокапы бренд-проду...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9b572c26-e391-0bdc-4358-6197a65af317" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/brand-designer-prof</url>
+<price>26000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/63e29ea250c1ae19066a6a7f259a5d58.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Бренд-дизайнер.</name>
+<description>Разработаете дизайн-стратегию с эффектной айдентикой для бренда: научитесь дизайнить &lt;b&gt;с помощью Adobe Illustrator и Adobe Photoshop,&lt;/b&gt; изучите брендинг и соберете сильн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="321303ff-201e-3155-5d5e-61adde77b3a1" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/3d-artist-prof</url>
+<price>41600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/40ded2cd89fc1750d1bdca85558c34ce.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-художник в геймдеве.</name>
+<description>За время обучения освоите разработку персонажаей и окружения в Adobe Photoshop и Adobe Animate, а также освоите &lt;b&gt;Blender 3D, 3D max и соберете портфолио для гейм-студии&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2dc8fe56-a114-8fa5-74f4-61a09b9f8404" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/2d-artist-prof</url>
+<price>23300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/81f25010201c14572639d9f88c212b0c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 2D-Художник.</name>
+<description>За 3 месяца соберете портфолио из ярких иллюстраций, стилизованных персонажей и &lt;b&gt;сможете начать карьеру 2D-иллюстратора&lt;/b&gt; на фрилансе или в геймдеве</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6c55202f-5f56-f66c-8b07-62ecd07ac850" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/3d-generalist-prof</url>
+<price>26000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/5fa0764ce37f6284de8cf94cd6f2aea3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-generalist в Blender.</name>
+<description>Создавайте 3D-визуализации в играх, кино и сериалах от скульптинга до UV-развертки, рендера, запекания и анимации - станьте &lt;b&gt;универсальным специалистом в области 3D-модел...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ad1ee758-d1f8-0c1e-2087-646f3c6a77b2" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/interior_design</url>
+<price>22500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/6ddce8766703e6f2341fdf4e854b398b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Дизайнер интерьера.</name>
+<description>Вы создадите дизайн-проект: чертежи, план квартиры, яркие коллажи и 3D-визуализацию. Получите профессию с доходом от 70000 рублей и &lt;b&gt;добавьте больше творчества в рутинные...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="252" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/adobe_photoshop</url>
+<price>8600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/767a245ff8edb9aea68bb87f4399a6bb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фотошопа для начинающих.</name>
+<description>На курсе вы пройдете путь от настройки интерфейса до упаковки дизайн-проекта. Вы научитесь редактировать фото и пополните портфолио шаблонами &lt;b&gt;мокапов, визитками и афишам...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="251" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/illustrator_courses</url>
+<price>6500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/772694de98563d3b8de2d1f34b3ab9b5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Adobe Illustrator (Иллюстратор), векторная графика.</name>
+<description>Вы пройдете путь от настройки интерфейса до создания иконок, логотипов, иллюстраций. Сделаете портфолио, сможете выполнять заказы для брендов, журналов, сайтов и &lt;b&gt;получат...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="271" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/graphic_design</url>
+<price>8600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/e93de74d3864268b1d4cf651d62653d5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы графического дизайна.</name>
+<description>Во время обучения на курсе компьютерной графики и графического дизайна с нуля научитесь создавать иконки, значки, логотипы. Вы сможете создавать элементы фирменного стиля и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="269" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/courses_florists</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/83fd9e37dd3bd76c007274111326f661.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы флористики, 1-я ступень.</name>
+<description>Под присмотром наставника вы научитесь работать с цветовым кругом и подбирать &lt;b&gt;современные сочетания для букета.&lt;/b&gt; Сможете собирать монобукеты, букеты невесты и цветочн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7000123" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/courses_florists-2</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/f3a1a71883c51ada1a5a4a98a9588da4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы флористики, 2-я ступень.</name>
+<description>Во время обучения на курсе свадебной флористики научитесь составлять свадебные букеты невесты, работать с сезонными и событийными композициями.  Проработайте тренды свадебн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="254" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/landscaping</url>
+<price>7800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/06/85c73b1315226e7871a0a69567d0fbdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ландшафтного дизайна.</name>
+<description>Практический курс, на котором вы научитесь анализировать участок, подбирать растения и цветники, создавать план с зонированием и освещением. &lt;b&gt;Разработаете дизайн своего у...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="19283606-67d3-b0a4-d9c3-646f3ce24700" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/interior_design_1</url>
+<price>10500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/adf4ceb231f8bb5ec721d42d6d024d33.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна интерьера.</name>
+<description>Вы научитесь планировать удобное пространство, подбирать декор и мебель, создавать комфортный и современный дизайн интерьера. &lt;b&gt;С нуля создадите полноценный дизайн-проект ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="253" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/coreldraw</url>
+<price>4300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/62f34254c5a1d72192deabca1cfd19b2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы CorelDraw.</name>
+<description>Во время обучения на курсе CorelDraw (корел дро) научитесь создавать и преобразовывать простые объекты, работать со шрифтами и красочно оформлять текст. Создавайте логотипы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="49" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/kursy-animacii</url>
+<price>7800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/945917c9e1174ba76b6b44bd96378088.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы анимации.</name>
+<description>Во время обучения на курсе компьютерной анимации и  мультипликации в Adobe Animate освойте покадровую и полуавтоматическую анимацию. Создавайте собственных персонажей с хар...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="145" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/3d-modeling</url>
+<price>6000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/d71ff34ba9776c811023d62638164d03.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3D-моделирования.</name>
+<description>Вы с нуля научитесь создавать сложные трехмерные объекты и сцены из простых фигур и линий в программе 3D’s max. Пополните портфолио новыми работами &lt;b&gt;и сможете поднять цен...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="146" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/3d-modeling-advanced</url>
+<price>6000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/cfc4d1992e7fa700bb26d64ef92bd348.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3D-визуализации.</name>
+<description>Вы научитесь создавать трехмерные сцены и работать с материалами V-ray, настраивать освещение и камеру в 3Ds Max. &lt;b&gt;Пополните портфолио новыми работами&lt;/b&gt; и сможете подня...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="147" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/3d-modeling-advanced3</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/6d01a6008ef8ad8df131a54a2ca1ed78.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3DS MAX для дизайнеров интерьера.</name>
+<description>Во время обучения на курсе 3D Max для дизайна интерьера научитесь создавать интерьерные визуализации с проработанными объектами для дизайн-проектов с нуля.  Создавайте каче...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3a06be19-f10d-46cc-ec73-6214d96e9d42" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/after_effects_1</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/93d863f90879ad3a1ba20db1db051bab.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы After Effects.</name>
+<description>Создавайте анимацию и видеоэффекты любой сложности в After Effects и зарабатывайте на проектах в motion-дизайне</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="32fe4631-6ccf-16d2-5677-5e5f947aad7d" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/ux-design</url>
+<price>8600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/6ca4fe6bfd6b9031c4daea9c931ef79a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы UX-дизайна.</name>
+<description>Научитесь проектировать удобные и привлекательные для пользователей продукты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8dc8daa7-c960-3053-1a80-5e5d087f6e12" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/autocad-design</url>
+<price>9800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/49a884cb1247599a4ce6c3b2ac9db1f0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы AutoCAD для дизайнеров интерьера.</name>
+<description>Во время обучения на курсе автокад для дизайна  интерьера Вы научитесь создавать планы расстановки мебели, отделки помещений и размещения электрооборудования. Вы научитесь ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5f78137d-1d82-85bc-d0ec-610162c1b569" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/autocad-course</url>
+<price>9800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/e2b9c60b4080dbf4fc0eb83cfe33c018.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курс Autodesk AutoCAD.</name>
+<description>Во время обучения на курсе автокада (AutoCAD) для начинающих Вы научитесь создавать планы зданий, фасады, разрезы и выводить их на печать. Вы сможете строить подробные 3D м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5dd42307-6785-bd31-7785-601807f5b1f8" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/blender-courses</url>
+<price>11600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/07/d13d8d87da126b7c0f1f79e7c462ecc5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Блендера (Blender 3D).</name>
+<description>Во время обучения на курсе моделирования в блендер (blender 3d) для начинающих научитесь моделировать статичные сцены, персонажей и анимацию для кино, игр, мультфильмов. Со...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d46efef3-6011-5139-e210-6038fa875c9c" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/procreate-courses</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/1dae39d3942d63c2a450cb7cbf8aca83.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы рисования в Procreate.</name>
+<description>На курс иллюстрации в Procreate создавайте digital-иллюстрации на Ipad. Вы научитесь Procreate с нуля, начиная с инструментов и настроек и заканчивая созданием проектов. Ис...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="338923d5-9a02-6b8b-0581-608911b0d85b" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/exterior-3d-modeling-courses</url>
+<price>7100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/07/38e7331b9893c14b617dbe1747b4e721.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3Ds Max для экстерьера.</name>
+<description>На курсе архитектурной визуализации экстерьера в 3D Max узнайте технологию создания сложных материалов, освещения и выбора выгодного ракурса. Научитесь создавать статичные ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e2fb27fb-2b2e-ba53-d135-6197a699e812" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/branding-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/e17a2ebb032254fbf57e6a68002b5eb6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы брендинга.</name>
+<description>Создавайте креативные дизайн-стратегии для крупных брендов, берите проекты на фрилансе и увеличьте ваш доход</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="14697339-45c5-a258-ea7b-6197a728f126" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/cinema-4d-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/083c9494ff90cef70c7b5bb3d2ac8525.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Cinema 4D.</name>
+<description>Курс позволит прокачаться в графическом дизайне: вы научитесь делать динамичные анимированные работы, которые &lt;b&gt;пополнят ваше портфолио и позволят брать больше заказов&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f78a86e-561c-5abd-b5f3-61a09a15524a" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/photoshop-drawing-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/a0b5e95e17398df162e66dd60e577581.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы рисования в Photoshop.</name>
+<description>Создавайте яркие цифровые иллюстрации на фрилансе или начните карьеру digital-иллюстратора</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1624ca30-9474-5b84-a979-61a09a51a3d3" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/drawing-2d-characters-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/a5e794e43485dfb9e6f672f7ee3a3969.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы создания 2D-персонажей в Adobe Photoshop.</name>
+<description>&lt;b&gt;На курсе вы научитесь создавать 2D-героев&lt;/b&gt; и окружение для кино, игр и рекламы. Вы соберете портфолио из иллюстраций со стилизованными персонажами в разных стилях и с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="42915d58-83a0-342e-07db-61a09bb18b88" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/casual-graphics-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/6c3050bc43eef85220ed16f399eda22c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы казуальной графики: стилизация игры.</name>
+<description>Станьте успешным 2D-художником в казуальной стилистике и создавайте графику для игр</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f1a8195e-2431-bfad-c790-61e7df89201c" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/typography-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/8e01a2f52afe480fdd917428d923e734.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы типографики.</name>
+<description>Научитесь продвигать продукт и управлять вниманием аудитории с помощью грамотно оформленного текста</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4bf2b22e-ccd6-b814-23a3-61fcfffe4c49" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/revit-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/5b97da16928192284ac55c5bea84d0d2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Autodesk Revit для дизайнеров интерьера.</name>
+<description>Разрабатывайте интерьерные дизайн-проекты в короткие сроки и сделайте их качественнее при помощи Autodesk Revit</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="532353f1-37be-9754-0966-62909e404fdf" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/archicad-courses</url>
+<price>9100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/2a68e57ea0024182a17397d6bec028a3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ArchiCad для дизайнеров интерьера.</name>
+<description>Научитесь эргономично планировать пространство, создавать дизайн интерьера в разных стилях с помощью программы ArchiCAD. Создадите проект для реальной квартиры в портфолио,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="fa960414-f418-4d17-1bb1-62ece112e798" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/blender-3d-courses</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/80b19e6e083c55d97a3c88f2cbdb8f4c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скульптинга персонажей в Blender 3D.</name>
+<description>Повысьте навыки моделирования в программе Blender 3D: выполняйте все этапы &lt;b&gt;ААА-пайплайна в геймдеве.&lt;/b&gt; Делайте скульптинг персонажа, моделируйте трехмерные сцены, осво...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d03afb92-639e-fcab-c5ee-630c7663dfcd" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/book-illustration-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/1238e61f3d13a88ecd1d6b9048ed5a8b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы книжной иллюстрации.</name>
+<description>&lt;b&gt;Начните рисовать иллюстрации к книгам!&lt;/b&gt; На курсе вы пройдете путь от раскадровки книги до оформления проекта. Сможете сотрудничать с издательствами или проиллюстриров...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d401087b-babd-d792-3164-646f3da21e7b" available="true">
+<url>https://novokuznetsk.videoforme.ru/designschool/photoshop-practicum</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/06/e1e969106760bae88eb86e029a09cc5d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум: интерьерные коллажи в Adobe Photoshop.</name>
+<description>Вы научитесь быстро собирать коллажи квартиры для наглядных визуализаций любых идей в интерьере. Сможете создавать реалистичные изображения и &lt;b&gt;презентовать яркие интерьер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8d4ffac1-e3b0-55c7-549e-626aa2907ec0" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/website-layout-prof</url>
+<price>24700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/fdae0ae3a73f7262af28fc11f5fbb3a5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Верстальщик сайтов.</name>
+<description>Научитесь использовать HTML и CSS для добавления стилей, разрабатывать пользовательские веб-приложения на JavaScript. &lt;b&gt;Практика с реальным дизайн-макетом&lt;/b&gt; и версткой а...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="36d494ce-2650-c759-4b6a-62ce8d6a6e23" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/analyst-prof</url>
+<price>12500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/16eaf803fdf32518612b4031fa108d52.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Аналитик данных.</name>
+<description>Стань аналитиком данных: работай с СУБД, составляй отчеты и визуализируй данные в Power BI, освой Python для работы с БД. &lt;b&gt;Помогай бизнесу повышать показатели, прогнозиро...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d7e2cab3-6f5f-4128-ec6a-6297460195cb" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/frontend-developer-prof</url>
+<price>36000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/4b3a749c2a996dda311d596bd6b1e986.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Frontend-разработчик.</name>
+<description>Практический курс, на котором освоите HTML, CSS, JavaScript и научитесь разрабатывать пользовательские веб-приложения. Вы сможете &lt;b&gt;начать карьеру разработчика в IT-компан...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dcb4b9c1-3031-8659-4848-633ef9407216" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/excel-specialist-prof</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/10/95de4acae67a549882b9f0b6682c39a8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Специалист Excel.</name>
+<description>&lt;b&gt;Станьте мастером MS Excel:&lt;/b&gt; с нуля начните создавать сводные таблицы, делать понятные визуализации, создавать макросы и сценарии для ускорения рабочих процессов. Начн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="70f29f1c-3025-9f97-2dd0-62ce8c904158" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/web-analytics-courses</url>
+<price>9800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/10/886df267f79692ffaf77f502a5c377bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы веб-аналитики (Яндекс Метрика и Google Analytics).</name>
+<description>&lt;b&gt;Вы научитесь настраивать систему аналитики,&lt;/b&gt; исследовать пользователей и управлять развитием бизнеса, принимая решения на основе данных. Сможете повысить эффективност...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="37b540de-c4f4-5ea1-dc34-632dc9c1bd11" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/excel-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/40492ead5ddcb46162d34db8ed1bf763.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Excel для начинающих.</name>
+<description>Научитесь составлять сводные таблицы, производить расчеты по формулам, делать визуализацию данных с помощью диаграмм, использовать функции даты и времени. &lt;b&gt;Повысьте скоро...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dee32937-139f-f3b6-6f30-5ea71cdf94ca" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/html-and-css-for-beginners</url>
+<price>6900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/06/3f712e8fd296a9fdfee7370d802de6fb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы HTML и CSS для начинающих.</name>
+<description>&lt;b&gt;Вы научитесь верстать адаптивные веб-страницы, добавлять эффекты и анимацию.&lt;/b&gt; Сможете менять стиль любых элементов сайта и брать заказы по верстке на фрилансе от 5000...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4b10982c-01ac-36b8-9103-60d1a67053be" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/sql-for-beginners</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/07/a1150208a865ed22d4decee9325a0382.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы SQL для аналитиков.</name>
+<description>&lt;b&gt;Научитесь управлять данными&lt;/b&gt; без разработчиков в СУБД. Используйте SQL-запросы, когортный анализ и Google BigQuery для аналитики данных: расчета продуктовых метрик, п...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dace0e54-8858-5883-fc05-62876212e3b8" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/google-analytics-courses</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/dfa3d65a7b254e701f94d811bc2c4d99.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Google Analytics 4.</name>
+<description>Научитесь работать с новым функционалом Google Analytics, углубите знания по аналитике и начните подстраивать GA4 под себя. &lt;b&gt;Используйте только актуальные инструменты инт...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="db22b970-2fa1-57dc-bdc0-628b6fa34009" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/reactjs-courses</url>
+<price>18900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/4e5d1b5b794fa22049990bbadad43d82.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы React JS.</name>
+<description>Вы научитесь использовать React совместно с JS и разрабатывать интерфейсы с интерактивными элементами. На практике сможете использовать продвинутые &lt;b&gt;инструменты разработк...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4357f0fa-9302-cde1-7cc4-628b6c2d6c17" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/manual-testing-courses</url>
+<price>18300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/30154ed0c3170663e20aef5635b7e90e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ручного тестирования.</name>
+<description>&lt;b&gt;Начните карьеру в IT-сфере&lt;/b&gt; без знания языков программирования: тестируйте сайты, веб- и мобильные приложения с помощью техник ручного тестирования: чек-листов, тесто...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dd47af43-009e-da99-29f9-62627343de24" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/javascript-courses</url>
+<price>22300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/f0d474fe9f9c93067d8f4e191494c632.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы JavaScript.</name>
+<description>Практический курс, на котором вы научитесь писать код для пользовательских веб-приложений на популярном языке программирования JavaScript. &lt;b&gt;Сможете начать свой путь в IT-...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="410b0f25-cb99-80f8-4a0d-632dca8ccca6" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/excel-pro-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/09/beb386c8d88077167ca45350c4f7f9b3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Excel: продвинутый уровень.</name>
+<description>&lt;b&gt;Расширьте навыки работы в Excel:&lt;/b&gt; делайте макросы, автоматизируйте однотипные расчеты с помощью сценариев, сценарии для однотипных расчетов, внедряйте с помощью языка...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cb223316-481c-e84b-82e4-5db1d0fe93d5" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/power_bi</url>
+<price>7000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/e7c3676b4e1a37f2afe40dbd40954199.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Power BI.</name>
+<description>&lt;b&gt;Научитесь анализировать данные,&lt;/b&gt; создавать дашборды, делать вычисления, работать по ключевым метрикам и находить взаимосвязи в удобном инструменте для бизнес-аналитик...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="82c001c3-6b8d-098d-036f-6356abbc5c1f" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/system-administrator-courses</url>
+<price>23900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/70fd1d53a9faf1d39cd02fce27932bfa.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы системного администрирования.</name>
+<description>Разберетесь в известных операционных системах, научитесь настраивать программное обеспечение &lt;b&gt;в офисе и дома и сможете начать работу в IT-сфере&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cfd300b2-469b-3346-f38e-63778310852f" available="true">
+<url>https://novokuznetsk.videoforme.ru/computer-programming-school/python-courses</url>
+<price>11500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/7921068cc289ac80a1863a7b0e88fa88.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Python для начинающих.</name>
+<description>Практический курс, на котором вы с нуля освоите один из самых востребованных языков программирования в IT —  Python и создадите 3 проекта в портфолио: &lt;b&gt;веб-сайт, чат-бот ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3efb9dc9-786f-de6d-0761-643fea0cfd94" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/family-relations-prof</url>
+<price>25000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/c09ba677e34a3e9dfc9a5c11b8ef3327.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный курс психологии семейных отношений.</name>
+<description>Вы научитесь выстраивать коммуникацию с близкими с помощью доверия и заботы, сможете улаживать конфликты и распознавать ложь. Укрепите семейные отношения и &lt;b&gt;создадите атм...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ecad03b0-4cce-4cb9-0d91-643d1b56616d" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychologist-consultant-prof</url>
+<price>48200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/bcb21e4a6892a68538e7274a2bb8a790.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Психолог-консультант.</name>
+<description>&lt;b&gt;Освойте профессию психолога-консультанта:&lt;/b&gt; консультируйте в своем кабинете или онлайн, работайте сами на себя, зарабатывайте деньги, решайте свои личные проблемы и по...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="800d4028-4e17-f5e2-c33a-6396f16845d7" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychologist-prof</url>
+<price>37200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/2cb13cdb8633acc189d600be99b5d304.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации психологов.</name>
+<description>&lt;b&gt;Практический курс для психологов,&lt;/b&gt; на котором вы освоите альтернативные методики: психоанализ, эриксоновский гипноз и арт-терапию. Расширите границы практики и сможет...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8fdad0b6-fe9c-af9a-bdd8-6384a7e8b84b" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/effective-communication-prof</url>
+<price>19700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/2ab7d033fbeec1a887560153b873ae28.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эффективной коммуникации.</name>
+<description>Практический курс, на котором вы сможете прокачать soft skills, развить свой эмоциональный интеллект, проработать уверенность в себе и научитесь &lt;b&gt;выстраивать гармоничное ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d3add05d-5a2a-744b-5055-643ffd131590" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychologist-coach-prof</url>
+<price>16700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/6bffa84a894d25ebb3da987485016926.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Психолог-коуч.</name>
+<description>Освойте инструменты самопознания и помогите клиенту достичь блестящих результатов на работе и в жизни</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9938acd5-8ed3-4611-4e36-643fffbc35be" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/corporate-psychologist-prof</url>
+<price>26700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/8eb541a3c48e5ac1b2f74642571d6c38.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Корпоративный психолог.</name>
+<description>Начните практику корпоративного психолога и проводите коуч-сессии в крупных компаниях для обучения и развития персонала</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a49ec3ba-5b1e-c170-7346-62d808140452" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/practical-astrology-prof</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/68cbf0df61ab96ff4259b3e5e7d27d14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный курс астрологии.</name>
+<description>Практический курс, на котором вы научитесь лучше разбираться в людях с помощью гороскопов, интерпретировать натальные карты и составлять астрологический прогноз, &lt;b&gt;чтобы р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="49900647-ceb2-184d-9ce1-643fed321a39" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/family-psychologist-prof</url>
+<price>28300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/4c1fd9be213e24d05876dfbc293052a1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Семейный психолог.</name>
+<description>Практический курс, на котором вы изучите психологические аспекты семейной жизни, научитесь вести консультацию семейной пары и сможете начать помогать семьям &lt;b&gt;преодолевать...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="479c4afb-5734-f959-b611-64400b3bdf2f" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/game-therapist-prof</url>
+<price>23400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/16fc84eca67545c5e82d8e0b19c9bb15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Игропрактик.</name>
+<description>&lt;b&gt;Освойте актуальную профессию в игротерапии:&lt;/b&gt; научитесь вести трансформационные игры, создайте авторскую игру под руководством опытного игротехника, используйте МАК в ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="573b7477-2939-1772-5c99-64400e31911e" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/art-therapist-prof</url>
+<price>39600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/75d065704fa07f5e67aa26888a014eb2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Арт-терапевт.</name>
+<description>&lt;b&gt;Профессиональный практический курс,&lt;/b&gt; на котором вы освоите различные методы арт-терапии для бережной психологической работы с клиентами разного возраста. Сможете прим...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="81dd5a30-ad05-b647-8bdf-6440124346c3" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/child-psychologist-prof</url>
+<price>30700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/d6ce4874ed36363c37dc9547d238bbc2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Детский психолог.</name>
+<description>&lt;b&gt;Станьте детским психологом:&lt;/b&gt; научитесь проводить психокоррекцию, используйте в работе инструменты нейродиагностики и нейрокоррекции, составляйте и реализуйте программ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d05a2b5e-b522-0188-7222-622f07822a55" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/training-of-trainers</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/30f8cf5f45f299a585f44751e2e800ef.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы коучинга.</name>
+<description>&lt;b&gt;Вы прокачаете навыки консультирования&lt;/b&gt; техниками коучинга. Научитесь проводить исследование целей, смыслов и разрабатывать эффективные бизнес-стратегии для своих клие...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e3699425-c4b7-0aa0-a30a-643d0eebb49f" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychology</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/e43be78e758d84b04b254e521de14104.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии для начинающих.</name>
+<description>&lt;b&gt;Получите теоретические и практические знания по психологии.&lt;/b&gt; Внедрите её в повседневную и профессиональную жизнь — научитесь управлять эмоциями, повышать самооценку и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="241" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychology_of_relations</url>
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/04/259d8a6c0ceaa4d167e385452a87f6ba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии отношений мужчины и женщины .</name>
+<description>&lt;b&gt;Вы улучшите отношения со второй половинкой.&lt;/b&gt; Узнаете, как сохранить любовь в браке и преодолеть конфликты и кризисы. Восстановите гармонию в паре и снова посмотрите д...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="237" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/children_psychology</url>
+<price>5100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2017/04/27e33840b2e9890ced9e5ffae8251207.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детской психологии для родителей .</name>
+<description>Научитесь без нервотрепки и конфликтов воспитывать детей в гармоничной семье - узнайте, как вести себя с плачущим ребенком, как прививать хорошие привычки и как подготовить...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9b53bcd-fd62-e858-6c6d-610175ac3669" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/neurolinguistic</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/08/22dc80f692defe87079780c8eea3416f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практический курс НЛП.</name>
+<description>&lt;b&gt;Внедрите техники НЛП в вашу жизнь:&lt;/b&gt; управляйте эмоциями и изменениями в вашей жизни, визуализируйте позитивный опыт и достигайте всех поставленных целей с помощью ней...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="242" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/communication_psychology</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/82837d3948e6379eef17d78a8d62401d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы общения с людьми.</name>
+<description>&lt;b&gt;Прокачайте навыки коммуникации:&lt;/b&gt; научитесь грамотной самопрезентации, преодолейте коммуникативные барьеры. Научитесь противостоять манипуляциям, охранять свои личные ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="78" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/kursy-skorochtenija</url>
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/44c698e4d16356cb97a456f47cc47315.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скорочтения. Развитие памяти.</name>
+<description>&lt;b&gt;Повысьте скорость чтения&lt;/b&gt; &lt;b&gt;и увеличьте объем памяти&lt;/b&gt; с помощью интеллект-карт, упражнений на повышение концентрации внимания и техник запоминания. Тренируйтесь в...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2b1c4308-44e4-0835-2b6b-5d9cb911dbfe" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/astrology-courses</url>
+<price>6850</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/ed1afbaec5817cc1af7a264455ef6f96.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы астрологии для начинающих.</name>
+<description>Опирайтесь в сложных ситуациях и при выборе пути на интерпретацию натальной карты. Составляйте карты для своих родных, используйте ежедневные и ежегодные гороскопы для дост...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5ae7ea41-17c7-7479-6240-5f92a44339f3" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/prognostic-courses</url>
+<price>8400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/cc6e753985234b4c9d0021640eee6a68.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы прогностики в астрологии.</name>
+<description>Научитесь прогнозировать события в вашей жизни с помощью метода транзитов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a238aae9-4320-67b5-e5f3-61e548df2804" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychology_methodologies</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/2d7962c9f57263fa3c4d334803f75908.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы практической психологии: современные подходы.</name>
+<description>&lt;b&gt;Вы изучите методики для эффективной проработки психотравм,&lt;/b&gt; научитесь применять гештальт-терапию, психодинамический подход, экзистенциальную, телесно-ориентированную ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2ac0a666-95e0-1c6e-32b9-5ee9f5b06116" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/counseling-psychology</url>
+<price>6850</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/80f64720ccf5b89587e0c833e1299eda.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологического консультирования.</name>
+<description>&lt;b&gt;Начните консультационную практику!&lt;/b&gt; Шаг за шагом научитесь проводить сессии, выявлять запрос клиента, строить гипотезы, внедрять изменения в жизнь клиента и проводить...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b33e82d5-7149-387e-e2cb-5ef5bd43494d" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychology_diagnostics</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/dcb62aa3a1695b1bc8057d3fc70bd865.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы практической психодиагностики.</name>
+<description>Вы научитесь составлять исследования, грамотно проводить психодиагностику, интерпретировать результаты и использовать их для работы с клиентом. &lt;b&gt;Вы изучите незаменимый ин...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="aaea114c-586c-a70b-7585-62f4efebb56d" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/game-psychology-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/04ca2e0a773a1426dcd4838c7a6debce.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы игротерапии и психологических игр.</name>
+<description>Вы научитесь проводить трансформационные игры, ориентированные на глубокое познание себя и работу со стереотипами и убеждениями. &lt;b&gt;Благодаря этой технике вы сможете эффект...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="87de3967-1de2-9e2c-6936-61766eca2ced" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/business-psychology-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/a3fd86326e3830b15aca6a328a5314c5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы бизнес-психологии для HR.</name>
+<description>Повысьте квалификацию, пройдя курс, и &lt;b&gt;начните консультировать&lt;/b&gt; бизнесменов и менеджеров по вопросам улучшения психологического климата в коллективе, решения конфликто...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="575fbed5-f100-a2c4-0b2d-6197a6c84f2c" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/promotion-of-a-psychologist</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/1d3ca7eccf1a1ac1e745ac37e8356630.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продвижения психолога.</name>
+<description>&lt;b&gt;Начните продвигать услуги в соцсетях:&lt;/b&gt; преодолейте синдром самозванца, найдите вашу ЦА, научитесь грамотной самопрезентации, формируйте клиентскую базу и продавайте в...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="541dd715-b7f8-7041-6910-619223e79aab" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/borderline-disorders-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/d1733ba5cba6003f53d79b2ff62cfae5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диагностики пограничных расстройств.</name>
+<description>&lt;b&gt;Расширьте свою зону компетенций:&lt;/b&gt; научитесь отличать норму от патологий, различать нейропсихологические синдромы и клиентов с зависимостями и психическими расстройствами</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="aa760f2b-9e51-d672-761d-61b065bb810d" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/age-psychology-courses</url>
+<price>9500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/30fe20664e4107a0b6893eb7b8186f68.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы возрастной психологии.</name>
+<description>&lt;b&gt;Научитесь работать с возрастными кризисами,&lt;/b&gt; ставить цели и определять ценность каждого периода жизни человека. Научитесь работать с клиентам разного возраста и сможе...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c933e3e6-8846-793c-9f55-61b326f30698" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/family-counseling-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/e81ff25c3f1f4773043ed760eadcd1d1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы семейного консультирования.</name>
+<description>Вы сможете эффективно вывести пару из конфликта и помочь пережить разные этапы семейной жизни, научитесь &lt;b&gt;помогать семьям в кризисе.&lt;/b&gt; Станете многопрофильным психолого...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="37b00989-d677-ed72-b3d2-61c1f62b3678" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/emotional-intelligence-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/c7ff88b870037def3c3bb9efc1a65cdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эмоционального интеллекта.</name>
+<description>Погрузитесь в практику и узнайте нового себя: уверенного, открытого и смелого! &lt;b&gt;Научитесь анализировать свои эмоции,&lt;/b&gt; противостоять негативу и манипуляциям, выражать с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e531b319-859c-9f5a-6296-625691acac14" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/ericksonian-hypnosis-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/c533ebd7bee8ebde45ddc9dafc1074d5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эриксоновского гипноза.</name>
+<description>&lt;b&gt;Вы сможете помочь клиентам преодолеть страх перед гипнозом.&lt;/b&gt; Научитесь проводить гипонотерапию в рамках эриксоновского гипноза, работать с травматичечскими событиями ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="62eec33f-cb0e-388b-61f5-626a4d7df0ab" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/metaphorical-cards-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/b7ba118bd37a5aaa2849a6afb2223158.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы метафорических ассоциативных карт.</name>
+<description>Вы научитесь проводить диагностику с помощью МАК, работать с травмами и кризисами, использовать карты на тренингах и помогать своим клиентам находить ответы, &lt;b&gt;прорабатыва...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="280b779c-8e39-8c31-ee4b-6266a4f38f70" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/sexology-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/4f0460ff2de0e71f7bec38ad43dac3d7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сексологии.</name>
+<description>&lt;b&gt;Начните консультировать клиентов по вопросам сексуальности:&lt;/b&gt; научитесь определять норму и патологию, работайте с гендером, освойте техники работы с ролями, сценариями...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e7277c62-54a8-51ef-593c-62f6205938c3" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/art-therapy-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/ad8a5940a7b66039f583736eac3a3289.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы арт-терапии для психологов.</name>
+<description>&lt;b&gt;Научитесь проводить арт-терапию,&lt;/b&gt; соберите стартовый набор материалов для терапии, обустройте арт-терапевтическую зону и повысьте доход за счет услуг традиционной и и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f666cf7-8fff-a303-08ea-62f63e62e584" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/fairy-tale-therapy-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/39a744fab621479e5f9f8b693e4c07a1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сказкотерапии.</name>
+<description>&lt;b&gt;Научитесь работать с бессознательным&lt;/b&gt; клиента с помощью сказкотерапии. Используйте авторские сказки на сессиях с детьми и взрослыми, комбинируйте лучшие психологическ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7166d62c-2de1-8c91-bc52-6303581e467a" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/pediatric-neuropsychology-courses</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/efa886cef9e3959a2dab44585e89726b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детской нейропсихологии и психокоррекции.</name>
+<description>&lt;b&gt;Научитесь проводить детскую психокоррекцию и нейропсихологическую коррекцию:&lt;/b&gt; научитесь диагностировать детей, проводить нейрокоррекцию, узнайте техники коррекции в н...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="85bba106-5833-8bd7-27b7-6308a1b2748e" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/gestalt-therapy-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/08/e8ec0b7a8d6f8bf337003c8f788f8468.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы гештальт-терапии.</name>
+<description>&lt;b&gt;Консультируйте по методам гештальт-терапии:&lt;/b&gt; выстройте доверительные, эмоционально безопасные отношения с клиентам, работайте с телесностью и уверенно консультируйте ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d8a84d2c-129b-bae5-d839-634f944ed87e" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychoanalysis-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/10/c9cbaf4aa012cf792d1f18811e53c08d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психоанализа.</name>
+<description>Повысьте квалификацию с помощью психоанализа: освойте этику психоаналитика, научитесь анализировать сновидения, прорабатывайте детские воспоминания клиента и &lt;b&gt;используйте...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e8d144f4-4a42-3e64-dcf9-63a95132c8e9" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/eating-behavior-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/144f788c3c29ff5bde6e00a652270281.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы пищевого поведения.</name>
+<description>Практический курс, на котором вы освоите техники работы с расстройствами пищевого поведения, сформируете здоровые привычки, &lt;b&gt;наладите питание и улучшите качество жизни&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="164e0811-71f5-5318-f5ff-63c8f5303c50" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/anxiety-attack-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/92fa70bd64fe76ddc2cae3228dba6206.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по работе с тревогой и паническими атаками.</name>
+<description>Курс, на котором вы узнаете о тревоге, панических атаках, страхах и фобиях и способах психологической работы с ними. Сможете разобраться в эмоциональных состояниях и &lt;b&gt;укр...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3715ac49-5256-4a2e-e88b-643d16d1c876" available="true">
+<url>https://novokuznetsk.videoforme.ru/psychology/psychology-courses</url>
+<price>12200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/05/cbac0b46abc5eb1eb7ae4752afb45b62.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии для себя: ментальное здоровье.</name>
+<description>&lt;b&gt;Практический курс для увлеченных психологией:&lt;/b&gt; на занятиях научитесь лучше понимать себя, свои эмоции и поведение, а также общаться и взаимодействовать с окружающими</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3a742820-18fa-aa44-6896-643e810c579d" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/speech-art</url>
+<price>19200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/07/bb09af5e83c632130213dd85647e70bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ораторского мастерства.</name>
+<description>Практический курс, на котором вы овладеете искусством выступлений. Поставите голос, проработаете дикцию и научитесь уверенно выступать и убеждать публику всего &lt;b&gt;за 3 меся...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="90c3c986-3eba-4c0d-ab22-645e08bae753" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/public-speaking-prof</url>
+<price>23750</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/aa2dd0f32dc93dc8a4f07e89dd282552.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы публичных выступлений.</name>
+<description>&lt;b&gt;Вы научитесь управлять эмоциями&lt;/b&gt; и держаться уверенно во время выступления. Освоите техники актёрского и ораторского мастерства, чтобы сделать своё выступлением эффек...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f576ebd-2f11-ea35-9a81-62b470506b67" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/actor-full</url>
+<price>11900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/0b1afbadf2e8db9315ce2665feec32b5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы актерского мастерства.</name>
+<description>Вы освоите техники актёрского мастерства и &lt;b&gt;избавитесь от внутренних зажимов.&lt;/b&gt; За 7 недель научитесь классно выступать на сцене и легко общаться в жизни без чувства ст...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="28" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/mc-events</url>
+<price>8300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/7d7196527f2702a328dc16e5d38abaf1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ведущих мероприятий.</name>
+<description>Научитесь управлять речью, уверенно держаться на публике и разрабатывать сценарии свадеб, дней рождения и корпоративов. Сможете выступать на празднике любого масштаба и &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="112eaa83-e30a-10ef-d33a-62b46f75bd13" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/artist</url>
+<price>6200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/b4af1fc3881d82159019f62953e905ae.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эмоционального раскрепощения.</name>
+<description>Освойте техники снятия мышечных и эмоциональных зажимов, &lt;b&gt;развивайте уверенность в себе и стрессоустойчивость&lt;/b&gt; и применяйте полученные навыки на сцене и в жизни</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a17412bd-d38d-e33a-922c-62b470ce87ae" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/artist-advanced</url>
+<price>4400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/2734ebf1e0f4bce686f19109db36dd1e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы театральной импровизации и пластики тела.</name>
+<description>&lt;b&gt;Освоите техники актерского мастерства,&lt;/b&gt; научитесь классно выступать на сцене и легко общаться в жизни без чувства стеснения и страха. Научитесь удерживать внимание зр...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6c2c371a-7917-8d9b-7fd0-637b3af5d6bd" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/online-performance-courses</url>
+<price>5700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/3e68a19aa5eec5f1d8369868a880d274.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы онлайн-выступлений.</name>
+<description>Практический курс, который поможет прокачаться до уверенной, захватывающей публику, речи. Разовьете навыки сторителлинга, подготовите оборудование и запишете &lt;b&gt;свои первые...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="efece6c6-5e2e-7692-ce54-643e808358bc" available="true">
+<url>https://novokuznetsk.videoforme.ru/actors_school/speaking-courses</url>
+<price>8700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/05/6fddb8bfe26c494ebe6019379e82580d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы уверенного выступления.</name>
+<description>Вы выйдете на новый уровень публичных выступлений, научитесь продающим презентациям, потренируетесь выступлениям со стресс-факторами &lt;b&gt;и создадите свой личный образ спикер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6d587e36-01f8-da1a-0067-639c5ab251a6" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/estimator-prof</url>
+<price>14000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/fd204f0edc0cd2b324da2f31c30ed0cb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Сметчик.</name>
+<description>Вы изучите сметное дело на практике с нуля: освоите методы определения сметной стоимости и расчет объема работ, научитесь составлять &lt;b&gt;отчетные формы в ПО Гранд-смета&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2f266475-9d9f-4a36-7d38-63a95dc621dc" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/trader-prof</url>
+<price>19700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/91a9d9c3f50c0b4259a8fc286d34edfb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Трейдер.</name>
+<description>Вы поймете логику работы биржи и научитесь анализировать события на рынке. За месяц разработаете стратегию торговли криптовалютой и будете &lt;b&gt;получать стабильную прибыль от...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a07019f2-db93-6474-2d4f-5e74a1d63a55" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/personnel-manager-courses</url>
+<price>15600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/621287600422aa48f685991346d48373.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер по персоналу.</name>
+<description>Освойте подбор персонала, научитесь проводить прием и увольнение сотрудников и вести кадровую документацию</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="daaa0ecb-75a0-70ea-0ccf-61a09a2abc1a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/sales-manager</url>
+<price>15600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/f3300f03783d9ae9ce70c7aa1cbf187b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер по продажам.</name>
+<description>Вы освоите техники продаж, &lt;b&gt;узнаете, как увеличить средний чек,&lt;/b&gt; и научитесь работать с возражениями. &lt;b&gt;Сможете успешно выполнять план,&lt;/b&gt; выстраивать воронку продаж...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="91fb9051-eafb-86ea-30f6-632dca16d90b" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/business-process-manager-prof</url>
+<price>29400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/4723ea5363e15b79714d1289f7de8016.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер бизнес-процессов.</name>
+<description>Помогайте компаниям зарабатывать больше с помощью оптимизации бизнес-процессов и &lt;b&gt;начните карьеру в сфере управления и бизнеса&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b3e6ed8d-aa20-fd8f-121c-622f0814b7b8" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/marketplace-prof</url>
+<price>25700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/7f89722fec0a058df7ad25d387e7828b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер маркетплейсов.</name>
+<description>Эффективно продвигайте товары на популярных онлайн-площадках и начните карьеру менеджера маркетплейсов</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8c8349a8-9168-3c35-a01e-6230af5a1ad5" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/head-of-sales-prof</url>
+<price>18500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/020b2f5efd4be5bc6bb2928435e5f842.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Руководитель отдела продаж.</name>
+<description>Увеличьте процент крупных закрытых сделок и постройте успешную карьеру руководителя отдела продаж</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="785a85fb-333e-c982-9964-638ddbd1435a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/ms-office-prof</url>
+<price>13300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/907caa3bd28f48c5937f1b9a0291ad23.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы MS Office.</name>
+<description>Вы с нуля сможете создавать таблицы в Excel, сортировать и анализировать данные, а также составлять презентации для начальства в PowerPoint. &lt;b&gt;Повысите скорость и эффектив...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ecabcca9-4534-ddef-683a-5e749dd12575" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/resources-manager-course</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/eab40e4edda9b942f2135fab84724213.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы подбора персонала.</name>
+<description>Курс для тех, кто давно хочет изучить нюансы работы с персоналом, но не знает, с чего начать. На курсе вы получите все навыки, необходимые для успешной работы HR-специалиста</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="63ecc6a9-5d82-9e48-2a42-5e749d060a4a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/document-management</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/bf9f30ae165132f106f89c42377b2c1a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы кадрового делопроизводства.</name>
+<description>Вы научитесь &lt;b&gt;вести кадровый документооборот в компании,&lt;/b&gt; оформлять и увольнять сотрудников, вести личные дела. Обучение построено на обсуждении реальных кейсов из пра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c8f66334-2e50-7e89-8771-61ba0c36f580" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/business-process-courses</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/04cf2719e32e93ba6a5ac9e10a160976.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управления бизнес-процессами.</name>
+<description>Во время обучения на курсе управления и автоматизации бизнес-процессов вы разработаете систему оценки эффективности, определите риски и пути их преодоления. Создадите кейс ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="da4b1b4d-4e9c-5f15-1e05-6261175538be" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/product-manager-courses</url>
+<price>25300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/964f33c7f3c3bfbd4fadf9f39ad7c618.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы product-менеджера.</name>
+<description>Создавайте востребованные на рынке продукты даже в условиях кризиса и начните перспективную карьеру product-менеджера</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f1e4d5f6-7924-bf7e-06cd-639ae5842e79" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/estimator-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/b8a40d203da9f7225a290d46bd3c80bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сметчиков для начинающих.</name>
+<description>&lt;b&gt;Вы узнаете, что такое смета&lt;/b&gt; и сметное дело, а также требования к специалисту этой области. Вы начнете разбираться в строительных расценках, освоите сметно-нормативны...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a1c9df84-ed9e-b564-378c-639c5ab04daa" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/estimator-courses-advanced</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/b01cb11680e18b72f6ca0afe8bb2a254.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы повышения квалификации сметчиков.</name>
+<description>&lt;b&gt;Вы научитесь работать с ГрандСмета&lt;/b&gt; и освоите принципы формирования сводного сметного расчета стоимости строительства и капремонта</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="854cd1a1-a141-e709-6f49-6368ce3a2fff" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/online-store-prof</url>
+<price>16700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/751b5b319f46afb65170a85bd2c0568b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный курс создания и продвижения интернет-магазина.</name>
+<description>Практический курс, на котором вы разработаете маркетинговую стратегию бизнеса, сайт на Tilda и научитесь продвигать интернет-магазин. &lt;b&gt;Запустите прибыльный интернет-магаз...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1d66e914-f2cc-2fd4-f25b-61cc40a8b6ec" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/restaurant-management-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/ac079c247699a7a56d747b5dd527aae0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управляющего рестораном.</name>
+<description>Научитесь организовывать эффективную работу ресторана, собирать сильную команду и начните карьеру в ресторанном бизнесе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1b078118-6569-b1a9-03ab-6230af3e4b91" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/sales-management-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/5c2b2fb556c520d2f387601c55904e46.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управления отделом продаж.</name>
+<description>Научитесь собирать сильную команду, оптимизировать бизнес-процессы отдела и увеличьте прибыль компании</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="df39076b-b488-3a17-368a-633ef8df2e97" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/transport-logistics</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/53d0f5b0f0737225f94e0470e596bf74.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диспетчера-логиста.</name>
+<description>Вы научитесь подбирать маршруты для грузоперевозок, оптимизировать транспортные расходы и выстраивать долгосрочные отношения с клиентами. &lt;b&gt;Начнете принимать заказы, работ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b72fbae6-f4df-598d-b1cb-633efada0b14" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/warehouse-logistics</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/5bf64bc63bc5c482a948bb814e7883e5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы складской логистики.</name>
+<description>&lt;b&gt;Станьте логистом склада:&lt;/b&gt; научитесь организовывать процессы приема, хранения, комплектации и отгрузки, проводить инвентаризацию, вести документооборот и внедрять в ра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8be6e376-0a46-12dd-8cfb-6239ca603779" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/commodity-specialist-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/388a8fb88a30219f6a4302f74a0c365c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы товароведа.</name>
+<description>Эффективно взаимодействуйте с поставщиками, организовывайте успешную реализацию товара и станьте востребованным специалистом</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6b245de7-d82e-76d8-0bf1-626baed9855a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/crypto-trading-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/05/acc402469be1a304ee659754523f3923.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы торговли криптовалютой.</name>
+<description>Обеспечьте финансовую независимость и безопасность ваших сбережений с помощью торговли криптовалютой и инвестирования в монеты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="73f941f8-ea98-83d2-0654-628f70a5bda6" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/insurance-agent-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/e16b86c8885326e50be9c217f16601ba.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы страхового агента.</name>
+<description>За 5 недель обучения вы научитесь подбирать страховые программы под запросы клиента, вести эффективные переговоры и &lt;b&gt;успешно закрывать сделки.&lt;/b&gt; Сформируете клиентскую ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="827a814a-7af0-bf44-6e56-6232eec0824a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/financial-consulting-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/04/f3bdd854b9b75baf57bf075278258743.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы финансового консультирования.</name>
+<description>Стань экспертом в области финансового консультирования и начни зарабатывать на финансовых консультациях</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ce7efb8f-d2eb-ee39-53dd-6214e93b09ea" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/art-manager-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/10/83ef4e9665e4aefbdb68cb7a378aeb77.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы арт-менеджера.</name>
+<description>&lt;b&gt;Практический курс,&lt;/b&gt; на котором вы разработаете кейс своего первого мероприятия: начиная с плана, заканчивая работой с дизайнерами и продвижением ивента в социальных с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e6ae53fa-c1a3-608a-e400-62838a795cb3" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/methodist-courses</url>
+<price>21900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/9007c027074d79ea6daa7b7579f360a5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы методистов образовательных программ.</name>
+<description>Проектируйте онлайн-курсы с высокими показателями доходимости и вовлеченности и станьте востребованным специалистом в сфере обучения</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7e5adcce-7774-be73-8470-5e9968303d83" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/phone-sales-training</url>
+<price>1300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/605fb54e44dbee1d1289af50b8ed16a2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тренинг продаж по телефону.</name>
+<description>Повысьте эффективность каждого звонка и увеличивайте средний чек с помощью телефонных продаж</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="81f26626-597d-3ba5-8824-5ee21979a95b" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/freelancing-for-beginners</url>
+<price>4100</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/01/96ea70290749d3c7c1c8d31421afa5ee.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фриланса для начинающих.</name>
+<description>Научитесь продвигать личный бренд, работать с заказчиками и зарабатывать на фрилансе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8e91578c-73c4-002b-e7cf-5ee8efde3af1" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/investment-for-beginners</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/ef6989114e1d2768321b33b7ceb69bbc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы инвестирования для начинающих.</name>
+<description>Сможете обеспечить финансовую независимость и увеличить доходы после разбора инструментов инвестирования с нуля</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2318fbce-fc58-48d6-2282-6239bc34ceae" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/purchasing-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/79f5ee7fbef0a535bfc6e6d608b6728e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по закупкам и поставкам товаров из Китая.</name>
+<description>Управляйте оптовыми закупками и поставками товаров из Китая без больших финансовых и трудовых затрат</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="16920a95-1ba6-2ad0-d5cc-61a0996a9841" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/sales-beginner</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/e8a7ed849dada8b1ebf4243312d145d7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продаж для начинающих.</name>
+<description>На курсах обучения продажам с нуля научитесь грамотно устанавливать первый контакт с клиентом, проводить презентацию продукта и успешно завершать сделки. Освойте продажи дл...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1bb96212-bc8b-5b88-a06e-61a099bbb8c1" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/sales-beginner-2</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/f31ebc64827373d0e5630f4ba758e541.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы техник продаж.</name>
+<description>Научись использовать актуальные техники продаж и увеличения среднего чека, а также работать со сложными клиентами</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="29110821-9055-a441-f0e1-5f04993f53d4" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/b2b-sales</url>
+<price>1300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/4c813f425ea614a12db4d6532147b118.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тренинг &amp;quot;Продажи B2B&amp;quot;.</name>
+<description>Овладейте действенными методиками ведения переговоров и достижения поставленных целей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2a0add87-017a-722f-bb8a-5f049a436521" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/negotiation-training</url>
+<price>1300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/323e6108acc044be6abfb34db69103de.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тренинг &amp;quot;Ведение переговоров&amp;quot;.</name>
+<description>Овладейте действенными методиками ведения переговоров и достижения поставленных целей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9a909979-daaa-be9f-8e4a-5ef6082d2874" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/business-creation-courses</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/02/e210de2dbd01436cb9cb8f46132ae189.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по открытию бизнеса с нуля.</name>
+<description>Научитесь создавать бизнес-проект с нуля от проверки работоспособности идеи до получения прибыли</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cd7e4d08-d089-eedf-f6e8-60180731d158" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/trading-courses</url>
+<price>11800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/a892a1e221e083ac50e6b92cf427bdf4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы трейдинга для начинающих.</name>
+<description>Во время обучения вы научитесь &lt;b&gt;зарабатывать на торговле акциями.&lt;/b&gt; Сможете выбирать надежных брокеров, проводить фундаментальный анализ и анализировать риски входа в с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ef25a741-3af0-b441-ea28-635b8a43788e" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/design-studio-courses</url>
+<price>29000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/32fd7c992b402de24552d824365845f6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы &amp;quot;Как открыть дизайн-студию&amp;quot;.</name>
+<description>Авторский курс от владельца дизайн-студии Даниила Бредихина, на котором вы узнаете о всех нюансах создания бизнеса и создадите пошаговый план по &lt;b&gt;открытию собственного де...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6483c493-f03b-b337-19a4-61653a4fe3aa" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/marketplace-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/11/64814e103c7b8d9ee51ee88475a2e837.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы работы с маркетплейсами.</name>
+<description>Вы научитесь работать с &lt;b&gt;Ozon, Wildberries, Яндекс.Маркет&lt;/b&gt; и другими популярными площадками. Разработаете стратегию продвижения товаров и начнете зарабатывать от 40000...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="68279ab8-ae72-a4b6-6ca9-61b308231c4a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/it-recruiting-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/d77a3c796787a2a39206ba8c852f1c14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы IT-рекрутера.</name>
+<description>На обучении рекрутменту в IT Вы научитесь закрывать вакансии в срок с помощью воронки подбора. После курсов рекрутинга IT HR с нуля Вы освоите подбор IT персонала со знание...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="14626f2d-807a-2e25-106f-62987dd28de6" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/producer-courses</url>
+<price>12700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/e876d6618f167b2fc403dba6367578e8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продюсера онлайн-школы.</name>
+<description>Научитесь работать с экспертами, &lt;b&gt;разрабатывать онлайн-курсы с нуля&lt;/b&gt; и продвигать их на EdTech-рынке. Сможете координировать процесс создания образовательного проекта,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="19307305-ca5c-3d7c-e947-61baf255f068" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/hr-branding-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/12/8fbee4c0fb140d07f53a10c3d4dde9fc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы HR-брендинга.</name>
+<description>После обучения hr брендингу Вы научитесь создавать привлекательный образ работодателя  и привлекать лучших кандидатов в компанию. На обучении HR бренду Вы научитесь создава...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="47ab643c-77dd-7439-3e42-61fb9373d15b" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/project-manager-courses</url>
+<price>25300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/a871d2ef292676a3c9d4cc1fb912e5db.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы project-менеджера.</name>
+<description>Вы освоите востребованную профессию, изучите инструменты и методологии работы и сможете начать зарабатывать как менеджер проектов за 2 месяца</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="964e5c1c-27b4-2419-aa58-621dfd5bb14a" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/realtor-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/49b7c816455c2e1335cdee55ddca100b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы риэлтора.</name>
+<description>Вы научитесь подбирать недвижимость под запрос клиентов, сопровождать все этапы сделки и составлять документы. Сможете стать экспертом на рынке и &lt;b&gt;успешно заключать сделк...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ba45e942-18a0-5b79-9cdb-6213448d5f6f" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/financial-management-courses</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/7dba4a761363e14ae1b47aaaecdd2c0e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы финансового менеджмента.</name>
+<description>Научись успешно управлять финансами компании и получи продвижение по карьерной лестнице</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4035c824-7b52-4875-68b5-6228a27fd007" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/store-manager-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/319fbc5dd34bf0909a734cd9d4b52f9a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управляющего магазином.</name>
+<description>Выстройте эффективно работающий магазин любой тематики и увеличьте его прибыль</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2f97303-6adc-5f00-b58a-6234a52f3db5" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/crisis-management-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/e157337fdcf297060c542224e7d91498.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы антикризисного управления.</name>
+<description>Научитесь диагностировать кризисные ситуации, составлять и реализовывать пакет антикризисных мер и выводите вашу компанию из кризиса</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="63ec5b66-3117-48b3-5dcb-622b57adb846" available="true">
+<url>https://novokuznetsk.videoforme.ru/business_school/td-manager-courses</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/03/0edf37e197e25e5b5fc0ffb9da9f16b7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы менеджера по обучению и развитию персонала.</name>
+<description>Разрабатывайте и внедряйте эффективные стратегии обучения сотрудников и повысьте производительность всей команды</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5a52ae58-3ef4-93a5-dfe4-634ea19d2c74" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/advertising-photographer-prof</url>
+<price>28200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/10/4c651044850ac713d79d68a5f5c1e0ae.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Рекламный фотограф.</name>
+<description>Вы научитесь создавать интересные имиджевые, предметные фотографии и проводить съемку для каталогов, лукбуков для крупных и малых брендов. Создадите не менее &lt;b&gt;10 обработа...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="41285970-26b6-da96-fc33-6316fa061abd" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/video-foto-prof</url>
+<price>28300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/ff3ed3a3263790ade50d10a4365307c8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-видеограф.</name>
+<description>Ретушируйте фото в Photoshop и Lightroom, научитесь съемке и обработке видео в Premiere Pro и After Effects. &lt;b&gt;Начните профессионально создавать фото- и видеоконтент для м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="242708ba-0416-3993-7080-6316fa550860" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/foto-prof</url>
+<price>24000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/0609e094df6adb2459ad0bae2fa56896.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-ретушер от нуля до профи.</name>
+<description>Вы научитесь цветокоррекции без искажения, созданию и применению пресетов для обработки фото в 1 клик, освоите beauty-ретушь. &lt;b&gt;Пополните портфолио фото-ретушью в журнальн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e9e9d967-35a3-de79-1ced-63232a134e27" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/family-photographer-prof</url>
+<price>26400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/09/9310c78a4c496ca852e70c9ec4d69841.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Семейный фотограф.</name>
+<description>Вы научитесь настраивать оборудование, проводить съемку в студии, находить контакт с детьми и родителями. Сможете проводить семейные фотосессии, обрабатывать снимки и &lt;b&gt;за...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7fb69be3-05c9-b5aa-1658-63232a20cd4d" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/wedding-photographer-prof</url>
+<price>21700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/09/773f578e3aad325b0cf192162c678e01.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Свадебный фотограф.</name>
+<description>Практический курс, после которого вы сможете проводить постановочные и студийные фотосессии-lovestory и лайф-фотосъемку на свадьбах. Научитесь отбирать лучшие кадры и &lt;b&gt;пр...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f9235fa-56d8-5b19-ac8d-6321c64f77db" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/commercial-photographer-prof</url>
+<price>28400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/09/7fccaabc841ed1c12048f2a99e0e986b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Коммерческий фотограф.</name>
+<description>Практический курс, на котором вы научитесь работать в портретной, предметной и студийной фотографии. Оформите портфолио &gt;20 обработанными снимками и сможете &lt;b&gt;брать заказы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d31c0ba9-ec2e-3724-cc5e-6316facceeda" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/photographer</url>
+<price>6500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/7ad227b5871f3d55b80302c47fd68197.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фотографии для начинающих.</name>
+<description>Вы научитесь настраивать камеру, работать с ручными режимами съемки и освещением. &lt;b&gt;Сможете делать четкие и яркие снимки.&lt;/b&gt; Создадите более 15 динамичных и статичных фот...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/photographer-advanced3</url>
+<price>5950</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/b5a3391bde7d4900ea8b0e164827bf86.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессиональной фотографии.</name>
+<description>Вы научитесь проводить студийные и стилизованные съемки, работать с любым освещением и моделями. Соберете &gt;10 работ для портфолио и сможете организовывать &lt;b&gt;профессиональн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="10" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/photoshop</url>
+<price>7150</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/86a051a433d8c9ee92d23e0240935272.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы обработки фотографии.</name>
+<description>Практический курс, на котором вы &lt;b&gt;обучитесь работе в Photoshop и Lightroom.&lt;/b&gt; Узнаете, как создать пресеты для быстрой обработки фотографий, и использовать ретушь для с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="75" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/photoshop-advance</url>
+<price>7150</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/09/2b9a7f2f7c8f906285c48709d0768bff.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессиональной ретуши.</name>
+<description>На практическом курсе вы &lt;b&gt;соберете &gt;5 работ для портфолио:&lt;/b&gt; ретушь для журналов и рекламы, портретная мужская и женская фотография. Сможете выполнять beauty-ретушь для...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="25f69cec-7456-1814-2a59-62ac6f44040d" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/kursy-portretnoj-fotografii</url>
+<price>8700</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/f409d450a824c2e23617b388b8917f58.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы портретной фотографии.</name>
+<description>Станьте портретным фотографом: научитесь снимать бытовые и креативные фотосессии, создавать групповые фотографии, делать бьюти-ретушь на портретах. &lt;b&gt;Соберите профессионал...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f2d141c9-96de-be4b-bd3b-631ef92ced19" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/wedding-photographer</url>
+<price>4900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/09/c2e6210e0b1b777e1274dff5fc788434.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы свадебной фотографии.</name>
+<description>Вы научитесь составлять мудборд фотосессии, работать в стиле lovestory и проводить съемки всего праздничного дня от утра невесты до торта. Сможете зарабатывать &lt;b&gt;от 3000 р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="15ee17f4-ee18-b85e-6511-62ac6e629385" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/commercial-photography-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/4f40ccdbc25304a2ae24b47c02d09a9d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы предметной фотографии.</name>
+<description>Прокачайте навыки предметной фотографии: ознакомьтесь с оборудованием, научитесь организовывать фотосессию со спецэффектами, снимайте сложные предметы и &lt;b&gt;соберите професс...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a06b101d-43ef-0220-5d9b-631ef9cb83f0" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/detskoe_i_semeynoe_foto</url>
+<price>3900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/09/925288e04a3a7383ee801ec2ef17e41d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы семейной и детской фотографии.</name>
+<description>Вы научитесь настраивать контакт с людьми разных возрастов и проводить детские, семейные и парные фотосессии. Сможете брать заказы на съемки в студии, городе и на природе &lt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="cb37bd5a-f3c8-60a5-a2ca-634ea0ef6891" available="true">
+<url>https://novokuznetsk.videoforme.ru/photoschool/advertising-photo-courses</url>
+<price>7500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/10/0a858dc1735f358de6638362d02683f8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы рекламной фотографии.</name>
+<description>Научитесь проводить рекламные фотосессии и создавать интересные кадры для журналов, лукбуков, каталогов. Сможете работать с локальными и крупными брендами и &lt;b&gt;зарабатывать...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5536d5e8-3339-e5ed-930d-63a2d5a9feba" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/videograf-prof</url>
+<price>25500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/789d511796df51cc5266ed70a9fe4101.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Видеограф от нуля до профи.</name>
+<description>Вы научитесь снимать и монтировать имиджевые ролики, проморолики к товарам, видео для тематических мероприятий. &lt;b&gt;Научитесь монтировать в Adobe Premier Pro и применять эфф...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="91010ce1-9e55-6282-514f-638ddad18a39" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/videoblogger-prof</url>
+<price>24000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/07/3eb6af0e932f580bbb60a043dbe2f242.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Видеоблогер от нуля до профи.</name>
+<description>Вы определите свои сильные стороны и пути развития в блогинге, напишите сценарии и снимите первые ролики на YouTube. &lt;b&gt;Сможете быстро раскрутить и монетизировать канал бла...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="32930b7e-35cb-85ce-28a3-6384adcab21d" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/event-organizer-prof</url>
+<price>19400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/4658e7dc97658a8c4caf5508a6c62039.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Организатор мероприятий.</name>
+<description>Научитесь организовывать и проводить успешные мероприятия под ключ в любом формате для крупных заказчиков &lt;b&gt;и станьте востребованным специалистом в event-индустрии с доход...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4f50c6a3-c86a-bc70-2b91-636cd18a9b67" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/dubbing-actor-prof</url>
+<price>19000</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/7530d60d892d9e944692f51e84de97a3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Актер дубляжа.</name>
+<description>Практический курс, на котором вы поставите речь, научитесь работать с дыханием, озвучите аудиокнигу, сцены из фильмов и научитесь записывать &lt;b&gt;собственные проекты и подкас...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b537a7e6-4fd1-73de-751b-637623614ce6" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/tv-radio-host-prof</url>
+<price>28600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/7a699db65f5a92c99b1871c1a6a95ac0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Телерадиоведущий.</name>
+<description>Практический курс, на котором вы поставите четкую речь, научитесь импровизировать и готовиться к эфирам. Вы сможете начать карьеру ведущего на радио и телевидении или &lt;b&gt;за...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f50e0d69-640d-8a54-10d4-63762f2f3c87" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/entertainer-prof</url>
+<price>18900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/11/6426eaf5b1d1ba964e343c74e7bd18dd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Конферансье.</name>
+<description>Вы научитесь писать сценарии мероприятий и удерживать внимание публики, поставите четкую речь. Сможете без страха выступать перед большой аудиторией и проводить &lt;b&gt;мероприя...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2aa9854-5ab7-4279-c769-601ac52be309" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/video-editing</url>
+<price>6800</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/07/7f75bfb807bba2107601eb26b2bed04b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы по мобильной видеосъемке.</name>
+<description>Вы научись снимать и монтировать эффектные видеоролики на телефон Android и IPhone. Научитесь работать со звуком, создавать динамичный монтаж видео, которые будут собирать ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9087eb4c-f29b-7bd6-1cc9-605350af603b" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/videograf</url>
+<price>12350</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/21f0b67086954ecc02b3eb589f1934bc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы видеосъёмки и монтажа.</name>
+<description>Вы научитесь снимать атмосферные рекламные ролики и монтировать их в &lt;b&gt;программе Adobe Premiere Pro.&lt;/b&gt; Сможете создавать цепляющие видео для своего блога или делать на з...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="752cd668-2f8e-0ab3-6137-62b48ae3cce0" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/videoblogging-course</url>
+<price>8900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/06/bf2f25c7adb5f4f1503deb93dc00680c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы видеоблогеров (youtube).</name>
+<description>&lt;b&gt;Начните путь видеоблогера:&lt;/b&gt; освойте инструменты Youtube, создайте концепцию своего блога, начните снимать качественные видео и продвигать блог. Зарабатывайте на монет...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ec3a58d2-5ecf-727b-0fa2-604b7b854aa8" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/journalist</url>
+<price>7300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/1c6bd3ae911a85f2c53b594df6c99fbc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы журналистики.</name>
+<description>Практический курс, на котором вы научитесь &lt;b&gt;писать новостные и рекламные тексты,&lt;/b&gt; готовить репортаж и проводить интервью. Научитесь писать увлекательные статьи на зака...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="44" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/screenwriter</url>
+<price>6300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2016/07/5618744da56c52c9f71c75e62538b611.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сценаристов.</name>
+<description>Практический курс, на котором вы научитесь придумывать сюжеты и оригинальных персонажей, &lt;b&gt;узнаете секреты создания захватывающих историй&lt;/b&gt; и напишите 5 разных сценариев...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="625be46e-d44c-9583-61a3-6298853cedce" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/event-organizer</url>
+<price>11400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/3d8cecb79bf44a020def5443109ada0e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы event-менеджеров.</name>
+<description>Научитесь организовывать, продвигать и проводить успешные мероприятия в любом формате для крупных заказчиков и станьте &lt;b&gt;востребованным специалистом&lt;/b&gt; в event-индустрии,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8de30aab-112e-2261-56cf-610d5167bbdb" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/writer-course</url>
+<price>18200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/03/889f3301cbfa8a15cd863af80a5b2133.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы писательского мастерства.</name>
+<description>Вы узнаете, как преодолеть страх чистого листа, &lt;b&gt;научитесь писать в любом жанре&lt;/b&gt; и захватывать внимание читателя с первых страниц. Начните превращать реальные и вымышл...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="31" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/kursy-zvukooperatorov</url>
+<price>10600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2016/07/19cd40388ff8a1229a729a3eb2e88c66.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы звукорежиссёров.</name>
+<description>Научитесь грамотно работать со звуком! Создавайте звуковые эффекты при помощи специальных инструментов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="123" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/kursy-zvukooperatorov_2</url>
+<price>10600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2016/07/5c0b8e46cb8bb8d52e31dae7c0e9f9e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы звукорежиссёров.</name>
+<description>Создавайте собственные готовые звукозаписи! Монтируйте, синтезируйте и сводите звук самостоятельно!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="124" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/sound-producer</url>
+<price>19400</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/b1db462f0190a66464f3e6c3c280ec15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Звукорежиссер.</name>
+<description>&lt;b&gt;Полное погружение в профессию за 1,5 месяца!&lt;/b&gt; Вы получите опыт работы в реальной студии звукозаписи, реализуете свой первый музыкальный проект от идеи и обработки зву...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/tvanchorman</url>
+<price>10200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/64aac405104bb68624dd28c8f0130357.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы телеведущих.</name>
+<description>Вы научитесь работать в прямом эфире, выходить из форс-мажорных ситуаций и уверенно держаться перед камерой. Научитесь записывать подводки к видеоматериалу и подготовите &lt;b...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="40" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/kurs-radiozhurnalistiki</url>
+<price>6950</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/12/9c6322f7d570c1bfffc1a79bd73fb154.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы радиоведущих.</name>
+<description>Вы научитесь создавать авторскую радиопрограмму, записывать подводки и общаться со слушателями в прямом эфире. &lt;b&gt;Создадите демо-запись своего голоса и сможете начать карье...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8c3cc9d7-3874-a80b-ab85-60549bc0458a" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/speaker</url>
+<price>9900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2021/04/602184282c637f98549a4cb30d9f0e70.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дикторов и создания подкастов.</name>
+<description>На курсе вы запустите свой подкаст, узнаете, как сделать проект заметным для слушателей, как продвигать и монетизировать его. &lt;b&gt;Вы освоите технические навыки и начнете пол...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2afd9e2-6dcd-ea35-9b1a-629f237a8358" available="true">
+<url>https://novokuznetsk.videoforme.ru/tvschool/dubbing-courses</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/1e88f0dde1fec221542b70c6a3f28134.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы актерского дубляжа и озвучивания.</name>
+<description>&lt;b&gt;Начните зарабатывать дубляжом:&lt;/b&gt; записывайте озвучку фильмов, сериалов, книг. Научитесь работать с микрофоном, читать с листа, управлять диапазоном своего голоса и син...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="61" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/drawing-1</url>
+<price>8200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2022/07/8481720aaea9c600935a24654a2510cb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы рисования для начинающих.</name>
+<description>Начните рисовать сейчас: поставьте руку под присмотром наставника, перестаньте бояться ошибок и практикуйтесь, начиная с первого занятия! За 5 недель вы научитесь &lt;b&gt;уверен...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="63" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/drawing-2</url>
+<price>5600</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/ba7692b13eed543a5bb2b0cd3838e224.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы акварели.</name>
+<description>Практический курс, на котором вы научитесь создавать картины в 3-х акварельных техниках и в творческой вдохновляющей обстановке &lt;b&gt;создадите свои первые акварельные пейзажи...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="64" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/drawing-3</url>
+<price>5500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/82ef3af3a806aeff92b45837959197fd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы живописи маслом.</name>
+<description>Практический курс, на котором вы сможете освоить техники &lt;b&gt;рисования масляными красками&lt;/b&gt; и научитесь создавать красочные реалистичные картины в стиле работ великих худо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6800b833-1390-1146-571f-6397535811d3" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/drawing</url>
+<price>15200</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2020/12/0882553977d0c57ca77da27df5eee04d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Художник.</name>
+<description>Практический курс, на котором вы научитесь рисовать с нуля. Освоите рисунок в карандаше, акварельные техники и живопись маслом и &lt;b&gt;сможете писать реалистичные картины&lt;/b&gt; ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="320" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/kalligrfiya-1</url>
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/7962e99683007b90e3081e274bfb3168.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы каллиграфии для начинающих.</name>
+<description>Практический курс, на котором вы освоите уникальный навык написания шрифтов и начнете заниматься каллиграфией для себя. Соберете 5 работ в портфолио и сможете превратить &lt;b...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="321" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/kalligrfiya-2</url>
+<price>5900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/cc138ee43d046da02d16d6e527be76eb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы леттеринга для начинающих.</name>
+<description>За 3 недели обучения вы освоите свадебный и ресторанный леттеринг, будете практиковаться в создании стильных надписей, соберете портфолио из работ на курсе и превратите &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="324" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/kalligrfiya_and_lettering</url>
+<price>10900</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/486f1686da7622b4b3bf320f422f838c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы каллиграфии и леттеринга.</name>
+<description>На практических занятиях вы научитесь создавать стильные надписи и шрифтовые композиции. За 5 недель обучения соберете портфолио по ресторанному и свадебному леттерингу и &lt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="257" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/sketching</url>
+<price>5300</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/2f017ee9ef6ebbe4f2d7cb28ca2f562e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы скетчинга.</name>
+<description>Практический курс скетчинга, на котором вы научитесь выполнять зарисовки своих идей и будете создавать яркие иллюстрации в различных жанрах, создадите портфолио из работ и ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8bf453bf-c7c3-0fce-3689-5d889b0fd2a4" available="true">
+<url>https://novokuznetsk.videoforme.ru/risovanie-kaligrafii/drawing_human</url>
+<price>6500</price>
+<currencyId>RUB</currencyId>
+<categoryId>1</categoryId>
+<picture>https://novokuznetsk.videoforme.ru/files/2023/01/9e535865e462e9ed44298107da494957.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы портрета (рисование человека).</name>
+<description>На практических занятиях вы изучите анатомию человека и строение лица, сможете создавать реалистичные портреты. Вы поставите руку, разовьете художественное видение и &lt;b&gt;изу...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

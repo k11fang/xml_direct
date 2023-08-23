@@ -1,0 +1,1458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2023-08-22 23:01">
+<shop>
+<name>МШП</name>
+<company>Международная школа профессий</company>
+<url>https://spbsot.by</url>
+<currencies><currency id="RUR" rate="1"/></currencies>
+<categories>
+<category id="1">Очные курсы</category>
+</categories>
+<offers>
+<offer id="e9b107b2-d06b-4870-d2e1-62ce8cb9484c" available="true">
+<url>https://spbsot.by/market_school/marketing-course</url>
+<price>1200</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/9f4a103ad07ea7331f7338f5f21c2ae0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Интернет-маркетолог.</name>
+<description>&lt;b&gt;Освой все сферы современного интернет-маркетинга:&lt;/b&gt; научись раскручивать бренд, настраивать таргет и контекстную рекламу, привлекать целевую аудиторию, проводить веб-а...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2b5109cf-f49d-44d9-ddda-628b48d5dc28" available="true">
+<url>https://spbsot.by/market_school/smm-manager-prof</url>
+<price>1800</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/5da02546f7e8fdcdf2ed5a71c348b639.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия SMM-менеджер.</name>
+<description>Научитесь продвигать бизнес в социальных сетях: создавать продающие тексты, запоминающийся визуал и запускать таргет. &lt;b&gt;Обновленный под реалии 2023 года&lt;/b&gt; практический к...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="30cbf224-587b-424b-6d1d-62ce8cb2bd71" available="true">
+<url>https://spbsot.by/market_school/crm-marketing-prof</url>
+<price>800</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/afca228d9347501fbd9df145683bb0d8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия CRM-маркетолог.</name>
+<description>Вы научитесь планировать CRM-стратегию, запускать e-mail рассылки и использовать Яндекс.Метрику, Google Analytics для веб-аналитики. &lt;b&gt;Сможете разработать эффективную стра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8f490701-406b-04e4-3ec0-6165a3565ffe" available="true">
+<url>https://spbsot.by/market_school/copywriting-course-starter</url>
+<price>391</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/0aa2ff0a1f035fe0febfebe5298cc9a9.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы копирайтинга.</name>
+<description>Практический курс, на котором вы научитесь писать продающие, рекламные, информационные тексты и посты для социальных сетей. Сможете писать коммерчески успешные тексты и &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1985f0ae-d62c-ab8a-3caa-5f194f6adb1a" available="true">
+<url>https://spbsot.by/market_school/tilda-courses</url>
+<price>320</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/08/33ddcf5317b545ff82b27eff33d742f3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы создания и продвижения лендинга на Tilda.</name>
+<description>Вы научитесь разрабатывать маркетинговую стратегию, &lt;b&gt;создавать продающие сайты на Tilda&lt;/b&gt; и продвигать их в топ поисковой выдачи. Сможете зарабатывать от 15000 за разра...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="24" available="true">
+<url>https://spbsot.by/market_school/producer</url>
+<price>160</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/04/88a43b939c0ca5bab993dea98c077fb1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продюсирования проектов.</name>
+<description>&lt;b&gt;Вы научитесь организовывать коммерческие видео- и фотосъемки:&lt;/b&gt; от идеи до постпродакшна. Сможете работать над сценарием, координировать съемки, рассчитывать бюджет и ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1d311eac-5ff0-923b-f6ab-5ee8f0ccf349" available="true">
+<url>https://spbsot.by/market_school/crm-marketing-courses</url>
+<price>160</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/09/b0c8986b09961fb0e61a560ec183e566.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы CRM-маркетинга для начинающих.</name>
+<description>&lt;b&gt;Освоите инструменты CRM-маркетинга&lt;/b&gt; для работы с базой клиентов: разработка пуш-уведомлений, email-рассылок, триггерных цепочек, воронок продаж. Сможете привлечь новы...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="acbb79cd-9c66-f466-71dc-615ff6e0a727" available="true">
+<url>https://spbsot.by/market_school/storytelling</url>
+<price>282</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/a57457e0bb13ce54dcec56dee0cc01a4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сторителлинга.</name>
+<description>За 5 занятий научитесь составлять концепции истории под разные коммерческие задачи и внедрять их в бренд в соцсетях. &lt;b&gt;Создадите свою индивидуальную историю и отработаете ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="273" available="true">
+<url>https://spbsot.by/designschool/computer_graphics</url>
+<price>550</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/816a5d22aab289a408c4ca216ec47561.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Графический дизайнер.</name>
+<description>За время обучения соберете более &lt;b&gt;5 работ в портфолио:&lt;/b&gt; логотип, афиша, дизайн мерча и другую айдентику для брендов. &lt;b&gt;Берите заказы на фрилансе во время обучения&lt;/b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7000124" available="true">
+<url>https://spbsot.by/designschool/florist-designer</url>
+<price>230</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/0c74f064cc8d9cb36f92ec95b1389524.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Флорист-дизайнер.</name>
+<description>На курсе вы сделаете более &lt;b&gt;10 цветочных композиций,&lt;/b&gt; получите рекомендации наставника и диплом флориста-дизайнера. Сможете оформлять композиции на заказ и начать рабо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="148" available="true">
+<url>https://spbsot.by/designschool/3d-modeling-expanded</url>
+<price>420</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/b010cea113e861641382f6d35010e396.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-визуализатор интерьера.</name>
+<description>Во время обучения вы освоите 3D max для полноценной работы дизайнером интерьера: &lt;b&gt;соберете портфолио и сможете брать заказы уже в процессе учебы&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6547550e-e4a9-fea9-5366-61a09b6b76f5" available="true">
+<url>https://spbsot.by/designschool/motion_design</url>
+<price>992</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/937348a32f6ff5f49738d27182840591.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Моушн-дизайнер.</name>
+<description>Практический курс, на котором вы соберете первые работы для портфолио: визуальные эффекты, анимацию, 3D-графику. &lt;b&gt;Начнете развиваться в цифровом творчестве&lt;/b&gt; и зарабаты...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="812b9ca9-c6a7-ed4e-013f-6095616db62f" available="true">
+<url>https://spbsot.by/designschool/landscape-designer-prof</url>
+<price>670</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/05/84a7be9bf1af671567111626282ff4e6.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Ландшафтный дизайнер.</name>
+<description>За 3 месяца обучения научитесь проектировать на заказ 3D-модели участков и экстерьера &lt;b&gt;с помощью AutoCAD, ScetchUp и 3Ds max&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d4dc9c18-46e1-b6db-f365-61711d3e3740" available="true">
+<url>https://spbsot.by/designschool/tilda-webdesign-prof</url>
+<price>975</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/f57e48c29bb5cb59c650bf779628f3c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Дизайнер сайтов на Tilda.</name>
+<description>Во время обучения соберете 3 проекта в портфолио: создадите интерактивный прототип, пропишете понятные тексты для пользователей &lt;b&gt;и разработаете собственный сайт на Tilda&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9db0bd9-6f71-813b-89cc-630c76860c62" available="true">
+<url>https://spbsot.by/designschool/digital-illustrator-prof</url>
+<price>1000</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/2b9628220676bfcdb3c6f2300833697c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Коммерческий digital-иллюстратор.</name>
+<description>&lt;b&gt;Начните создавать яркие иллюстрации в Photoshop и Illustrator&lt;/b&gt; для брендов, изданий, рекламных кампаний. По итогу курса в портфолио - набор иконок, мокапы бренд-проду...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="321303ff-201e-3155-5d5e-61adde77b3a1" available="true">
+<url>https://spbsot.by/designschool/3d-artist-prof</url>
+<price>1432</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/40ded2cd89fc1750d1bdca85558c34ce.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия 3D-художник в геймдеве.</name>
+<description>За время обучения освоите разработку персонажаей и окружения в Adobe Photoshop и Adobe Animate, а также освоите &lt;b&gt;Blender 3D, 3D max и соберете портфолио для гейм-студии&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="254" available="true">
+<url>https://spbsot.by/designschool/landscaping</url>
+<price>360</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/06/85c73b1315226e7871a0a69567d0fbdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ландшафтного дизайна.</name>
+<description>Практический курс, на котором вы научитесь анализировать участок, подбирать растения и цветники, создавать план с зонированием и освещением. &lt;b&gt;Разработаете дизайн своего у...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="19283606-67d3-b0a4-d9c3-646f3ce24700" available="true">
+<url>https://spbsot.by/designschool/interior_design_1</url>
+<price>360</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/adf4ceb231f8bb5ec721d42d6d024d33.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна интерьера.</name>
+<description>Вы научитесь планировать удобное пространство, подбирать декор и мебель, создавать комфортный и современный дизайн интерьера. &lt;b&gt;С нуля создадите полноценный дизайн-проект ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="149" available="true">
+<url>https://spbsot.by/designschool/layout_magazines</url>
+<price>290</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/4875937d05cccca7ab5b7edd33463497.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Indesign (Индизайн) .</name>
+<description>Узнай принцип создания самых известных глянцевых журналов! Научись работать с программами верстки журналов всего за 6 занятий!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="203" available="true">
+<url>https://spbsot.by/designschool/fashiondesign-1</url>
+<price>210</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/08/c84e6ba35625acae8dfe97a2d09b2380.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды.</name>
+<description>Познакомьтесь с историей моды, принципами композиции костюма и модными тенденциями! Научись создавать эскизы и подбирать ткани для их воплощения!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="204" available="true">
+<url>https://spbsot.by/designschool/fashiondesign-2</url>
+<price>210</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/08/f43162fad409605a33cc7b367a5590ad.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дизайна одежды.</name>
+<description>Здесь вы узнаете, как создать собственную коллекцию, составить мудборд и подобрать ткани! Познакомьтесь со всеми этапами проектирования и производства костюма!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="145" available="true">
+<url>https://spbsot.by/designschool/3d-modeling</url>
+<price>195</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/d71ff34ba9776c811023d62638164d03.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3D-моделирования.</name>
+<description>Вы с нуля научитесь создавать сложные трехмерные объекты и сцены из простых фигур и линий в программе 3D’s max. Пополните портфолио новыми работами &lt;b&gt;и сможете поднять цен...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="146" available="true">
+<url>https://spbsot.by/designschool/3d-modeling-advanced</url>
+<price>195</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/cfc4d1992e7fa700bb26d64ef92bd348.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3D-визуализации.</name>
+<description>Вы научитесь создавать трехмерные сцены и работать с материалами V-ray, настраивать освещение и камеру в 3Ds Max. &lt;b&gt;Пополните портфолио новыми работами&lt;/b&gt; и сможете подня...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="147" available="true">
+<url>https://spbsot.by/designschool/3d-modeling-advanced3</url>
+<price>195</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/6d01a6008ef8ad8df131a54a2ca1ed78.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3DS MAX для дизайнеров интерьера.</name>
+<description>Во время обучения на курсе 3D Max для дизайна интерьера научитесь создавать интерьерные визуализации с проработанными объектами для дизайн-проектов с нуля.  Создавайте каче...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="32fe4631-6ccf-16d2-5677-5e5f947aad7d" available="true">
+<url>https://spbsot.by/designschool/ux-design</url>
+<price>250</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/6ca4fe6bfd6b9031c4daea9c931ef79a.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы UX-дизайна.</name>
+<description>Научитесь проектировать удобные и привлекательные для пользователей продукты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8dc8daa7-c960-3053-1a80-5e5d087f6e12" available="true">
+<url>https://spbsot.by/designschool/autocad-design</url>
+<price>210</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/49a884cb1247599a4ce6c3b2ac9db1f0.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы AutoCAD для дизайнеров интерьера.</name>
+<description>Во время обучения на курсе автокад для дизайна  интерьера Вы научитесь создавать планы расстановки мебели, отделки помещений и размещения электрооборудования. Вы научитесь ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5dd42307-6785-bd31-7785-601807f5b1f8" available="true">
+<url>https://spbsot.by/designschool/blender-courses</url>
+<price>406</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/d13d8d87da126b7c0f1f79e7c462ecc5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Блендера (Blender 3D).</name>
+<description>Во время обучения на курсе моделирования в блендер (blender 3d) для начинающих научитесь моделировать статичные сцены, персонажей и анимацию для кино, игр, мультфильмов. Со...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d46efef3-6011-5139-e210-6038fa875c9c" available="true">
+<url>https://spbsot.by/designschool/procreate-courses</url>
+<price>240</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/03/1dae39d3942d63c2a450cb7cbf8aca83.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы рисования в Procreate.</name>
+<description>На курс иллюстрации в Procreate создавайте digital-иллюстрации на Ipad. Вы научитесь Procreate с нуля, начиная с инструментов и настроек и заканчивая созданием проектов. Ис...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="338923d5-9a02-6b8b-0581-608911b0d85b" available="true">
+<url>https://spbsot.by/designschool/exterior-3d-modeling-courses</url>
+<price>231</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/38e7331b9893c14b617dbe1747b4e721.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы 3Ds Max для экстерьера.</name>
+<description>На курсе архитектурной визуализации экстерьера в 3D Max узнайте технологию создания сложных материалов, освещения и выбора выгодного ракурса. Научитесь создавать статичные ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="bef6f55d-a4a0-17a1-97d3-6089146dec31" available="true">
+<url>https://spbsot.by/designschool/drawing-characters-courses</url>
+<price>235</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/134291e3cc07a700d48e226ae93230c7.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы рисования персонажей в Adobe Illustrator.</name>
+<description>&lt;b&gt;Начните рисовать ярких героев в AI&lt;/b&gt; для сайтов, соцсетей, бизнеса и рекламных кампаний! Вы научитесь создавать персонажей в разных стилях и стилизовать их. Итог курса...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="14697339-45c5-a258-ea7b-6197a728f126" available="true">
+<url>https://spbsot.by/designschool/cinema-4d-courses</url>
+<price>387</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/083c9494ff90cef70c7b5bb3d2ac8525.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Cinema 4D.</name>
+<description>Курс позволит прокачаться в графическом дизайне: вы научитесь делать динамичные анимированные работы, которые &lt;b&gt;пополнят ваше портфолио и позволят брать больше заказов&lt;/b&gt;</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="42915d58-83a0-342e-07db-61a09bb18b88" available="true">
+<url>https://spbsot.by/designschool/casual-graphics-courses</url>
+<price>281</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/6c3050bc43eef85220ed16f399eda22c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы казуальной графики: стилизация игры.</name>
+<description>Станьте успешным 2D-художником в казуальной стилистике и создавайте графику для игр</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="532353f1-37be-9754-0966-62909e404fdf" available="true">
+<url>https://spbsot.by/designschool/archicad-courses</url>
+<price>450</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/06/2a68e57ea0024182a17397d6bec028a3.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ArchiCad для дизайнеров интерьера.</name>
+<description>Научитесь эргономично планировать пространство, создавать дизайн интерьера в разных стилях с помощью программы ArchiCAD. Создадите проект для реальной квартиры в портфолио,...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d401087b-babd-d792-3164-646f3da21e7b" available="true">
+<url>https://spbsot.by/designschool/photoshop-practicum</url>
+<price>174</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2023/06/e1e969106760bae88eb86e029a09cc5d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практикум: интерьерные коллажи в Adobe Photoshop.</name>
+<description>Вы научитесь быстро собирать коллажи квартиры для наглядных визуализаций любых идей в интерьере. Сможете создавать реалистичные изображения и &lt;b&gt;презентовать яркие интерьер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="d7e2cab3-6f5f-4128-ec6a-6297460195cb" available="true">
+<url>https://spbsot.by/computer-programming-school/frontend-developer-prof</url>
+<price>1700</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/06/4b3a749c2a996dda311d596bd6b1e986.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Frontend-разработчик.</name>
+<description>Практический курс, на котором освоите HTML, CSS, JavaScript и научитесь разрабатывать пользовательские веб-приложения. Вы сможете &lt;b&gt;начать карьеру разработчика в IT-компан...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="70f29f1c-3025-9f97-2dd0-62ce8c904158" available="true">
+<url>https://spbsot.by/computer-programming-school/web-analytics-courses</url>
+<price>370</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/10/886df267f79692ffaf77f502a5c377bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы веб-аналитики (Яндекс Метрика и Google Analytics).</name>
+<description>&lt;b&gt;Вы научитесь настраивать систему аналитики,&lt;/b&gt; исследовать пользователей и управлять развитием бизнеса, принимая решения на основе данных. Сможете повысить эффективност...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dee32937-139f-f3b6-6f30-5ea71cdf94ca" available="true">
+<url>https://spbsot.by/computer-programming-school/html-and-css-for-beginners</url>
+<price>235</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/06/3f712e8fd296a9fdfee7370d802de6fb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы HTML и CSS для начинающих.</name>
+<description>&lt;b&gt;Вы научитесь верстать адаптивные веб-страницы, добавлять эффекты и анимацию.&lt;/b&gt; Сможете менять стиль любых элементов сайта и брать заказы по верстке на фрилансе от 5000...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4b10982c-01ac-36b8-9103-60d1a67053be" available="true">
+<url>https://spbsot.by/computer-programming-school/sql-for-beginners</url>
+<price>534</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/a1150208a865ed22d4decee9325a0382.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы SQL для аналитиков.</name>
+<description>&lt;b&gt;Научитесь управлять данными&lt;/b&gt; без разработчиков в СУБД. Используйте SQL-запросы, когортный анализ и Google BigQuery для аналитики данных: расчета продуктовых метрик, п...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e2603143-2b3e-8a85-6f4c-60d5e5c523c5" available="true">
+<url>https://spbsot.by/computer-programming-school/python-for-beginners</url>
+<price>1040</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/001925ce9a07b34a1fc82d67c746b4ee.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы Python для аналитиков.</name>
+<description>Начните обрабатывать большие объемы данных, автоматизировать интернет-аналитику и визуализировать данные для отчетов. Избавитесь от рутинных задач и &lt;b&gt;увеличите скорость о...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="dd47af43-009e-da99-29f9-62627343de24" available="true">
+<url>https://spbsot.by/computer-programming-school/javascript-courses</url>
+<price>1200</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/05/f0d474fe9f9c93067d8f4e191494c632.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы JavaScript.</name>
+<description>Практический курс, на котором вы научитесь писать код для пользовательских веб-приложений на популярном языке программирования JavaScript. &lt;b&gt;Сможете начать свой путь в IT-...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ecad03b0-4cce-4cb9-0d91-643d1b56616d" available="true">
+<url>https://spbsot.by/psychology/psychologist-consultant-prof</url>
+<price>1745</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/01/bcb21e4a6892a68538e7274a2bb8a790.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Психолог-консультант.</name>
+<description>&lt;b&gt;Освойте профессию психолога-консультанта:&lt;/b&gt; консультируйте в своем кабинете или онлайн, работайте сами на себя, зарабатывайте деньги, решайте свои личные проблемы и по...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9938acd5-8ed3-4611-4e36-643fffbc35be" available="true">
+<url>https://spbsot.by/psychology/corporate-psychologist-prof</url>
+<price>950</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/04/8eb541a3c48e5ac1b2f74642571d6c38.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Корпоративный психолог.</name>
+<description>Начните практику корпоративного психолога и проводите коуч-сессии в крупных компаниях для обучения и развития персонала</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a49ec3ba-5b1e-c170-7346-62d808140452" available="true">
+<url>https://spbsot.by/psychology/practical-astrology-prof</url>
+<price>510</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/07/68cbf0df61ab96ff4259b3e5e7d27d14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Полный курс астрологии.</name>
+<description>Практический курс, на котором вы научитесь лучше разбираться в людях с помощью гороскопов, интерпретировать натальные карты и составлять астрологический прогноз, &lt;b&gt;чтобы р...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="479c4afb-5734-f959-b611-64400b3bdf2f" available="true">
+<url>https://spbsot.by/psychology/game-therapist-prof</url>
+<price>1000</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/08/16fc84eca67545c5e82d8e0b19c9bb15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Игропрактик.</name>
+<description>&lt;b&gt;Освойте актуальную профессию в игротерапии:&lt;/b&gt; научитесь вести трансформационные игры, создайте авторскую игру под руководством опытного игротехника, используйте МАК в ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="573b7477-2939-1772-5c99-64400e31911e" available="true">
+<url>https://spbsot.by/psychology/art-therapist-prof</url>
+<price>1680</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/08/75d065704fa07f5e67aa26888a014eb2.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Арт-терапевт.</name>
+<description>&lt;b&gt;Профессиональный практический курс,&lt;/b&gt; на котором вы освоите различные методы арт-терапии для бережной психологической работы с клиентами разного возраста. Сможете прим...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="241" available="true">
+<url>https://spbsot.by/psychology/psychology_of_relations</url>
+<price>230</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/04/259d8a6c0ceaa4d167e385452a87f6ba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии отношений мужчины и женщины .</name>
+<description>&lt;b&gt;Вы улучшите отношения со второй половинкой.&lt;/b&gt; Узнаете, как сохранить любовь в браке и преодолеть конфликты и кризисы. Восстановите гармонию в паре и снова посмотрите д...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="237" available="true">
+<url>https://spbsot.by/psychology/children_psychology</url>
+<price>230</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2017/04/27e33840b2e9890ced9e5ffae8251207.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детской психологии для родителей .</name>
+<description>Научитесь без нервотрепки и конфликтов воспитывать детей в гармоничной семье - узнайте, как вести себя с плачущим ребенком, как прививать хорошие привычки и как подготовить...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a9b53bcd-fd62-e858-6c6d-610175ac3669" available="true">
+<url>https://spbsot.by/psychology/neurolinguistic</url>
+<price>390</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/08/22dc80f692defe87079780c8eea3416f.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Практический курс НЛП.</name>
+<description>&lt;b&gt;Внедрите техники НЛП в вашу жизнь:&lt;/b&gt; управляйте эмоциями и изменениями в вашей жизни, визуализируйте позитивный опыт и достигайте всех поставленных целей с помощью ней...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="5ae7ea41-17c7-7479-6240-5f92a44339f3" available="true">
+<url>https://spbsot.by/psychology/prognostic-courses</url>
+<price>230</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/03/cc6e753985234b4c9d0021640eee6a68.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы прогностики в астрологии.</name>
+<description>Научитесь прогнозировать события в вашей жизни с помощью метода транзитов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b33e82d5-7149-387e-e2cb-5ef5bd43494d" available="true">
+<url>https://spbsot.by/psychology/psychology_diagnostics</url>
+<price>275</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/01/dcb62aa3a1695b1bc8057d3fc70bd865.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы практической психодиагностики.</name>
+<description>Вы научитесь составлять исследования, грамотно проводить психодиагностику, интерпретировать результаты и использовать их для работы с клиентом. &lt;b&gt;Вы изучите незаменимый ин...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="aaea114c-586c-a70b-7585-62f4efebb56d" available="true">
+<url>https://spbsot.by/psychology/game-psychology-courses</url>
+<price>480</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/08/04ca2e0a773a1426dcd4838c7a6debce.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы игротерапии и психологических игр.</name>
+<description>Вы научитесь проводить трансформационные игры, ориентированные на глубокое познание себя и работу со стереотипами и убеждениями. &lt;b&gt;Благодаря этой технике вы сможете эффект...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="87de3967-1de2-9e2c-6936-61766eca2ced" available="true">
+<url>https://spbsot.by/psychology/business-psychology-courses</url>
+<price>278</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/a3fd86326e3830b15aca6a328a5314c5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы бизнес-психологии для HR.</name>
+<description>Повысьте квалификацию, пройдя курс, и &lt;b&gt;начните консультировать&lt;/b&gt; бизнесменов и менеджеров по вопросам улучшения психологического климата в коллективе, решения конфликто...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="541dd715-b7f8-7041-6910-619223e79aab" available="true">
+<url>https://spbsot.by/psychology/borderline-disorders-courses</url>
+<price>280</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/11/d1733ba5cba6003f53d79b2ff62cfae5.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы диагностики пограничных расстройств.</name>
+<description>&lt;b&gt;Расширьте свою зону компетенций:&lt;/b&gt; научитесь отличать норму от патологий, различать нейропсихологические синдромы и клиентов с зависимостями и психическими расстройствами</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="37b00989-d677-ed72-b3d2-61c1f62b3678" available="true">
+<url>https://spbsot.by/psychology/emotional-intelligence-courses</url>
+<price>282</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/c7ff88b870037def3c3bb9efc1a65cdd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эмоционального интеллекта.</name>
+<description>Погрузитесь в практику и узнайте нового себя: уверенного, открытого и смелого! &lt;b&gt;Научитесь анализировать свои эмоции,&lt;/b&gt; противостоять негативу и манипуляциям, выражать с...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e7277c62-54a8-51ef-593c-62f6205938c3" available="true">
+<url>https://spbsot.by/psychology/art-therapy-courses</url>
+<price>480</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/08/ad8a5940a7b66039f583736eac3a3289.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы арт-терапии для психологов.</name>
+<description>&lt;b&gt;Научитесь проводить арт-терапию,&lt;/b&gt; соберите стартовый набор материалов для терапии, обустройте арт-терапевтическую зону и повысьте доход за счет услуг традиционной и и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9f666cf7-8fff-a303-08ea-62f63e62e584" available="true">
+<url>https://spbsot.by/psychology/fairy-tale-therapy-courses</url>
+<price>480</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/08/39a744fab621479e5f9f8b693e4c07a1.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сказкотерапии.</name>
+<description>&lt;b&gt;Научитесь работать с бессознательным&lt;/b&gt; клиента с помощью сказкотерапии. Используйте авторские сказки на сессиях с детьми и взрослыми, комбинируйте лучшие психологическ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="7166d62c-2de1-8c91-bc52-6303581e467a" available="true">
+<url>https://spbsot.by/psychology/pediatric-neuropsychology-courses</url>
+<price>775</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/08/efa886cef9e3959a2dab44585e89726b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы детской нейропсихологии и психокоррекции.</name>
+<description>&lt;b&gt;Научитесь проводить детскую психокоррекцию и нейропсихологическую коррекцию:&lt;/b&gt; научитесь диагностировать детей, проводить нейрокоррекцию, узнайте техники коррекции в н...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3715ac49-5256-4a2e-e88b-643d16d1c876" available="true">
+<url>https://spbsot.by/psychology/psychology-courses</url>
+<price>445</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2023/05/cbac0b46abc5eb1eb7ae4752afb45b62.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы психологии для себя: ментальное здоровье.</name>
+<description>&lt;b&gt;Практический курс для увлеченных психологией:&lt;/b&gt; на занятиях научитесь лучше понимать себя, свои эмоции и поведение, а также общаться и взаимодействовать с окружающими</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3a742820-18fa-aa44-6896-643e810c579d" available="true">
+<url>https://spbsot.by/actors_school/speech-art</url>
+<price>690</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/bb09af5e83c632130213dd85647e70bf.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы ораторского мастерства.</name>
+<description>Практический курс, на котором вы овладеете искусством выступлений. Поставите голос, проработаете дикцию и научитесь уверенно выступать и убеждать публику всего &lt;b&gt;за 3 меся...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="162" available="true">
+<url>https://spbsot.by/actors_school/singer</url>
+<price>345</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/bc642bef9ca1a9f15d03bf98223c2d0a.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы вокала .</name>
+<description>Улучши собственные вокальные способности, вне зависимости от наличия и уровня подготовки! Перестань опасаться собственного голоса и будь смелым на публике уже через 5 занятий!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="efece6c6-5e2e-7692-ce54-643e808358bc" available="true">
+<url>https://spbsot.by/actors_school/speaking-courses</url>
+<price>314</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2023/05/6fddb8bfe26c494ebe6019379e82580d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы уверенного выступления.</name>
+<description>Вы выйдете на новый уровень публичных выступлений, научитесь продающим презентациям, потренируетесь выступлениям со стресс-факторами &lt;b&gt;и создадите свой личный образ спикер...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="daaa0ecb-75a0-70ea-0ccf-61a09a2abc1a" available="true">
+<url>https://spbsot.by/business_school/sales-manager</url>
+<price>275</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/f3300f03783d9ae9ce70c7aa1cbf187b.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Менеджер по продажам.</name>
+<description>Вы освоите техники продаж, &lt;b&gt;узнаете, как увеличить средний чек,&lt;/b&gt; и научитесь работать с возражениями. &lt;b&gt;Сможете успешно выполнять план,&lt;/b&gt; выстраивать воронку продаж...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="c8f66334-2e50-7e89-8771-61ba0c36f580" available="true">
+<url>https://spbsot.by/business_school/business-process-courses</url>
+<price>622</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/04cf2719e32e93ba6a5ac9e10a160976.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы управления бизнес-процессами.</name>
+<description>Во время обучения на курсе управления и автоматизации бизнес-процессов вы разработаете систему оценки эффективности, определите риски и пути их преодоления. Создадите кейс ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="da4b1b4d-4e9c-5f15-1e05-6261175538be" available="true">
+<url>https://spbsot.by/business_school/product-manager-courses</url>
+<price>1300</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/04/964f33c7f3c3bfbd4fadf9f39ad7c618.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы product-менеджера.</name>
+<description>Создавайте востребованные на рынке продукты даже в условиях кризиса и начните перспективную карьеру product-менеджера</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="65" available="true">
+<url>https://spbsot.by/business_school/vm-1</url>
+<price>230</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/7388aa53bdf5dad876ee710650844acd.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визуального мерчандайзинга.</name>
+<description>На обучении визуальных мерчендайзеров Вы научитесь привлекать покупателей именно к вашему товару. Грамотно разделяйте торговый зал на зоны активности. Вы научитесь использо...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8be6e376-0a46-12dd-8cfb-6239ca603779" available="true">
+<url>https://spbsot.by/business_school/commodity-specialist-courses</url>
+<price>430</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/04/388a8fb88a30219f6a4302f74a0c365c.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы товароведа.</name>
+<description>Эффективно взаимодействуйте с поставщиками, организовывайте успешную реализацию товара и станьте востребованным специалистом</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="6b245de7-d82e-76d8-0bf1-626baed9855a" available="true">
+<url>https://spbsot.by/business_school/crypto-trading-courses</url>
+<price>430</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/05/acc402469be1a304ee659754523f3923.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы торговли криптовалютой.</name>
+<description>Обеспечьте финансовую независимость и безопасность ваших сбережений с помощью торговли криптовалютой и инвестирования в монеты</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1bb96212-bc8b-5b88-a06e-61a099bbb8c1" available="true">
+<url>https://spbsot.by/business_school/sales-beginner-2</url>
+<price>280</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/f31ebc64827373d0e5630f4ba758e541.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы техник продаж.</name>
+<description>Научись использовать актуальные техники продаж и увеличения среднего чека, а также работать со сложными клиентами</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2a0add87-017a-722f-bb8a-5f049a436521" available="true">
+<url>https://spbsot.by/business_school/negotiation-training</url>
+<price>33</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/02/323e6108acc044be6abfb34db69103de.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тренинг &amp;quot;Ведение переговоров&amp;quot;.</name>
+<description>Овладейте действенными методиками ведения переговоров и достижения поставленных целей</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1752a5a3-79ac-e5b3-1765-60a376fda14e" available="true">
+<url>https://spbsot.by/business_school/start-a-career</url>
+<price>143</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/08/178a8eb50525d89f9fa2d54fdc483fdc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы &amp;quot;Начало карьеры&amp;quot;.</name>
+<description>Создайте продающее портфолио, цепляющее резюме и начните карьеру в компании или на фрилансе</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="19307305-ca5c-3d7c-e947-61baf255f068" available="true">
+<url>https://spbsot.by/business_school/hr-branding-courses</url>
+<price>280</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/12/8fbee4c0fb140d07f53a10c3d4dde9fc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы HR-брендинга.</name>
+<description>После обучения hr брендингу Вы научитесь создавать привлекательный образ работодателя  и привлекать лучших кандидатов в компанию. На обучении HR бренду Вы научитесь создава...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="47ab643c-77dd-7439-3e42-61fb9373d15b" available="true">
+<url>https://spbsot.by/business_school/project-manager-courses</url>
+<price>867</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/03/a871d2ef292676a3c9d4cc1fb912e5db.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы project-менеджера.</name>
+<description>Вы освоите востребованную профессию, изучите инструменты и методологии работы и сможете начать зарабатывать как менеджер проектов за 2 месяца</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ba45e942-18a0-5b79-9cdb-6213448d5f6f" available="true">
+<url>https://spbsot.by/business_school/financial-management-courses</url>
+<price>516</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/03/7dba4a761363e14ae1b47aaaecdd2c0e.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы финансового менеджмента.</name>
+<description>Научись успешно управлять финансами компании и получи продвижение по карьерной лестнице</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="41285970-26b6-da96-fc33-6316fa061abd" available="true">
+<url>https://spbsot.by/photoschool/video-foto-prof</url>
+<price>860</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/03/ff3ed3a3263790ade50d10a4365307c8.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-видеограф.</name>
+<description>Ретушируйте фото в Photoshop и Lightroom, научитесь съемке и обработке видео в Premiere Pro и After Effects. &lt;b&gt;Начните профессионально создавать фото- и видеоконтент для м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="242708ba-0416-3993-7080-6316fa550860" available="true">
+<url>https://spbsot.by/photoschool/foto-prof</url>
+<price>550</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/09/0609e094df6adb2459ad0bae2fa56896.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Фотограф-ретушер от нуля до профи.</name>
+<description>Вы научитесь цветокоррекции без искажения, созданию и применению пресетов для обработки фото в 1 клик, освоите beauty-ретушь. &lt;b&gt;Пополните портфолио фото-ретушью в журнальн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e9e9d967-35a3-de79-1ced-63232a134e27" available="true">
+<url>https://spbsot.by/photoschool/family-photographer-prof</url>
+<price>1100</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/09/9310c78a4c496ca852e70c9ec4d69841.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Семейный фотограф.</name>
+<description>Вы научитесь настраивать оборудование, проводить съемку в студии, находить контакт с детьми и родителями. Сможете проводить семейные фотосессии, обрабатывать снимки и &lt;b&gt;за...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="2" available="true">
+<url>https://spbsot.by/photoschool/photographer-advanced3</url>
+<price>150</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/09/b5a3391bde7d4900ea8b0e164827bf86.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессиональной фотографии.</name>
+<description>Вы научитесь проводить студийные и стилизованные съемки, работать с любым освещением и моделями. Соберете &gt;10 работ для портфолио и сможете организовывать &lt;b&gt;профессиональн...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="eba68e23-7200-1d2f-5702-604a325b75e6" available="true">
+<url>https://spbsot.by/photoschool/shkola-modelej-1</url>
+<price>240</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/05/478db1a6c2be11f96b53f720d5b1ab49.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы позирования.</name>
+<description>Практический курс, на котором вы научитесь ‌позировать‌ ‌для‌ ‌фото ‌и‌ ‌уверенно‌ ‌дефилировать‌. Сможете участвовать в модных проектах, съемках, &lt;b&gt;обретете уверенность и...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="15ee17f4-ee18-b85e-6511-62ac6e629385" available="true">
+<url>https://spbsot.by/photoschool/commercial-photography-courses</url>
+<price>400</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/07/4f40ccdbc25304a2ae24b47c02d09a9d.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы предметной фотографии.</name>
+<description>Прокачайте навыки предметной фотографии: ознакомьтесь с оборудованием, научитесь организовывать фотосессию со спецэффектами, снимайте сложные предметы и &lt;b&gt;соберите професс...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8c8cf132-3538-913e-3698-6148858e02fd" available="true">
+<url>https://spbsot.by/tvschool/director-prof</url>
+<price>858</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/09/99f431767f6d40bbc2a075130c801cdc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Режиссер.</name>
+<description>&lt;b&gt;Вы пройдете все этапы создания кинопроекта:&lt;/b&gt; от идеи, питчинга и работы над сценарием до подбора актеров и постпродакшена. На курсе вы напишите свой первый сценарий, ...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="1bafe548-3950-565d-99bf-6165a409c78f" available="true">
+<url>https://spbsot.by/tvschool/ingstagram-blogger-prof</url>
+<price>660</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/01156c2021036140fae8f2a4a74770c4.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Инстаграм-блогер.</name>
+<description>Научитесь создавать качественный контент и прокачивать аккаунты в Instagram</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="f50e0d69-640d-8a54-10d4-63762f2f3c87" available="true">
+<url>https://spbsot.by/tvschool/entertainer-prof</url>
+<price>782</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/11/6426eaf5b1d1ba964e343c74e7bd18dd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Конферансье.</name>
+<description>Вы научитесь писать сценарии мероприятий и удерживать внимание публики, поставите четкую речь. Сможете без страха выступать перед большой аудиторией и проводить &lt;b&gt;мероприя...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="9087eb4c-f29b-7bd6-1cc9-605350af603b" available="true">
+<url>https://spbsot.by/tvschool/videograf</url>
+<price>380</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/03/21f0b67086954ecc02b3eb589f1934bc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы видеосъёмки и монтажа.</name>
+<description>Вы научитесь снимать атмосферные рекламные ролики и монтировать их в &lt;b&gt;программе Adobe Premiere Pro.&lt;/b&gt; Сможете создавать цепляющие видео для своего блога или делать на з...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="98f5b48d-e67e-436a-26b6-5d2857ce60e8" available="true">
+<url>https://spbsot.by/tvschool/instagram-blogger-1</url>
+<price>5600</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/08/85a7d0873e65f9f6488d04499ad05929.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы продвижения в Инстаграм.</name>
+<description>Создавайте актуальный контент и сделайте Инстаграм эффективным каналом продаж</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ec3a58d2-5ecf-727b-0fa2-604b7b854aa8" available="true">
+<url>https://spbsot.by/tvschool/journalist</url>
+<price>300</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/03/1c6bd3ae911a85f2c53b594df6c99fbc.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы журналистики.</name>
+<description>Практический курс, на котором вы научитесь &lt;b&gt;писать новостные и рекламные тексты,&lt;/b&gt; готовить репортаж и проводить интервью. Научитесь писать увлекательные статьи на зака...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="44" available="true">
+<url>https://spbsot.by/tvschool/screenwriter</url>
+<price>195</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/5618744da56c52c9f71c75e62538b611.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы сценаристов.</name>
+<description>Практический курс, на котором вы научитесь придумывать сюжеты и оригинальных персонажей, &lt;b&gt;узнаете секреты создания захватывающих историй&lt;/b&gt; и напишите 5 разных сценариев...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="31" available="true">
+<url>https://spbsot.by/tvschool/kursy-zvukooperatorov</url>
+<price>250</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/19cd40388ff8a1229a729a3eb2e88c66.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы звукорежиссёров.</name>
+<description>Научитесь грамотно работать со звуком! Создавайте звуковые эффекты при помощи специальных инструментов!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="123" available="true">
+<url>https://spbsot.by/tvschool/kursy-zvukooperatorov_2</url>
+<price>250</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/5c0b8e46cb8bb8d52e31dae7c0e9f9e4.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы звукорежиссёров.</name>
+<description>Создавайте собственные готовые звукозаписи! Монтируйте, синтезируйте и сводите звук самостоятельно!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="124" available="true">
+<url>https://spbsot.by/tvschool/sound-producer</url>
+<price>450</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/12/b1db462f0190a66464f3e6c3c280ec15.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Звукорежиссер.</name>
+<description>&lt;b&gt;Полное погружение в профессию за 1,5 месяца!&lt;/b&gt; Вы получите опыт работы в реальной студии звукозаписи, реализуете свой первый музыкальный проект от идеи и обработки зву...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="8c3cc9d7-3874-a80b-ab85-60549bc0458a" available="true">
+<url>https://spbsot.by/tvschool/speaker</url>
+<price>320</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/04/602184282c637f98549a4cb30d9f0e70.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы дикторов и создания подкастов.</name>
+<description>На курсе вы запустите свой подкаст, узнаете, как сделать проект заметным для слушателей, как продвигать и монетизировать его. &lt;b&gt;Вы освоите технические навыки и начнете пол...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="a2afd9e2-6dcd-ea35-9b1a-629f237a8358" available="true">
+<url>https://spbsot.by/tvschool/dubbing-courses</url>
+<price>370</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/07/1e88f0dde1fec221542b70c6a3f28134.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы актерского дубляжа и озвучивания.</name>
+<description>&lt;b&gt;Начните зарабатывать дубляжом:&lt;/b&gt; записывайте озвучку фильмов, сериалов, книг. Научитесь работать с микрофоном, читать с листа, управлять диапазоном своего голоса и син...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="46" available="true">
+<url>https://spbsot.by/styleschool/visage-style</url>
+<price>390</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/10/4e4a0e33ad4854fb0fd305ff8a6bbcba.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия визажист .</name>
+<description>Изучите все секреты макияжа от А до Я всего за 15 занятий! Научитесь зарабатывать деньги благодаря любимому делу!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="3" available="true">
+<url>https://spbsot.by/styleschool/visage</url>
+<price>210</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/02/f52e7c2f0447a423cc8101217e6690c1.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы визажистов для начинающих .</name>
+<description>Курс для начинающих, где вы изучите основы создания макияжа. Совместно с преподавателем подберёте базовый набор кистей и косметики и научитесь создавать традиционные виды м...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="4" available="true">
+<url>https://spbsot.by/styleschool/visage-advanced</url>
+<price>280</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2020/10/c39710190a3daaf342e34fc3757bace5.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы профессионального макияжа .</name>
+<description>На второй ступени у вас будет возможность отточить навыки работы в карандашной технике, а так же научиться создавать классические виды макияжа: smoky eyes, свадебный и сало...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="e63402b8-e280-8293-86b4-5daef60e9ab0" available="true">
+<url>https://spbsot.by/styleschool/perfect_eyebrows</url>
+<price>100</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/10/b0c7740d419ad8314b01d71223f7fe22.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Коррекция и окрашивание бровей .</name>
+<description>Пройдя обучение на курсах коррекции и окрашивания  бровей, вы научитесь подбирать цвет и моделировать форму бровей, исходя из индивидуальных особенностей клиента.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="b2e27876-c0ae-d9dc-dc9c-60d981bbfd0c" available="true">
+<url>https://spbsot.by/styleschool/hair-first</url>
+<price>248</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/07/61d90311e01abe7f8f8219e3cdd8bbfd.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы причесок и укладок.</name>
+<description>Научись делать стильные прически и укладки любой сложности и собери работы для портфолио</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="130" available="true">
+<url>https://spbsot.by/styleschool/hair-advanced2</url>
+<price>80</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/08/7233254e194bbd376ccc7cba24c4f14f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы косоплетения .</name>
+<description>Последняя ступень курса позволит Вам освоить свадебные прически. Вы научитесь украшать их лентами, стразами, бусами, а также живыми цветами. Последнее занятие будет посвяще...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="ee0bcc2c-227d-ea5e-bb9c-60d9e149778e" available="true">
+<url>https://spbsot.by/styleschool/hair-style</url>
+<price>361</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2021/02/1d2e75959ec61af07bae40061f797b14.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия стилист по прическе .</name>
+<description>Научитесь создавать прически и укладки любой сложности</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="18" available="true">
+<url>https://spbsot.by/styleschool/image-maker/imagemaker</url>
+<price>150</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/02/97d7581bcdcc71dd3d0c801049378e7e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистов для начинающих .</name>
+<description>Базовый курс по стилю, который откроет для вас мир моды по-новому! На этой ступени у вас будет возможность изучить главные составляющие модного образа и разработать свой ин...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="23" available="true">
+<url>https://spbsot.by/styleschool/image-maker/imagemaker-advanced</url>
+<price>249</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/02/946f28bd1dd241ec10d3397f5ca7b034.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы эффективного шоппинга.</name>
+<description>Вторая ступень позволит Вам на практике применить все полученные знания: совместно с преподавателем Вы отправитесь на шопинг, где под руководством профессионала сможете под...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="25" available="true">
+<url>https://spbsot.by/styleschool/image-maker/imagemaker3</url>
+<price>150</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/02/0c8f7ca073b32a5bf5fbfc60dac8853f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы стилистики на практике.</name>
+<description>Продвинутый курс по стилю, где вы научитесь подбирать одежду не только себе, но и другим. Финалом курса станет итоговая фотосъёмка разработанных вами образов.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="90" available="true">
+<url>https://spbsot.by/styleschool/image-maker</url>
+<price>360</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/02/7692caf3ea904d30751ac987fb3dac8e.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Стилист-имиджмейкер .</name>
+<description>Курс даст вам не только теоретические знания о мире моды, но и практические навыки в подборе одежды себе и другим.</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="21" available="true">
+<url>https://spbsot.by/styleschool/greasepaint</url>
+<price>170</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/a4cc47e65c42ccfee8583d11ee3b59f8.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>КУРСЫ ГРИМЕРА .</name>
+<description>Аквагрим, киногрим, грим, меняющий внешность — все это вы будете уметь делать после прохождения курса!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="321" available="true">
+<url>https://spbsot.by/risovanie-kaligrafii/kalligrfiya-2</url>
+<price>210</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2023/01/cc138ee43d046da02d16d6e527be76eb.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы леттеринга для начинающих.</name>
+<description>За 3 недели обучения вы освоите свадебный и ресторанный леттеринг, будете практиковаться в создании стильных надписей, соберете портфолио из работ на курсе и превратите &lt;b&gt;...</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="93496d5f-395a-7c7d-f5d3-6396e1462a54" available="true">
+<url>https://spbsot.by/culinary_school/confectioner-prof</url>
+<price>1870</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2022/03/9a90319404cb2d4b99b62224b5cd8268.png</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Профессия Шеф-кондитер.</name>
+<description>Готовьте десерты любой сложности: от капкейков до RAW-тортов и начните карьеру шеф-кондитера</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="73" available="true">
+<url>https://spbsot.by/for_children/masterskaja-tv</url>
+<price>1200</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2018/02/11929e70958291872286d9a0d9033b58.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Школа телевидения для детей.</name>
+<description>Станьте настоящим крутым телевизионщиком! Узнайте, как делаются популярные шоу и телепрограммы!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="50" available="true">
+<url>https://spbsot.by/for_children/child-actor</url>
+<price>160</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2017/03/9a1b7affe133745b3d65d70807837e9f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы актёрского мастерства.</name>
+<description>Видите себя на сцене и мечтаете поступить в театральный? Пройдите обучение и обретите уверенность в себе!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="113" available="true">
+<url>https://spbsot.by/for_children/tv-and-speech</url>
+<price>220</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2017/03/302701373f7c60ef4ff28a2378d5c019.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тележурналистика. Техника речи.</name>
+<description>Мечтаешь стать тележурналистом и познакомиться с процессом работы на телевидении? Запишись на курс «Тележурналистика. Техника речи» и изучи интересную профессию изнутри!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="118" available="true">
+<url>https://spbsot.by/for_children/child-tv</url>
+<price>220</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/1f4b58d913f50d1064576a72bd41ca78.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Тележурналистика. Создание передачи.</name>
+<description>Узнайте секреты профессионалов телеиндустрии уже через 12 занятий! Воспользуйтесь уникальным шансом поучаствовать в подготовке и съемках авторской телепередачи!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="74" available="true">
+<url>https://spbsot.by/for_children/child-animation</url>
+<price>160</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/f043748cd9715b2d57af08280b75ab3f.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы анимации для детей.</name>
+<description>Узнай, как собственноручно создать мультфильм, уже через 6 занятий! Выдумай и активизируй собственного мультгероя!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+<offer id="57" available="true">
+<url>https://spbsot.by/for_children/child-photo</url>
+<price>160</price>
+<currencyId>BYN</currencyId>
+<categoryId>1</categoryId>
+<picture>https://spbsot.by/files/2016/07/c6ad361142a28f3747ef0f3dcf8271ac.jpg</picture>
+<store>true</store>
+<pickup>true</pickup>
+<delivery>false</delivery>
+<name>Курсы фотографии .</name>
+<description>Имеешь талант фотографа, но не знаешь, с чего начать? Приходи на курс «Фотография для детей» и научись делать профессиональные снимки, как настоящий мастер!</description>
+<sales_notes>Есть предоплата</sales_notes>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

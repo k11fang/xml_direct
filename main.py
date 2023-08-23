@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+import requests
 
 videoforme_cities = [
     'moskva',
@@ -105,11 +102,31 @@ ecolespb_cities = [
 ]
 
 def main():
+    #  Цикл МШП
 
+    # for city in videoforme_cities:
+    #     xml = requests.get(f'https://videoforme.ru/spbsot_{city}_yml.xml')
+    #     xml.encoding = 'utf-8'
+    #     with open(city+'-mshp.xml', 'wb') as f:
+    #         f.write(xml.content)
+    # xml = requests.get('https://videoforme.ru/spbsot_yml.xml')
+    # xml.encoding = 'utf-8'
+    # with open('spb-mshp.xml', 'wb') as f:
+    #     f.write(xml.content)
 
+    #  Цикл Эколь
 
-# Press the green button in the gutter to run the script.
+    for city in ecolespb_cities:
+        xml = requests.get(f'https://ecolespb.ru/spbsot_{city}_yml.xml', verify=False)
+        xml.encoding = 'utf-8'
+        with open(city+'-ecole.xml', 'wb') as f:
+            f.write(xml.content)
+    xml = requests.get('https://ecolespb.ru/spbsot_yml.xml', verify=False)
+    xml.encoding = 'utf-8'
+    with open('spb-ecole.xml', 'wb') as f:
+        f.write(xml.content)
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    main()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
